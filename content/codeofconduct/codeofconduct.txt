@@ -1,0 +1,16 @@
+Title: The Smashing Code Of Conduct
+----
+
+Intro:
+
+At SmashingConf we aim to provide a <strong>welcoming environment</strong> that is memorable for all the right reasons. Our event has inclusivity at its very heart, and this centers around treating all individuals with <strong>respect and tolerance</strong>, regardless of gender, sexual orientation, age, disability, ethnicity or religious views.
+
+Be considerate. Be kind. Be <em>smashing</em> to each other. Please treat each other as you would expect and wish to be treated.
+
+We're very proud of the environment that we've created at all previous SmashingConfs – our events have a solid track record and reputation for being welcoming and friendly. However, if you do have a problem, see that someone else is having a problem, or have any other concerns, please contact a member of conference staff, who will be clearly visible, wearing our “Crew” T-shirts. They will be able to quickly contact (link:mailto:mac@smashingconf.com text: Mariona), our conference producer, who will meet with you right away and handle the issue immediately.
+
+<strong>Harassment of any kind will not be tolerated</strong> at SmashingConf. This includes offensive verbal comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+
+Participants asked to stop any harassing behavior must immediately comply. If a participant engages in any of the aforementioned behavior, we may take any action we deem appropriate, from warning the offender to immediately expelling the offender from SmashingConf with no refund.
+
+This document is based on <a href="http://confcodeofconduct.com/">codeofconduct.com</a>, licensed under a <a href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>.

@@ -1,0 +1,21 @@
+// navigation.less
+
+// .m = menu
+.m a:hover,
+.m a.active {
+  color: #fff;
+  background: @blue;
+  // could be @conf, would work perfectly
+  // background: @conf;
+
+  border: 0;
+}
+
+.m li:last-child a:hover,
+.m li:last-child a:focus {
+  background-color: @red + #111;
+}
+
+.m li:last-child a:active {
+  background-color: @red - #111;
+}

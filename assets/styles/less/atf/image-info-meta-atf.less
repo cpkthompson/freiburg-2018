@@ -1,0 +1,60 @@
+// image-info-meta-atf.less
+
+// i = image
+.i {
+  width: 21%;
+
+  margin-right: 4%;
+
+  img {
+    margin-top: .3125em; // 5 / 16
+  }
+}
+
+// nf = info
+.nf {
+  width: 47%;
+
+  margin-right: 5%;
+}
+
+// mt = meta
+.mt {
+  width: 23%;
+
+  padding-top: @22;
+
+  dd {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+
+    padding-bottom: @22;
+  }
+}
+
+// i = image // nf = info // mt = meta
+.i,
+.nf,
+.mt {
+  float: left;
+}
+
+
+// iiml = imageinfometa list
+.iiml {
+  list-style: none;
+
+  margin-top: @22 * 2;
+  padding-top: @22 * 2;
+
+  border-top: .3125em solid @conf-lighter;
+
+  li {
+    text-overflow: ellipsis;
+
+    margin-bottom: @22 * 2;
+    padding-bottom: @22;
+
+    border-bottom: .3125em solid @conf-lighter;
+  }
+}

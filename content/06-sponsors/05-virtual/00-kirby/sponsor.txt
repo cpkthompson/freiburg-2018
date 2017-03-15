@@ -1,0 +1,15 @@
+Title: Kirby
+
+----
+
+Text: 
+
+Kirby is a fantastic CMS for designers, architects, photographers or anybody else interested in building their own website or online portfolio. It gives you great flexibility without having to handle complicated installation steps or fighting with databases. It has a very easy to use template system, so it's perfect for any Web designer out there with some basic PHP knowledge. We love and use Kirby, developed by our good friend Bastian Allgeier, and you will love it, too.
+
+----
+
+Link: http://getkirby.com
+
+----
+
+Twitter: @bastianallgeier

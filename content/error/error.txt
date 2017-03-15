@@ -1,0 +1,15 @@
+Title: Error
+
+----
+
+Intro: 
+
+We are very sorry, but we haven't found the page that you have requested. If you think that there is something very wrong with the site, please (link: mailto:hello@smashingconf.com text: send us an email).
+
+----
+
+Text: 
+
+Please go back to the (link: / text: homepage →)
+
+****

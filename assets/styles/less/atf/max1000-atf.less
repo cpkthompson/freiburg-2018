@@ -1,0 +1,68 @@
+// max1000-atf.less - 1000px and below
+@media screen and (max-width: 62.5em) {
+
+  body {
+    overflow-x: hidden;
+  }
+
+  h3 {
+    letter-spacing: .08em;
+  }
+
+  // pg = page
+  .pg,
+  // m = menu
+  .m {
+    width: 100%;
+  }
+
+  // pg = page
+  .pg {
+    border: .08em solid #fff;
+    border-bottom: 0;
+
+    border-radius: 0;
+  }
+
+  // m = menu
+  .m li {
+    width: 14%;
+
+    &:first-child {
+      width: 14%;
+    }
+
+    &:last-child {
+      width: 15%;
+    }
+  }
+
+  // m = menu
+  .m a {
+    font-size: .75em; // 12 / 16 (navigation-whistler.less)
+
+    padding: .6667em 0 .5833em; // 8 0 7 / 12
+  }
+
+  // hi = home-intro // ilk = image-link
+  .hi .ilk {
+    padding-bottom: .625em; // 10 / 16
+  }
+
+  // iol = intro lefty
+  .iol {
+    width: auto;
+  }
+
+  // hsh = hashtag
+  .hsh {
+    margin-left: 0;
+
+    font-size: 1em;
+  }
+
+  // iol = introlefty
+  .iol {
+    float: none;
+  }
+}

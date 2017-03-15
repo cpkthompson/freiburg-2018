@@ -1,0 +1,45 @@
+// profile-atf.less
+
+// prf = profile // iim = imageinfometa
+.prf .iim {
+  margin-bottom: @22 * 4;
+}
+
+// i = image
+.prf .i {
+  margin-top: .08em; // 1 / 16
+}
+
+// mt = meta
+.prf .mt {
+  padding-top: .3125em; // 5 / 16
+}
+
+// so = sold out
+.prf .so p {
+  z-index: 2;
+
+  &::before {
+    content: "SOLD OUT";
+
+    font-size: @60;
+    text-align: center;
+    white-space: nowrap;
+
+    top: 30%;
+    left: 0;
+    right: .5em; // 30 / 60
+    z-index: 1;
+
+    color: #eb6933;
+
+    opacity: .4;
+
+    transform: rotate(-8deg);
+  }
+}
+
+// tk = talk
+.tk {
+  padding-top: @22;
+}

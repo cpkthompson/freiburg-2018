@@ -1,0 +1,72 @@
+Title: Smart RWD Patterns & Front-End Techniques
+
+----
+
+Trainer: Vitaly Friedman
+
+----
+
+Intro:
+
+**Full-day workshop &bullet; Sept. 14th**
+In this full-day workshop, Vitaly Friedman, editor-in-chief of Smashing Magazine, will present clever front-end tricks and strategies for building responsive websites — with pattern libraries, SVG, Flexbox, CSS Grids, Accessibility, responsive images, performance tricks, service workers and HTTP/2. Yes, all of it.
+
+We will be looking into a strategy for crafting fast, resilient and flexible responsive design systems by utilizing all of those wonderful shiny web technologies we have available today. We'll also talk about dealing with legacy browsers and will cover a few dirty little techniques that might ensure that your responsive websites will stay relevant, flexible and accessible in the years to come.
+
+----
+
+More: 
+With HTTP/2, Service Workers, Responsive Images, Flexbox, CSS Grid, SVG, WAI-ARIA roles and Font Loading API now available in browsers, we all are still trying to figure out just the right strategy for designing and buildings responsive websites efficiently. We want to use all of these technologies and smart processes like atomic design, but how can we use them efficiently, and how do we achieve it within a reasonable amount of time?
+
+### In this workshop, you'll learn:
+                                   
+- Effective tools and techniques that can support and enhance your personal workflow when working on any responsive design project,
+- Front-end strategies for scalable, resolution-independent graphics and maintainable CSS code,
+- Responsive design patterns and innovative approaches to designing "responsive modules" such as tables, calendars, mega-drop-downs, dashboards, maps, forms, lightboxes and filters,
+- Testing, debugging and maintenance techniques for responsive sites as well as lessons learned from Smashing Magazine's own ongoing refactoring and performance optimizations,
+- An overview of clever practical techniques for improving the (perceived and actual) performance of responsive sites,
+- Technical issues (and solutions) for responsive advertising and responsive email newsletters,
+- How to optimize responsive websites for better mobile experience and offline experience, and
+- How the processes should adapt in terms of the project management, deliverables, performance budgets, team organisation and strategy.
+
+### Who is it for?
+
+This workshop is intended for designers, developers and everybody else who is dealing with responsive design regularly or wants to better understand responsive design in general. You should at least be familiar with some basics of responsive design, HTML5 and CSS.
+
+### What hardware/software do you need?
+
+To get the most out of the workshop, you'll need to bring a laptop with your preferred text editor.
+
+<hr />
+
+### Location
+Historisches Kaufhaus  
+Münsterplatz 24
+79098 Freiburg im Breisgau
+Germany
+(link: https://www.google.de/maps/place/Historisches+Kaufhaus/@47.9952591,7.8510095,17.57z/data=!4m2!3m1!1s0x0000000000000000:0x2a59897493f50c9e text: Google Maps)
+
+### Schedule for Wednesday, Sept 14th
+8:30 – Doors open, Registration
+9:00 – Introduction & Kick-off
+11:00 – Coffee Break
+12:30 – Lunch
+13:30 – Afternoon Session
+15:00 – Coffee Break
+17:00 – The End, Networking
+
+----
+
+Twitter:
+
+@smashingmag
+
+----
+
+Link:
+
+https://www.smashingmagazine.com
+
+----
+
+Sold-out: yes

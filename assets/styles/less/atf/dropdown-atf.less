@@ -1,0 +1,136 @@
+// dropdown-atf.less
+
+// ddc = dropdown container
+.ddc {
+  line-height: @22;
+  text-align: right;
+
+  top: .625em; // 10 / 16
+  right: @60;
+
+  // text in the dropdown
+  a {
+    border: 0;
+  }
+}
+
+// wdd = wrapper dropdown
+.wdd {
+  margin: -.75em auto 0; // 12 / 16
+  padding: .75em @60 .75em 0; // 12 60 12 0 / 16
+
+  // to keep all on one line even in the dropdown
+  width: 17em;
+
+  background: @conf-light;
+  border-radius: .3125em; // 5 / 16
+
+  cursor: pointer;
+  outline: 0;
+
+  &::after {
+    content: "";
+    width: 0;
+    height: 0;
+
+    top: 29%;
+    right: .9375em; // 15 / 16
+
+    border: .8125em solid transparent; // 13 / 16
+    border-top-color: @red;
+  }
+
+  // on click we add the class act (active) to the wdd
+  &.act {
+    color: #fff;
+    background: @conf;
+
+    border-radius: .3125em .3125em 0 0; // 5 5 0 0 / 16
+    box-shadow: none;
+
+    // ddu = dropdown ul
+    .ddu {
+      max-height: 25em; // 400 / 16
+
+      border-bottom: .08em solid @conf;
+    }
+
+    &::after {
+      border-top-color: #fff;
+    }
+  }
+}
+
+// ddu = dropdown ul
+.ddu {
+  max-height: 0;
+
+  top: 100%;
+  left: 0;
+  right: 0;
+
+  margin: 0 0 1.375em 0; // 0 0 22 0 / 16
+
+  border: .08em solid @conf;
+  border-top: 0;
+  border-bottom: 0;
+
+  list-style: none;
+
+  background: #fff;
+  border-radius: 0 0 .3125em .3125em; // 5 / 16
+
+  a {
+    box-sizing: border-box;
+
+    width: 100%;
+    padding: 1em @60 1em 0;
+
+    border-bottom: .08em solid @lightgray;
+  }
+
+  li:last-of-type a {
+    border: 0;
+  }
+}
+
+// rbt = redblacktext
+.rbt {
+  font-size: 1.75em; // 28 / 16
+  line-height: 1em; // 30 / 16
+  text-transform: uppercase;
+
+  img {
+    float: right;
+
+    margin-left: .125em
+  }
+}
+
+// nojsdd = no javascript dropdown
+.nojsdd {
+  padding: .625em @60 / 2; // 10 30 / 16
+  margin-bottom: 1.25em; // 20 / 16
+
+  border: .08em solid @underline;
+
+  background-color: @conf-light;
+
+  border-radius: .5em; // 8 / 16
+
+  .wdd {
+    background: none;
+  }
+}
+
+.date {
+  font-size: .875em;
+
+  sup {
+    font-size: .6875em; // 11 / 16
+
+    top: -.45em; // 5 / 11
+
+    padding: 0 .1818em 0 .0909em; // 0 2 0 1 / 11
+  }
+}

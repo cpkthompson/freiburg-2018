@@ -1,0 +1,27 @@
+Title: Alla Kholmatova
+
+----
+
+Bio:
+
+Alla is an interaction designer at an open education startup, _FutureLearn_. She's interested in how design relates to other disciplines, including linguistics, psychology, and architecture. Alla is an occasional contributor to design publications, such as _A List Apart_, and an owner of several vintage robots.
+
+----
+
+Talk: Atoms, Modules And Other Fancy Particles
+
+----
+
+Description:
+
+As many of us move away from designing pages toward designing systems, one concept keeps coming up: modularity. Modular systems promise to be scalable, maintainable, and easier to work with – but what if the “system” we end up with doesn’t perform as well as we expect? What if the result is disappointing – an overly simplistic “patched together” design, that’s not nearly as scalable and adaptable as we’d hoped?
+
+In this talk we’ll look at what it actually means to have a resistant design system and a shared pattern language in your team. We’ll talk through the steps to get there, as well as mistakes, stumbling blocks, and lessons learnt.
+
+----
+
+Link: http://www.craftui.com
+
+----
+
+Twitter: @craftui

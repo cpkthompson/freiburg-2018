@@ -1,0 +1,74 @@
+Title: Reaching For Particles On The Web: Modular Design Workshop
+
+----
+
+Trainer: Alla Kholmatova
+
+----
+
+Intro: 
+
+**Full-day workshop &bullet; June 13th**
+We've all been there: once a shiny, new, thoroughly crafted website becomes outdated, inconsistent, bloated and expensive to maintain.
+
+We often talk about atoms, molecules and templates, yet how can we make sense of all of those fancy particles in our day-to-day work? In her new workshop, Alla Kholmatova, the interaction designer behind the open education platform FutureLearn, explores how we can **design and build responsive interfaces that would stand the test of time**. 
+
+----
+
+More: 
+
+Can we continue scaling the platform, without losing its original essence and making it feel like it’s been patched together? Can we keep our code clean, flexible and future-proof long-term? Can we be prepared for any new requirements — however unpredictable they might be (adapting a website for VR, for example?). Yes, we can — by **moving away from designing pages towards designing systems**.
+
+### What you'll learn:
+- How to establish a modular system using **atomic design**,
+- How to adapt atomic design to suit your team’s needs,
+- How to define and evolve **design patterns**,
+- How to establish a **shared design language** within your team,
+- How to validate and **test patterns and modules**,
+- How to combine the patterns together in a way that doesn’t break the whole,
+- How to organize designs and structure code in a modular fashion,
+- How to **create a living pattern library**,
+- How to make sure your design system can cope with new requirements,
+- How to establish a **"modular" thinking culture** in mid-size to large teamsm.
+
+You'll also take away a few common stumbling blocks, a few lessons learned and a plethora of practical, hands-on tips on establishing a pattern language within your company.
+
+We won’t be touching too much on code; instead, the workshop will focus on design techniques and practical ways of creating a **scalable, flexible and modular design system** — applicable to both small and large web projects.
+
+### Who is it for?
+The workshop is intended for visual, interaction and UX designers as well as front-end developers who are still seeking for just the right responsive design process and deliverables.
+
+### What hardware/software do you need?
+A laptop with Sketch/Photoshop/Text editor or another design tool of your choice. Come well rested and enthusiastic with your favorite stationary at hand. 
+
+<hr />
+
+### Location
+Microsoft Technology Center
+11 Times Square, **7th Floor**
+(Between 41st & 42nd Streets on 8th Ave.)
+New York, NY, 10036
+(link: https://www.google.com/maps/place/Microsoft+Technology+Center/@40.7566552,-73.989987,20.25z/data=!4m5!1m2!2m1!1s11+Times+Square!3m1!1s0x0000000000000000:0xcb6b70d1bb597301 text: Google Maps)
+
+### Schedule for Monday, June 13th
+8:30 – Doors open, Registration
+9:00 – Introduction & Kick-off
+11:00 – Coffee Break
+12:30 – Lunch
+1:30 – Afternoon Session
+3:00 – Coffee Break
+5:00 – The End, Networking
+
+By registering for this workshop, you'll **save $100** when buying a conference ticket, too.
+
+----
+
+Link: http://www.craftui.com/
+
+----
+
+Twitter: @craftui
+
+----
+
+Sold-out: yes

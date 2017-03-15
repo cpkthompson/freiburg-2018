@@ -1,0 +1,73 @@
+// schedule-atf.less
+
+// sh = schedule-headline
+.sh {
+  margin-top: 1.6923em; // 44 / 26 (h2)
+  padding-top: 1.6923em; // 44 / 26
+}
+
+// s = schedule
+.s {
+  width: 100%;
+
+  border-spacing: 0;
+
+  margin-bottom: @22 * 3;
+
+  th,
+  td {
+    vertical-align: top;
+
+    padding: @22 * 2 0;
+  }
+
+  th {
+    padding: @22 * 2 @22;
+
+    width: 5%;
+  }
+
+  // tx = text
+  .tx th {
+    padding: @22;
+  }
+
+  .tx td {
+    padding: @22 0;
+  }
+
+  // i = image
+  .i {
+    margin: 0 0 1.25em; // 0 0 20 / 16
+
+    width: 100%;
+  }
+}
+
+// tnf = talk info
+.tnf {
+  float: left;
+
+  width: 62%;
+
+  margin-right: 5%;
+}
+
+// spnf = speaker info
+.spnf {
+  text-overflow: ellipsis;
+
+  float: left;
+
+  width: 33%;
+
+  h3 {
+    white-space: nowrap;
+
+    margin-bottom: @22;
+  }
+
+  img {
+    max-width: 12.5em; // 200 / 16
+  }
+}

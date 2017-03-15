@@ -1,0 +1,52 @@
+// max840-atf.less - 840px and below
+@media only screen and (max-width: 52.5em)  {
+
+  // att = attendees
+  .att tbody,
+  .att tr,
+  .att td {
+    display: block;
+
+    width: 100%;
+  }
+
+  .att tr {
+    border-bottom: .125em solid rgba(0,0,0,0.02);
+
+    padding: .5em;
+  }
+
+  .att td {
+    display: inline;
+
+    padding: 0;
+
+    &::after {
+      content: "\2022";
+      color: rgba(0,0,0,0.5);
+    }
+
+    &:last-child::after {
+      content: "";
+    }
+  }
+
+  .att br {
+    display: none;
+  }
+
+  // nwl = new letter
+  .att td,
+  .att tr.nwl td {
+    border: 0;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .att tr:first-of-type {
+    font: 0/0 a;
+
+    visibility: hidden;
+
+    height: 0;
+  }
+}

@@ -1,0 +1,86 @@
+Title: Locations
+----
+Intro:
+
+At SmashingConf, we always strive to host events in the most memorable of venues. In Freiburg, our home will be the magnificent “Kaufhaus” – a stunning, central venue that blows our audience away every year.
+
+On this page you will find the information about the venues for the workshops and for the conference. You can also check (link: http://wikitravel.org/en/Freiburg_i._Br.#b text: WikiTravel) for additional information. If anything is missing, or you have questions, please don’t hesitate to (email: hello@smashingconf.com text: contact us)!
+
+<hr />
+
+<h2>Historical Merchants’ Hall</h2>
+
+The historic <a href="http://www.historischeskaufhaus.freiburg.de/">"Kaufhaus"</a> (Merchants’ Hall, built 1520-30) is the venue for the **conference and the workshops**.
+
+<img src="assets/images/scenery.png" alt="Cartoon style scenery with the Historical Merchants Hall and the Smashing Cat celebrating the 10 year anniversary of Smashing Magazine" />
+
+It is a symbol of the importance of trade in medieval Freiburg. The municipal market, customs and financial administration building is identified as a center of trade by its arcades hall. Its façade is decorated with coats of arms and statues indicating the city’s links with the House of Habsburg.
+
+The beautiful ambience of the Historical Merchants’ Hall underlines our goal to create something special for you.
+
+<h3>Address</h3>
+
+<p>Historisches Kaufhaus<br />
+Münsterplatz 24<br />
+79098 Freiburg<br />
+<a href="https://www.google.de/maps/preview?ie=UTF-8&q=historisches+kaufhaus&fb=1&gl=de&hq=historisches+kaufhaus&hnear=0x47911b26560bd665:0x41f6bb7a5df57b0,Freiburg&cid=3051621356311743646&ei=7MYSVNGCMYPXyQP0voC4Ag&ved=0CC8QrwswAA">Google Maps</a></p>
+----
+
+Directions:
+
+## Travel Directions
+
+### By plane
+
+<div class="columns" markdown="1">
+**Basel, Switzerland**.
+One of the closest airport is the (link: http://www.euroairport.com/EN/accueil.php text: EuroAirport Basel-Mulhouse-Freiburg). The airport is only 70km away from Freiburg and offers over 450 scheduled flights per week to 50 different destinations in the whole of Europe, e.g. Berlin, Hamburg, London, Paris, Prague, Madrid, Rome, Barcelona, Stockholm, Reykjavik and many more. From the Airport you can easily take a (link: http://www.euroairport.com/EN/voyageurs.php?PAGEID=488&lang=EN text: train), (link: http://www.euroairport.com/EN/voyageurs.php?PAGEID=487 text: bus) or even a taxi. The (link: http://www.euroairport.com/EN/voyageurs.php?PAGEID=489&lang=EN text: taxi), of course, is the most expensive solution.
+
+**Strasbourg, France**.
+Also close to Freiburg is the (link: http://www.strasbourg.aeroport.fr/index.php/accueil?lang=E#2 text: Aèroport international Strasbourg). It is only about 60km from Freiburg. For information which Airline flies to this Airport, check the (link: http://www.strasbourg.aeroport.fr/index.php/airport-information/contacts/airlines?view=liste&lang=E text: list of Airlines at their site).
+
+**Karlsruhe, Germany**.
+Another way to get to us by plane is to use the (link: http://www.baden-airpark.de/startseite.html?&L=1 text: Baden-Airpark) in Karlsruhe. It is about 100km away from Freiburg and you can use the ICE train or a bus to get to Freiburg. You can also use a bus called (link: http://www.baden-airpark-express.de/ text: Baden-Airpark-Express) that is driving to Freiburg for about 20 Euros.
+
+**Zürich, Switzerland**.
+Another possible airport is (link: http://www.zurich-airport.com/desktopdefault.aspx text: Zurich Airport). Only 150km away and with a direct train connection to Freiburg, it is another good solution to get to the Smashing Conference.
+
+**Stuttgart, Germany**.
+(link: http://www.stuttgart-airport.com/sys/index.php?section_id=0&id=0&lang=1 text: Stuttgart Aiport) is about 200km away, but also good connected with Freiburg via train. Check which (link: http://www.stuttgart-airport.com/travellers-and-visitors/flight-information/airlines/ text: airlines are flying) to this airport.
+
+**Frankfurt, Germany**.
+Last but not least you can get to Freiburg by flying to (link: http://www.frankfurt-airport.com/content/frankfurt_airport/en.html text: Frankfurt Airport). Frankfurt is the biggest airport in Germany and thousands of – also international – direct flights are available to Frankfurt. The only issue with this airport concerning Freiburg is, that you have to take a train from there that needs approximately 2 hours for the 270km to Freiburg central station.
+</div>
+
+****
+
+### Traveling by train
+
+<div class="columns" markdown="1">
+The central station in Freiburg is a 10–15 minute walk away from the conference venue and the workshop venue. Since Freiburg lies within the network of the European railway system and is also an Intercity Express (ICE) station between Frankfurt and Basel, it is well accessible by rail from all directions. For example, 40 minutes from Basel or 2 hours from Frankfurt.
+
+See the following sites for detailed info:
+
+- (link: http://www.bahn.de/i/view/USA/en/index.shtml text: Website of Deutsche Bahn)
+- (link: http://www.sncf.com/en_EN/flash/ text: French railways [SNCF] via Strasbourg)
+- (link: http://www.sbb.ch/en/home.html text: Swiss railways [SBB/CFF] via Basel)
+- (link: http://www.raileurope.com/index.html text: Rail Europe)
+</div>
+
+****
+
+### Traveling by bus
+
+<div class="columns" markdown="1">
+Freiburg’s central bus station lies right next to the central train station — pretty much at the heart of the city and just a few minutes away from the Historic House of Merchants. Bus rides are available from 8€ (e.g. from Zürich) if you book some time ahead via (link: https://www.flixbus.com/bus/freiburg text: Flixbus). 
+</div>
+
+****
+
+### Parking
+
+<div class="columns" markdown="1">
+Freiburg has a huge amount of parking areas and parking garages. Most of them are in walking distance of the conference and workshop venues. Please check our (file: parking-in-freiburg.png text: little map) or check (link: http://smashed.by/parkingfreiburg text: google maps), where we marked the parking places for you as well.
+</div>
+
+****

@@ -1,0 +1,13 @@
+Title: Partners
+----
+
+Intro:
+
+Without the support of our sponsors and partners, such an event is nearly impossible to organize and run. Below you will find all the fantastic partners who are making SmashingConf happen.
+
+If you think about becoming a partner, <a href="mailto:sponsors@smashingconf.com?subject=I-love-Smashing">let’s us know</a>! We'll get back to you as soon as possible to providing you with all available options and everything you need to know to get started right away. We would love to have you on board!
+
+----
+
+ShowInFooter: yes
+

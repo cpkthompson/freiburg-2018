@@ -1,0 +1,27 @@
+Title: Impressum
+----
+Intro: 
+
+The Smashing Conference is an event brought to you by (link: http://smashingmagazine.com text: Smashing Magazine). 
+
+----
+
+Text: 
+
+## Contact Us
+
+Smashing Events GmbH
+Werthmannstr. 15
+79098 Freiburg
+Germany 
+
+Amtsgericht Freiburg: HRB 710060  
+(email: hello@smashingconf.com text: hello@smashingconf.com)
+VAT Identification Number - USt-IdNr. DE289934627
+Tel.: +49 (0)761 5565 2848 (Nadja Völker)
+
+People responsible for the content on the site (Verantwortliche für die Inhalte auf der Seite gemäß TMG): Markus Seyfferth. Managing Director (Geschäftsführer): Markus Seyfferth.
+
+Despite careful control of the content on this website, we aren't liable for the content of external links. The owner of the corresponding website is responsible for the content of linked pages.
+
+****

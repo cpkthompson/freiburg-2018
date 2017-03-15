@@ -1,0 +1,56 @@
+// max420.less - 420px and below
+@media screen and (max-width: 26.25em) {
+
+  // .io .std = intro save-the-date
+  .io .std {
+    width: 95%;
+    box-sizing: border-box;
+    padding: 3% 3% 4%;
+  }
+
+  // si = speaker image
+  .si {
+    height: 15.9375em; // 255 / 16
+
+    background-size: 7.5em; // 120 / 16
+  }
+
+  // conference tickets
+  .cft td {
+    padding-left: 0;
+    margin-bottom: 1em;
+
+    &:first-child {
+      display: inline;
+
+      padding-right: 0;
+
+      &:after {
+        content: " \2022 ";
+
+        color: @darkgray;
+      }
+    }
+
+    &:nth-child(2) {
+      text-align: left;
+
+      display: inline;
+
+      margin-left: 0;
+    }
+
+    &:nth-child(3) {
+      width: 8em;
+
+      padding-left: 1.5em;
+      padding-bottom: 1em;
+
+      vertical-align: bottom;
+    }
+  }
+
+  .f {
+    padding-bottom: 125%;
+  }
+}

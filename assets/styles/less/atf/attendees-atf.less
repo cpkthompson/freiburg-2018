@@ -1,0 +1,54 @@
+// attendees-atf.less
+
+// List from A-Z for jumping to the respective letter in the attendee list
+.io .atoz {
+  list-style: none;
+  margin: 0;
+
+  &::after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+
+  li {
+    font-size: 1.25em;
+    float: left;
+    margin: 0 .875em .5em 0;
+
+    a {
+      border: 0;
+    }
+  }
+}
+
+
+// att = attendees
+.att {
+  border-collapse: collapse;
+  width: 100%;
+
+  * {
+    box-sizing: border-box;
+  }
+
+  tr:nth-child(2n) {
+    background-color: @conf-lighter;
+  }
+
+  // nwl = new letter
+  tr.nwl {
+    background-color: @conf-light - #111;
+
+    td {
+      border-color: @conf-light - #111;
+    }
+  }
+
+  td {
+    padding: .5em 1em;
+
+    border-left: .08em solid @conf-light;
+    border-right: .08em solid @conf-light;
+  }
+}

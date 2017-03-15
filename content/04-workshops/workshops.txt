@@ -1,0 +1,32 @@
+Title: Workshops
+----
+
+Intro: 
+
+Sit in a historic venue that’s almost 500 years old and learn about the very latest in modern web design! On Wednesday, September 14th, we'll be hosting full-day workshops in our beautiful Kaufhaus venue. By registering for a workshop while buying your conference ticket, **you save $100 on the regular workshop ticket price.**
+
+----
+
+Text: 
+
+<div class="cls" markdown="1">
+
+Our workshops offer the opportunity to get to grips with new ideas and techniques in real depth, with a full day spent on the topic of your choice. It’s a great way to round off your conference experience, and lunch will be provided, too. 
+
+Join one of the intensive workshops with a limited number of seats. Tickets for the full-day workshops cost **$399* &mdash; 19% VAT and booking fees included. 
+
+By registering for a workshop while buying your conference ticket, **you save $100** on the regular workshop ticket price. 
+
+Please notice that the maximum capacity of each workshop is 30 attendees. A computer will **not** be provided, so please bring your own laptop to the workshop. 
+
+**(link: registration text: Get your workshop ticket now! class: register)**
+
+Workshops include...
+
+- Snacks and drinks during the whole day
+- Tea and coffee
+- Lunch
+- Paper and pen/pencil
+
+
+</div>

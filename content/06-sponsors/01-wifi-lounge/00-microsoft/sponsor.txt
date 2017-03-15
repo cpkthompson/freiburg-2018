@@ -1,0 +1,16 @@
+Title: Microsoft Edge Dev
+
+----
+
+Text:
+
+The Edge team presents (link: https://dev.microsoftedge.com/ text: Microsoft Edge Dev), a collection of free tools and resources to make supporting Edge and IE a snap. You can (link: https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/ text: download free Virtual Machines) for all supported versions of Edge and IE, browse (link: https://status.microsoftedge.com/ text: our open roadmap) and vote on the standards that matter to you, search and submit issues in (link: https://bugs.microsoftedge.com/ text: our brand new open bug database), or connect directly with the team on (link: https://github.com/microsoftedge text: GitHub) or (link: https://twitter.com/msedgedev text: Twitter). Spend less time testing, and more time building what’s next.
+
+
+----
+
+Link: http://aka.ms/msedgedev
+
+----
+
+Twitter: @MSEdgeDev

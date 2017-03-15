@@ -1,0 +1,36 @@
+// links.less
+
+// c = content
+.c a:hover,
+.c a:focus {
+  border-color: @blue;
+}
+
+.c a:active {
+  color: #fff;
+  background-color: @orange1;
+
+  border: 0; // preventing the blue line from irritating the eye
+}
+
+// Preventing the orange tap-color
+// mt = meta
+.mt a,
+// ssg = speakers grid
+.ssg a,
+// ilk = image-link
+.ilk {
+  -webkit-tap-highlight-color: transparent;
+}
+
+// Logo in the header
+.h h1 a:hover,
+.h h1 a:focus,
+// ilk = image-link
+.ilk:hover,
+.ilk:focus,
+.ilk:active {
+  background: transparent;
+
+  border: 0;
+}

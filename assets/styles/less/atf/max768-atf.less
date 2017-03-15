@@ -1,0 +1,108 @@
+// max768-atf.less - 768px and below
+
+@media screen and (max-width: 48em) {
+
+  // m = menu
+  .m {
+    border-bottom: 0;
+
+    ul {
+      text-align: left;
+
+      padding: 0 @60;
+    }
+
+    li {
+      width: 100%;
+
+      border-right: 0;
+
+      &:first-child,
+      &:last-child {
+        width: 100%;
+      }
+    }
+
+    a {
+      font-size: .75em; // 12 / 16
+
+      padding: .41667em .8333em; // 5 10 / 12
+      border-bottom: .08em solid @lightgray;
+    }
+  }
+
+  // hi = home-intro
+  .hi {
+    overflow: hidden;
+
+    // ilk = image-link
+    .ilk {
+      width: 55%;
+
+      float: right;
+
+      margin: .3125em 0 .6875em .6875em; // 5 0 11 11 / 16
+
+      img {
+        width: 100%;
+        height: auto;
+      }
+    }
+  }
+
+  // cls = columns
+  .cls {
+    column-count: 1;
+  }
+
+  // iim = imageinfometa // i = image
+  .iim .i {
+    width: 29%;
+
+    margin-right: 4%;
+  }
+
+  // nf = info
+  .iim .nf {
+    width: 66%;
+  }
+
+  // mt = meta
+  .iim .mt {
+    clear: both;
+
+    margin-left: 33%;
+    padding-top: @22;
+  }
+
+  // s = schedule
+  .s h3 {
+    white-space: normal;
+  }
+
+  // tnf = talk info // spnf = speaker info
+  .s .tnf,
+  .s .spnf {
+    margin: 0;
+  }
+
+  .m,
+  .hi .io,
+  .iim .mt,
+  .s .tnf,
+  .s .spnf {
+    width: auto;
+  }
+
+  .hi .io,
+  .iim .nf {
+    margin-right: 0;
+  }
+
+  .hi .io,
+  .iim .mt,
+  .s .tnf,
+  .s .spnf {
+    float: none;
+  }
+}

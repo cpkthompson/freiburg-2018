@@ -1,0 +1,51 @@
+Title: Home
+
+----
+
+Intro:
+
+<p><strong> Update (September 29th)</strong>: There are not enough words to use for us to express our gratitude! This has been an amazing few days and we can’t wait to share another experience with you all. You really are <em>smashing</em>! Please find the video recording of the SmashingConf talks below:</p>
+
+<h3>Our Videos From Day 1</h3>
+<ul>
+<li><a href="https://vimeo.com/184235496">Dave Rupert &mdash; Vague, But Exciting</a></li>
+<li><a href="https://vimeo.com/184235576">Una Kravets &mdash; Practical Blend Modes</a></li>
+<li><a href="https://vimeo.com/184236034">Adrian Holovaty &mdash; Lessons Learned Building an Interactive Sheet Music Engine</a></li>
+<li><a href="https://vimeo.com/184236467">Lyza D. Gardner &mdash; The Pragmatists's Guide to Service Workers</a></li>
+<li><a href="https://vimeo.com/184236661">Nathan Curtis &mdash; Beyond the Toolkit: Spreading a System Across People & Products</a></li>
+<li><a href="https://vimeo.com/184234783">Aaron Gustafson &mdash; Designing the Conversation</a></li>
+<li><a href="https://vimeo.com/184236929">Monica Dinculescu &mdash; 🎉🐱✨Or: How I Didn't Fix Emoji in Chrome</a></li>
+</ul>
+
+<h3>Our Videos From Day 2</h3>
+<ul>
+<li><a href="https://vimeo.com/184237467">Paul Lloyd &mdash; Designing Systems: Theory, Practice, and the Unfortunate In-Between</a></li>
+<li><a href="https://vimeo.com/184237603">Eva-Lotta Lamm &mdash; You Can Sketch. (You Might Just Not Know It Yet.)</a></li>
+<li><a href="https://vimeo.com/184659742">Denys Mishunov &mdash; Deconstructing Performance</a></li>
+<li><a href="https://vimeo.com/184776710">Sarah Drasner &mdash; Innovative SVG Animations</a></li>
+<li><a href="https://vimeo.com/184776819">Oliver Reichenstein &mdash; On Icons</a></li>
+</ul>
+
+<hr />
+
+<h3>Helpful Resources</h3>
+<ul>
+<li><a href="https://smashingconf.com/pdf/SmashingConf-Freiburg-2016-Attendee-Pack.pdf">Attendee Pack PDF</a></li>
+<li><a href="https://smashingconf.com/attendees/">Attendee List</a></li>
+<li><a href="https://smashingconf.herokuapp.com/">SmashingConf Slack Channel</a></li>
+<li><a href="https://twitter.com/hashtag/smashingconf?f=tweets&vertical=default&src=hash">#smashingconf on Twitter</a></li>
+</ul>
+
+<p><strong>Last but not least</strong>, please mind our <a href="https://smashingconf.com/codeofconduct">Code of Conduct</a>. We are looking forward to seeing you at the conference — it’s going to be smashing! ;-) </p>
+
+----
+
+Updates:
+
+## Interested in sponsoring?
+
+<div class="cls" markdown="1">
+We pour our heart and soul into creating a friendly, memorable and inspiring community event for everybody involved. We keep the ticket prices as affordable as possible, and we’d be happy to <strong>welcome dear sponsors</strong> to make the event <em>smashing</em> in every possible way. Please (email: hello[@]smashingconf.com text: contact Mariona) and let’s make it happen!
+
+You can get all the latest updates about the event on this website, but why not let the news come to you? Feel free to (link: https://www.smashingmagazine.com/the-smashing-conference-list-join-in/ text: subscribe to our mailing list), (twitter: smashingconf text: follow us on Twitter) or search for the hashtag (link: https://twitter.com/smashingconf text: @smashingconf) to stay updated. We won’t spam you, and we’ll make sure our tweets are worth your time.
+</div>
