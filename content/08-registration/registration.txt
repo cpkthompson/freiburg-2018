@@ -18,19 +18,19 @@ Text:
 <td>Conference Ticket <span style="color: #858585;">&bullet; Early bird</span></td>
 <td class="pc">$349</td>
 <!--<td class="pc">Join the (email: waitinglist@smashingconf.com text: waiting list)</td>-->
-<td class="cta"><a class="bt sobt" >Feb 28, 14h</a></td>
+<td class="cta"><a class="bt sobt" >March 28, 14h</a></td>
 </tr>
 
 <tr>
 <td>Conference Ticket <span style="color: #858585;">&bullet; Regular Ticket</span></td>
 <td class="pc">$399</td>
-<td class="cta"><a class="bt sobt">Feb 28, 14h</a></td>
+<td class="cta"><a class="bt sobt">March 28, 14h</a></td>
 </tr>
 
 <tr>
 <td>Conference + Workshop Ticket</td>
 <td class="pc">Save $100</td>
-<td class="cta"><a class="bt sobt">Feb 28, 14h</a></td>
+<td class="cta"><a class="bt sobt">March 28, 14h</a></td>
 </tr>
 
 </tbody></table>
@@ -44,7 +44,7 @@ Text:
 <td><strong>Workshop:</strong> Vitaly on UX Patterns &bullet; (link: /workshops/vitaly-gru-friedman text: Details)...</a></td>
 <td class="pc">$399</td>
 <!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
-<td class="cta"><a alt="https://shop.smashingmagazine.com/products/vitaly-ux-design-patterns-freiburg-2017" class="bt sobt" >Feb 28, 14h</a></td>
+<td class="cta"><a alt="https://shop.smashingmagazine.com/products/vitaly-ux-design-patterns-freiburg-2017" class="bt sobt" >March 28, 14h</a></td>
 </tr>
 </tbody>
 </table>
@@ -59,21 +59,21 @@ Text:
 <td><strong>Workshop:</strong> Alla on Modular Design &bullet; (link: /workshops/alla-kholmatova text: Details)...</a></td>
 <td class="pc">$399</td>
 <!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
-<td class="cta"><a alt="https://shop.smashingmagazine.com/products/alla-kholmatova-modular-design-freiburg-2017" class="bt sobt" >Feb 28, 14h</a></td>
+<td class="cta"><a alt="https://shop.smashingmagazine.com/products/alla-kholmatova-modular-design-freiburg-2017" class="bt sobt" >March 28, 14h</a></td>
 </tr>
 
 <tr>
 <td><strong>Workshop:</strong> Umar on DevTools &bullet; (link: /workshops/umar-hansa text: Details)...</a></td>
 <td class="pc">$399</td>
 <!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
-<td class="cta"><a alt="https://shop.smashingmagazine.com/products/umar-hansa-devtools-freiburg-2017" class="bt sobt" >Feb 28, 14h</a></td>
+<td class="cta"><a alt="https://shop.smashingmagazine.com/products/umar-hansa-devtools-freiburg-2017" class="bt sobt" >March 28, 14h</a></td>
 </tr>
 
 <tr>
 <td><strong>Workshop:</strong> Rachel on CSS Grid &bullet; (link: /workshops/rachel-andrew text: Details)...</a></td>
 <td class="pc">$399</td>
 <!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
-<td class="cta"><a alt="https://shop.smashingmagazine.com/products/rachel-andrew-css-grid-freiburg-2017" class="bt sobt" >Feb 28, 14h</a></td>
+<td class="cta"><a alt="https://shop.smashingmagazine.com/products/rachel-andrew-css-grid-freiburg-2017" class="bt sobt" >March 28, 14h</a></td>
 </tr>
 
 </tbody>
