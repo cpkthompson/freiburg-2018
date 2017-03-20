@@ -1,0 +1,27 @@
+Title: Mathias Biilmann
+
+----
+
+Bio:
+
+Matt Biilmann has been building developer tools, content management systems and web infrastructure for more than a decade. He is co-founder and CEO of (link: https://www.netlify.com/ text: Netlify), a static hosting platform. In his spare time he drinks Jazz and listens to Beer, while helping to organize the SF Static Web-Tech Meetup.
+
+----
+
+Talk: The New Front-End Stack: JavaScript, APIs and Markup
+
+----
+
+Description:
+
+The emergence of Git centered workflows, around modern build tools, static site generators and modern browsers, have changed the way most front-enders work.
+
+Matt Biilmann will cover how a new stack is emerging and how this will change how web sites and web apps are built in the future.
+
+----
+
+Link: https://www.netlify.com/
+
+----
+
+Twitter: @biilmann

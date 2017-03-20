@@ -4,39 +4,15 @@ Title: Home
 
 Intro:
 
-<p><strong> Update (September 29th)</strong>: There are not enough words to use for us to express our gratitude! This has been an amazing few days and we can’t wait to share another experience with you all. You really are <em>smashing</em>! Please find the video recording of the SmashingConf talks below:</p>
+A warm welcome to the 6th annual SmashingConf Freiburg, taking place on September 11th–12th, 2017! Join us for a few special days of friendly conversation, learning and new ideas — we'd love to see you there!
 
-<h3>Our Videos From Day 1</h3>
-<ul>
-<li><a href="https://vimeo.com/184235496">Dave Rupert &mdash; Vague, But Exciting</a></li>
-<li><a href="https://vimeo.com/184235576">Una Kravets &mdash; Practical Blend Modes</a></li>
-<li><a href="https://vimeo.com/184236034">Adrian Holovaty &mdash; Lessons Learned Building an Interactive Sheet Music Engine</a></li>
-<li><a href="https://vimeo.com/184236467">Lyza D. Gardner &mdash; The Pragmatists's Guide to Service Workers</a></li>
-<li><a href="https://vimeo.com/184236661">Nathan Curtis &mdash; Beyond the Toolkit: Spreading a System Across People & Products</a></li>
-<li><a href="https://vimeo.com/184234783">Aaron Gustafson &mdash; Designing the Conversation</a></li>
-<li><a href="https://vimeo.com/184236929">Monica Dinculescu &mdash; 🎉🐱✨Or: How I Didn't Fix Emoji in Chrome</a></li>
-</ul>
+Our mission is to explore real-life web design problems and techniques that are relevant and applicable to your work straight away. A single track with 15 speakers will bring you a focused, well-curated learning experience, and an intimate environment of just 260 attendees will ensure a friendly atmosphere!
 
-<h3>Our Videos From Day 2</h3>
-<ul>
-<li><a href="https://vimeo.com/184237467">Paul Lloyd &mdash; Designing Systems: Theory, Practice, and the Unfortunate In-Between</a></li>
-<li><a href="https://vimeo.com/184237603">Eva-Lotta Lamm &mdash; You Can Sketch. (You Might Just Not Know It Yet.)</a></li>
-<li><a href="https://vimeo.com/184659742">Denys Mishunov &mdash; Deconstructing Performance</a></li>
-<li><a href="https://vimeo.com/184776710">Sarah Drasner &mdash; Innovative SVG Animations</a></li>
-<li><a href="https://vimeo.com/184776819">Oliver Reichenstein &mdash; On Icons</a></li>
-</ul>
+<p>Need help convincing your boss? We've got your back:<br /><a href="http://smashingconf.com/pdf/8-reasons-for-Smashing-Conference-Freiburg-2015.pdf">download "Convince Your Boss" PDF</a> (0.2 Mb).</p>
 
-<hr />
+<p class="hsh"><strong><a href="https://twitter.com/smashingconf">@smashingconf</a></strong></p>
 
-<h3>Helpful Resources</h3>
-<ul>
-<li><a href="https://smashingconf.com/pdf/SmashingConf-Freiburg-2016-Attendee-Pack.pdf">Attendee Pack PDF</a></li>
-<li><a href="https://smashingconf.com/attendees/">Attendee List</a></li>
-<li><a href="https://smashingconf.herokuapp.com/">SmashingConf Slack Channel</a></li>
-<li><a href="https://twitter.com/hashtag/smashingconf?f=tweets&vertical=default&src=hash">#smashingconf on Twitter</a></li>
-</ul>
-
-<p><strong>Last but not least</strong>, please mind our <a href="https://smashingconf.com/codeofconduct">Code of Conduct</a>. We are looking forward to seeing you at the conference — it’s going to be smashing! ;-) </p>
+<p class="ttt">(link: registration text: To the tickets →)</p>
 
 ----
 

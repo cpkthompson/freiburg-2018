@@ -1,0 +1,65 @@
+Title: Advanced CSS Layouts With Flexbox and CSS Grid
+
+----
+
+Trainer: Rachel Andrew
+
+----
+
+Intro: 
+
+**Full-day workshop &bullet; September 13th**
+This workshop is designed for designers and developers who already have a good working knowledge of HTML and CSS. We will cover a range of CSS methods for achieving layout, from those you are safe to use right now even if you need to support older version of Internet Explorer through to things that while still classed as experimental, are likely to ship in browsers in the coming months. 
+
+----
+
+More: 
+
+CSS Layout has been stuck somewhere around 2006 for several years. We have had to attempt complex layout using tools such as floats and positioning. These methods never designed for complex page and application layout. However things are changing and it’s a great time to take a look at the layout methods that are now part of modern CSS, and those coming in the very near future.
+
+The aim is to teach you some tips that Rachel has learned working on real projects, alongside sharing some of the exciting things that I’ve been experimenting with as I look into emerging specifications. This will be a practical workshop, we will work through code examples together, and you’ll have those worked examples to take away to experiment with further or to share with your team.
+
+### What you'll learn:
+- Building multiple-column layouts
+- Building with Flexbox and CSS Grid Layout
+- Other emerging specifications of interest, eg. Exclusions, Regions, Box Alignment
+- Strategy for advanced CSS layouts: when and how to use each specification?
+- Practical suggestions for using these techniques without locking out users of old browsers.
+
+### What prerequisites skills do you need?
+Basic understanding of CSS and JavaScript.
+
+### What hardware/software do you need?
+Please bring your own laptop (Mac or Win) with your favorite text editor.
+
+<hr />
+
+### Location
+Historisches Kaufhaus  
+Münsterplatz 24
+79098 Freiburg im Breisgau
+Germany
+(link: https://www.google.de/maps/place/Historisches+Kaufhaus/@47.9952591,7.8510095,17.57z/data=!4m2!3m1!1s0x0000000000000000:0x2a59897493f50c9e text: Google Maps)
+
+### Schedule for Wednesday, Sept 13th
+8:30 – Doors open, Registration
+9:00 – Introduction & Kick-off
+11:00 – Coffee Break
+12:30 – Lunch
+13:30 – Afternoon Session
+15:00 – Coffee Break
+17:00 – The End, Networking
+
+**Save $100** when signing up for the conference and a workshop!
+
+----
+
+Link: https://rachelandrew.co.uk/
+
+----
+
+Twitter: @rachelandrew
+
+----
+
+Sold-out: no

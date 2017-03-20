@@ -8,7 +8,7 @@ Trainer: Umar Hansa
 
 Intro:
 
-**Full-day workshop &bullet; June 12th**
+**Full-day workshop &bullet; September 13th**
 In this workshop, Umar Hansa, a senior front-end web developer at Springer Nature, will share obscure practical workflow tips, tricks and techniques that will supercharge any developer’s workflow.
 
 ----
@@ -53,20 +53,20 @@ Front end developers, designers, DevOps, anyone involved with the technical aspe
 <hr />
 
 ### Location
-Microsoft Technology Center
-11 Times Square, **7th Floor**
-(Between 41st & 42nd Streets on 8th Ave.)
-New York, NY, 10036
-(link: https://www.google.com/maps/place/Microsoft+Technology+Center/@40.7566552,-73.989987,20.25z/data=!4m5!1m2!2m1!1s11+Times+Square!3m1!1s0x0000000000000000:0xcb6b70d1bb597301 text: Google Maps)
+Historisches Kaufhaus  
+Münsterplatz 24
+79098 Freiburg im Breisgau
+Germany
+(link: https://www.google.de/maps/place/Historisches+Kaufhaus/@47.9952591,7.8510095,17.57z/data=!4m2!3m1!1s0x0000000000000000:0x2a59897493f50c9e text: Google Maps)
 
-### Schedule for Monday, June 12th
-8:30am – Doors open, Registration
-9:00am – Introduction & Kick-off
-11:00am – Coffee Break
-12:30pm – Lunch
-1:30pm – Afternoon Session
-3:00pm – Coffee Break
-5:00pm – The End, Networking
+### Schedule for Wednesday, Sept 13th
+8:30 – Doors open, Registration
+9:00 – Introduction & Kick-off
+11:00 – Coffee Break
+12:30 – Lunch
+13:30 – Afternoon Session
+15:00 – Coffee Break
+17:00 – The End, Networking
 
 Save $100 when signing up for the conference **and** a workshop!
 
