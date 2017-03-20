@@ -161,6 +161,7 @@ h4 {
 }
 .f a {
   padding: .125em;
+  color: #329b47;
   border-bottom: 0.08em solid #329b47;
 }
 .f a:hover {

@@ -41,7 +41,7 @@ Text:
 <tbody>
 
 <tr>
-<td><strong>Workshop:</strong> Vitaly on UX Patterns &bullet; (link: /workshops/vitaly-gru-friedman text: Details)...</a></td>
+<td><strong>Workshop:</strong> Vitaly on UX Patterns &bullet; (link: workshops/vitaly-friedman text: Details)...</a></td>
 <td class="pc">$399</td>
 <!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
 <td class="cta"><a alt="https://shop.smashingmagazine.com/products/vitaly-ux-design-patterns-freiburg-2017" class="bt sobt" >March 28, 14h</a></td>
@@ -56,21 +56,21 @@ Text:
 <tbody>
 
 <tr>
-<td><strong>Workshop:</strong> Alla on Modular Design &bullet; (link: /workshops/alla-kholmatova text: Details)...</a></td>
+<td><strong>Workshop:</strong> Alla on Modular Design &bullet; (link: workshops/alla-kholmatova text: Details)...</a></td>
 <td class="pc">$399</td>
 <!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
 <td class="cta"><a alt="https://shop.smashingmagazine.com/products/alla-kholmatova-modular-design-freiburg-2017" class="bt sobt" >March 28, 14h</a></td>
 </tr>
 
 <tr>
-<td><strong>Workshop:</strong> Umar on DevTools &bullet; (link: /workshops/umar-hansa text: Details)...</a></td>
+<td><strong>Workshop:</strong> Umar on DevTools &bullet; (link: workshops/umar-hansa text: Details)...</a></td>
 <td class="pc">$399</td>
 <!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
 <td class="cta"><a alt="https://shop.smashingmagazine.com/products/umar-hansa-devtools-freiburg-2017" class="bt sobt" >March 28, 14h</a></td>
 </tr>
 
 <tr>
-<td><strong>Workshop:</strong> Rachel on CSS Grid &bullet; (link: /workshops/rachel-andrew text: Details)...</a></td>
+<td><strong>Workshop:</strong> Rachel on CSS Grid &bullet; (link: workshops/rachel-andrew text: Details)...</a></td>
 <td class="pc">$399</td>
 <!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
 <td class="cta"><a alt="https://shop.smashingmagazine.com/products/rachel-andrew-css-grid-freiburg-2017" class="bt sobt" >March 28, 14h</a></td>
