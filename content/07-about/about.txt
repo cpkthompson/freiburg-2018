@@ -2,7 +2,7 @@ Title: About
 ----
 Intro:
 
-It's this time of the year again! We are happy to bring to you the fourth edition of the annual **Smashing Conference Freiburg** — a _friendly, valuable and inspiring community event_ that will help us all, web designers and developers, to become better at what we do.
+It's that time of the year again! We are happy to present the sixth annual edition of **Smashing Conference Freiburg** — a _friendly, valuable and inspiring community event_ that will help us all, web designers and developers, to become better at what we do.
 
 The main focus of the conference is an insight into how we, as designers, solve real-life design problems and what workflow we are using to solve them intelligently. Two full days with practical talks on smart  techniques, clever strategies and useful tools.
 
@@ -12,14 +12,14 @@ Please spread the word about it on Twitter, Facebook, your blog and anywhere you
 
 Text:
 
-## Smashing Conference Freiburg 2016
+## Smashing Conference Freiburg 2017
 
 <div class="columns" markdown="1">
-The fifth Smashing Conference is a three-day event for web designers and web developers, to be held on the outskirts of the Black Forest in the sunny city of Freiburg, Germany. We have invited outstanding, inspiring speakers, and we look forward to a day full of stimulating, intense expert workshops.
+The sixth Smashing Conference is a three-day event for web designers and web developers, to be held on the outskirts of the Black Forest in the sunny city of Freiburg, Germany. We have invited outstanding, inspiring speakers, and we look forward to a day full of stimulating, intense expert workshops.
 
-Days one and two are dedicated to high-quality talks by some of the most well-respected (link: speakers text: experts) in today's web industry, giving you the chance to get up close and personal. A party will give you an opportunity to relax and network after the program of the conference's first day. Day three features (link: workshops text: full-day workshops) to elevate your knowledge and experience.
+Days one and two are dedicated to high-quality talks by some of the most well-respected (link: speakers text: experts) in today's web industry, giving you the chance to get up close and personal. Our conference party will give you an opportunity to relax and network after the program of the conference's first day. Day three features (link: workshops text: full-day workshops) to elevate your knowledge and experience.
 
-The Smashing Conference takes place from September 12th to 13th, 2016. Workshops will be held on the 14th of September. The ticket sale will start on Tuesday, March 29th, with the regular ticket price  **$399.00**—both including German VAT (19%) and all booking fees. Student discounts (25% off) are available upon request as well.
+The Smashing Conference takes place from September 11th to 12th, 2016. Workshops will be held on the 13th of September. The ticket sale will start on Tuesday, March 29th, with the regular ticket price  **$399.00**—both including German VAT (19%) and all booking fees. Student discounts (25% off) are available upon request as well.
 </div>
 
 ****
