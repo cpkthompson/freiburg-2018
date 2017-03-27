@@ -516,6 +516,14 @@ h4 {
 .ss li:focus .si.Mathias {
   background-image: url(../images/speakers/mathias-biilmann-hov.png);
 }
+.si.Sara {
+  background-image: url(../images/speakers/sara-ramos.png);
+}
+.ss li:hover .si.Sara,
+.ss li:active .si.Sara,
+.ss li:focus .si.Sara {
+  background-image: url(../images/speakers/sara-ramos-hov.png);
+}
 .si.Mystery {
   background-image: url(../images/speakers/ms.png);
 }

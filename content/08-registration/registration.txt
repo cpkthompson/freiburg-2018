@@ -16,14 +16,14 @@ Text:
 
 <tr>
 <td>Conference Ticket <span style="color: #858585;">&bullet; Early bird</span></td>
-<td class="pc">$349</td>
+<td class="pc">$399</td>
 <!--<td class="pc">Join the (email: waitinglist@smashingconf.com text: waiting list)</td>-->
 <td class="cta"><a class="bt sobt" >March 28, 14h</a></td>
 </tr>
 
 <tr>
 <td>Conference Ticket <span style="color: #858585;">&bullet; Regular Ticket</span></td>
-<td class="pc">$399</td>
+<td class="pc">$499</td>
 <td class="cta"><a class="bt sobt">March 28, 14h</a></td>
 </tr>
 
