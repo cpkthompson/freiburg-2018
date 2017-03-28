@@ -12,7 +12,7 @@ Our mission is to explore real-life web design problems and techniques that are 
 
 <p class="hsh"><strong><a href="https://twitter.com/smashingconf">@smashingconf</a></strong></p>
 
-<p class="ttt">(link: registration text: Tickets go live on March 28 14:00 CEDT →)</p>
+<p class="ttt">(link: registration text: Tickets available now! →)</p>
 
 ----
 

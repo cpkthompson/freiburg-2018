@@ -4,11 +4,6 @@
   <div class="wrf">
     <em>With a commitment to quality content for the design community.</em>
     <?php echo kirbytext($site->copyright()) ?>
-    <ul class="scl">
-      <li><a class="t" href="//twitter.com/smashingconf" title="@smashingconf on Twitter">@smashingconf on Twitter</a></li>
-      <li><a class="y" href="//lanyrd.com/2017/smashingconf-freiburg/">smashingconf on Lanyrd</a></li>
-      <li><?php echo str::email('hello@smashingconf.com', 'contact us', 'contact us', 'e') ?></li>
-    </ul>
     <nav class="n">
       <ul>
         <li><a href="<?php echo url('codeofconduct') ?>">Code of Conduct</a></li>
