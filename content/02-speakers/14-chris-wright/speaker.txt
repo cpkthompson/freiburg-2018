@@ -1,0 +1,31 @@
+Title: Christopher Wright
+
+----
+
+Bio: 
+
+Chris is a front-end developer at Campaign Monitor in Sydney, where he makes software which simplifies creating elegant email campaigns.
+
+He loves writing about and experimenting with CSS and learning in the open. He is interested in the bridge between web disciplines and how we can create better cross-functional teams with shared understanding.  He loves hiking and enjoys experiencing the great outdoors.
+
+----
+
+Talk: Taking layout to the next level
+
+----
+
+Description: 
+
+Layout is drastically changing: we’ve already shifted toward more robust, accessible, design systems capable of being served to any device or browser but we’re still using older techniques that we created to workaround layout problems that are ultimately brittle and not content-aware.
+
+Flexbox and Grid take our layouts to the next level, with smarter capabilities and more simple execution we can achieve far more with less, and while Grid might be in the near future - Flexbox is very much a technology of today.
+ 
+In this talk, Chris will show practical applications of Flex to give the confidence and understanding to start building with it right now, he’ll also be exploring how we might use Flex in combination with Grid and discuss strategies for using future and modern layout techniques in your projects today.
+
+----
+
+Link: https://www.chriswrightdesign.com/
+
+----
+
+Twitter: @cwrightdesign

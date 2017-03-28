@@ -29,7 +29,7 @@ Can we continue scaling the platform, without losing its original essence and ma
 - How to organize designs and structure code in a modular fashion,
 - How to **create a living pattern library**,
 - How to make sure your design system can cope with new requirements,
-- How to establish a **"modular" thinking culture** in mid-size to large teamsm.
+- How to establish a **"modular" thinking culture** in mid-size to large teams.
 
 You'll also take away a few common stumbling blocks, a few lessons learned and a plethora of practical, hands-on tips on establishing a pattern language within your company.
 

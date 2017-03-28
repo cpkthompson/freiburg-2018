@@ -492,6 +492,14 @@ h4 {
 .ss li:focus .si.Scott {
   background-image: url(../images/speakers/scott-helme-hov.png);
 }
+.si.Christopher {
+  background-image: url(../images/speakers/chris-wright.png);
+}
+.ss li:hover .si.Christopher,
+.ss li:active .si.Christopher,
+.ss li:focus .si.Christopher {
+  background-image: url(../images/speakers/chris-wright-hov.png);
+}
 .si.Tiago {
   background-image: url(../images/speakers/tiago-pedras.png);
 }
@@ -533,7 +541,7 @@ h4 {
   background-image: url(../images/speakers/msh.png);
 }
 .ss::after {
-  background: url(../images/speakers/alla-kholmatova-hov.png), url(../images/speakers/ilya-pukhalski-hov.png), url(../images/speakers/rachel-andrew-hov.png), url(../images/speakers/aagu-hov.png), url(../images/speakers/evlola-hov.png), url(../images/speakers/daru-hov.png), url(../images/speakers/umar-hansa-hov.png), url(../images/speakers/tiago-pedras-hov.png), url(../images/speakers/scott-helme-hov.png), url(../images/speakers/rachel-andrew-hov.png), url(../images/speakers/modi-hov.png), url(../images/speakers/ilya-pukhalski-hov.png), url(../images/speakers/nacu-hov.png), url(../images/speakers/msh.png);
+  background: url(../images/speakers/alla-kholmatova-hov.png), url(../images/speakers/chris-wright-hov.png), url(../images/speakers/sara-ramos-hov.png), url(../images/speakers/ilya-pukhalski-hov.png), url(../images/speakers/rachel-andrew-hov.png), url(../images/speakers/aagu-hov.png), url(../images/speakers/evlola-hov.png), url(../images/speakers/daru-hov.png), url(../images/speakers/umar-hansa-hov.png), url(../images/speakers/tiago-pedras-hov.png), url(../images/speakers/scott-helme-hov.png), url(../images/speakers/rachel-andrew-hov.png), url(../images/speakers/modi-hov.png), url(../images/speakers/ilya-pukhalski-hov.png), url(../images/speakers/nacu-hov.png), url(../images/speakers/msh.png);
   visibility: hidden;
   height: 0;
   content: " ";
