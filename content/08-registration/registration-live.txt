@@ -17,8 +17,7 @@ Text:
 <tr>
 <td>Conference Ticket <span style="color: #858585;">&bullet; Early bird</span></td>
 <td class="pc">$399</td>
-<!--<td class="pc">Join the (email: waitinglist@smashingconf.com text: waiting list)</td>-->
-<td class="cta"><a href="https://shop.smashingmagazine.com/products/smashingconf-freiburg-2017" class="bt" >Get Your Ticket</a></td>
+<td class="cta"><a class="bt sobt">All gone</a></td>
 </tr>
 
 <tr>
