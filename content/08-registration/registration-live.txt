@@ -3,7 +3,7 @@ Title: Get your ticket!
 Intro: 
                     
 <div class="cls" markdown="1"> 
-We are delighted to have you join us in New York! Seating is limited and **tickets are available now**. If you need help convincing your company, you can download our (link: http://smashingconf.com/pdf/8-reasons-for-Smashing-Conference-Freiburg-2017.pdf text: Convince-Your-Boss PDF) (0.2MB).
+We are delighted to have you join us in Freiburg! Seating is limited and **tickets are available now**. If you need help convincing your company, you can download our (link: http://smashingconf.com/pdf/8-reasons-for-Smashing-Conference-Freiburg-2017.pdf text: Convince-Your-Boss PDF) (0.2MB).
 
 **All prices include 19% German VAT**. Payment methods are Credit Card and Paypal. We’ll reserve 10 student tickets. Please send a photo of your student ID to &#109;&#097;&#099;&#064;&#115;&#109;&#097;&#115;&#104;&#105;&#110;&#103;&#099;&#111;&#110;&#102;&#046;&#099;&#111;&#109; and Mariona will get back to you swiftly!
 </div>
