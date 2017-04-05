@@ -2,15 +2,27 @@ Title: Locations
 ----
 Intro:
 
-At SmashingConf, we always strive to host events in the most memorable of venues. In Freiburg, our home will be the magnificent “Kaufhaus” – a stunning, central venue that blows our audience away every year.
+At SmashingConf, we always strive to host events in the most memorable of venues. In Freiburg, our home will be the magnificent “Kaufhaus” – a stunning, historical venue that blows our audience away every year. 
 
-On this page you will find the information about the venues for the workshops and for the conference. You can also check (link: http://wikitravel.org/en/Freiburg_i._Br.#b text: WikiTravel) for additional information. If anything is missing, or you have questions, please don’t hesitate to (email: hello@smashingconf.com text: contact us)!
+The Kaufhaus will also be home to our (link: workshops text: workshops on Wednesday), while the **Grünhof Freiburg** will be the venue on Sunday for (link: workshops/vitaly-friedman text: Vitaly's UX workshop) and the warm-up party before the conference.
 
-<hr />
+### Conference and Workshop Venue from Sept. 11 to 13
+
+<strong>Historisches Kaufhaus</strong>
+Münsterplatz 24
+79098 Freiburg
+<a href="https://www.google.de/maps/preview?ie=UTF-8&q=historisches+kaufhaus&fb=1&gl=de&hq=historisches+kaufhaus&hnear=0x47911b26560bd665:0x41f6bb7a5df57b0,Freiburg&cid=3051621356311743646&ei=7MYSVNGCMYPXyQP0voC4Ag&ved=0CC8QrwswAA">Google Maps</a></p>
+
+### Workshop and Warm-up Party Venue on Sunday, Sept. 10
+**Grünhof Freiburg**
+Belfortstraße 52
+79098 Freiburg im Breisgau
+Germany
+(link: https://www.google.de/maps/place/Gr%C3%BCnhof+Freiburg/@47.9940488,7.8399227,15z/data=!4m2!3m1!1s0x0:0x3e139e522dd39d38?sa=X&ved=0ahUKEwiVodue3OTSAhVFhiwKHcAnA_4Q_BIIlAEwDg text: Google Maps)
 
 <h2>Historical Merchants’ Hall</h2>
 
-The historic <a href="http://www.historischeskaufhaus.freiburg.de/">"Kaufhaus"</a> (Merchants’ Hall, built 1520-30) is the venue for the **conference and the workshops**.
+The historic <a href="http://www.historischeskaufhaus.freiburg.de/">"Kaufhaus"</a> (Merchants’ Hall, built 1520-30) is the venue for the **conference and the workshops** from Sept. 11th throughout Sept. 13th.
 
 <img src="assets/images/scenery.png" alt="Cartoon style scenery with the Historical Merchants Hall and the Smashing Cat celebrating the 10 year anniversary of Smashing Magazine" />
 
@@ -18,12 +30,6 @@ It is a symbol of the importance of trade in medieval Freiburg. The municipal ma
 
 The beautiful ambience of the Historical Merchants’ Hall underlines our goal to create something special for you.
 
-<h3>Address</h3>
-
-<p>Historisches Kaufhaus<br />
-Münsterplatz 24<br />
-79098 Freiburg<br />
-<a href="https://www.google.de/maps/preview?ie=UTF-8&q=historisches+kaufhaus&fb=1&gl=de&hq=historisches+kaufhaus&hnear=0x47911b26560bd665:0x41f6bb7a5df57b0,Freiburg&cid=3051621356311743646&ei=7MYSVNGCMYPXyQP0voC4Ag&ved=0CC8QrwswAA">Google Maps</a></p>
 ----
 
 Directions:
