@@ -41,13 +41,13 @@
         <span class="date">11<sup>th</sup>–12<sup>th</sup> of September 2017</span>
         <ul class="ddu">
           <li>
-            <a href="//sf17.smashingconf.com">
+            <a href="//smashingconf.com/sf-2017/">
               <span class="rbt">San Francisco <img src="<?php echo url('assets/images/usa-flag.png') ?>" width="26" height="26" alt="SmashingConf San Francisco 2017" /> </span>
               <span class="date">4<sup>th</sup>–5<sup>th</sup> of April 2017</span>
             </a>
           </li>
           <li>
-        <a href="//smashingconf.com/ny-2017">
+        <a href="//smashingconf.com/">
           <span class="rbt">New York <img src="<?php echo url('assets/images/usa-flag.png') ?>" width="26" height="26" alt="SmashingConf New York 2017" /> </span>
           <span class="date">13<sup>th</sup>–14<sup>th</sup> of June 2017</span>
         </a>
@@ -57,7 +57,7 @@
     </div>
     <noscript>
       <div class="ddc nojsdd">
-        <a href="//smashingconf.com/ny-2017">
+        <a href="//smashingconf.com/">
           <span class="rbt">New York <img src="<?php echo url('assets/images/usa-flag.png') ?>" width="26" height="26" alt="SmashingConf New York 2017" /> </span>
           <span class="date">13<sup>th</sup>–14<sup>th</sup> of June 2017</span>
         </a>
