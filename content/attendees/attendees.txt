@@ -256,6 +256,14 @@ Text:
 </tr>
 
 
+<tr>
+<td>Corinna Kretz</td> 
+<td>ORT Interacitve</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+
 <tr class="nwl">
 
 <td colspan="4">D<a id="d"></a></td>
@@ -366,11 +374,44 @@ Text:
 <td>Switzerland</td> 
 </tr>
 
+
+<tr>
+<td>Fabian Hauss</td> 
+<td>Printus GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+
 <tr>
 <td>Frantisek Ivanko</td> 
 <td>WONDROUS LLC</td> 
 <td></td> 
 <td>Switzerland</td> 
+</tr>
+
+
+<tr>
+<td>Fabian Koenig</td> 
+<td>UDG Karlsruhe GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+
+<tr>
+<td>Florian Barndt</td> 
+<td>s.Oliver Bernd Freier GmbH & Co.KG</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+
+<tr>
+<td>Frederik Rahimpur </td> 
+<td>norisk GmbH</td> 
+<td></td> 
+<td>Germany</td> 
 </tr>
 
 
@@ -461,6 +502,13 @@ Text:
 </tr>
 
 <tr>
+<td>Jan Petersen</td> 
+<td>UDG Karlsruhe GmbH</td> 
+<td></td>
+<td>Germany</td>
+</tr>
+
+<tr>
 <td>Jan Vondrous</td> 
 <td>Digital Media Publishing s.r.o</td> 
 <td></td> 
@@ -548,6 +596,20 @@ Text:
 <td>Ireland</td> 
 </tr>
 
+<tr>
+<td>Julia Schweiger</td> 
+<td>Printus GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Jure Trtnik</td> 
+<td>Studio Moderna</td> 
+<td></td> 
+<td>Slovenia</td> 
+</tr>
+
 
 
 
@@ -610,8 +672,19 @@ Text:
 <td>Germany</td> 
 </tr>
 
+<tr>
+<td>Laure Castiblanco</td> 
+<td>Printus GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
 
-
+<tr>
+<td>Lisa Ehrhardt</td> 
+<td>Artirigo AG</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
 
 
 <tr class="nwl">
@@ -629,7 +702,15 @@ Text:
 </tr>
 
 <tr>
+<td>Manuel Eckstein</td>   
+<td>Printus GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Manuel Matuzovic</td>   
+<td></td> 
 <td>@mmatuzo</td> 
 <td>Austria</td> 
 </tr>
@@ -796,8 +877,22 @@ Text:
 
 
 <tr>
+<td>Nela Treuchtlinger</td> 
+<td>TechDivision GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Nicolas Gehlert</td> 
 <td>Active Agent AG</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Nicole Adelt</td> 
+<td></td> 
 <td></td> 
 <td>Germany</td> 
 </tr>
@@ -863,6 +958,13 @@ Text:
 <td>Switzerland</td> 
 </tr>
 
+<tr>
+<td>Peter Reiter</td> 
+<td>norisk GmbH </td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
 
 
 
@@ -888,6 +990,13 @@ Text:
 
 
 <tr>
+<td>Radu Luchian</td> 
+<td>TrustYou GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Raf Van Suetendael</td> 
 <td>Impuls bvba</td> 
 <td></td> 
@@ -899,6 +1008,14 @@ Text:
 <td>Ralf Hortt</td> 
 <td></td> 
 <td>@horttcore</td> 
+<td>Germany</td> 
+</tr>
+
+
+<tr>
+<td>Rena Rohrbacher</td> 
+<td>ORT Interacitve</td> 
+<td></td> 
 <td>Germany</td> 
 </tr>
 
@@ -970,6 +1087,13 @@ Text:
 </tr>
 
 <tr>
+<td>Sara Ferlin</td> 
+<td>Studio Moderna</td> 
+<td></td> 
+<td>Slovenia</td> 
+</tr>
+
+<tr>
 <td>Sascha Matern</td> 
 <td>1&1 Mail&Media GmbH</td> 
 <td></td> 
@@ -979,6 +1103,13 @@ Text:
 <tr>
 <td>Sascha Urbanek</td> 
 <td>Humbaur GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Sebastian Fritsch</td> 
+<td>Medienwürfel GbR</td> 
 <td></td> 
 <td>Germany</td> 
 </tr>
@@ -1148,6 +1279,13 @@ Text:
 <tr>
 <td>Thomas Kraus</td> 
 <td>develop4edu GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Thomas Krawczuk</td> 
+<td>TechDivision GmbH</td> 
 <td></td> 
 <td>Germany</td> 
 </tr>
