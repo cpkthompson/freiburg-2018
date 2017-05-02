@@ -100,6 +100,13 @@ Text:
 </tr>
 
 <tr>
+<td>Alexander Mykhailenko</td> 
+<td>BIG PICTURE GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Alexandre Polise</td> 
 <td>MOO Print Limited</td> 
 <td></td> 
@@ -233,9 +240,24 @@ Text:
 </tr>
 
 <tr>
+<td>Carina Lebherz</td> 
+<td>HC Solutions GesmbH</td> 
+<td></td> 
+<td>Austria</td> 
+</tr>
+
+<tr>
 <td>Christian Falk</td> 
 <td>avenit AG</td> 
 <td>@christianfalk</td> 
+<td>Germany</td> 
+</tr>
+
+
+<tr>
+<td>Christian Simeoni</td> 
+<td>empiriecom GmbH & Co. KG</td> 
+<td></td> 
 <td>Germany</td> 
 </tr>
 
@@ -281,6 +303,14 @@ Text:
 <tr>
 <td>Daniel Ehniss</td>    
 <td>depone</td> 
+<td></td>
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Daniel Eikenberg</td>    
+<td>empiriecom GmbH & Co. KG </td> 
+<td></td>
 <td>Germany</td> 
 </tr>
 
@@ -292,10 +322,24 @@ Text:
 </tr>
 
 <tr>
+<td>Dave Spengeler</td> 
+<td>Mesch GmbH</td> 
+<td>@theyve</td> 
+<td>Switzerland</td> 
+</tr>
+
+<tr>
 <td>David Roessli</td> 
 <td>Cybermedia Concepts</td> 
 <td>@roessli</td> 
 <td>Switzerland</td> 
+</tr>
+
+<tr>
+<td>Davide Donetto</td> 
+<td>Haufe-Lexware GmbH & Co KG</td> 
+<td></td> 
+<td>Germany</td> 
 </tr>
 
 <tr>
@@ -320,7 +364,8 @@ Text:
 </tr>
 
 <tr>
-<td>Dolinde van Beek</td>   
+<td>Dolinde van Beek</td>
+<td></td>  
 <td>@Dop12</td> 
 <td>Netherlands</td> 
 </tr>
@@ -544,7 +589,8 @@ Text:
 </tr>
 
 <tr>
-<td>Joerg Hambuch</td>    
+<td>Joerg Hambuch</td>
+<td></td>   
 <td>@joerghambuch</td> 
 <td>Germany</td> 
 </tr>
@@ -557,7 +603,8 @@ Text:
 </tr>
 
 <tr>
-<td>Joerg-Holger Fritz</td>   
+<td>Joerg-Holger Fritz</td>
+<td></td>  
 <td>@jhf1967</td> 
 <td>Germany</td> 
 </tr>
@@ -570,7 +617,8 @@ Text:
 </tr>
 
 <tr>
-<td>Joke De Winter</td>   
+<td>Joke De Winter</td>
+<td></td>  
 <td>@jokedewinter</td> 
 <td>UK</td> 
 </tr>
@@ -646,6 +694,20 @@ Text:
 <td>internezzo ag</td> 
 <td></td> 
 <td>Switzerland</td> 
+</tr>
+
+<tr>
+<td>Katrin Kaufleitner</td> 
+<td>pixelart GmbH</td> 
+<td></td> 
+<td>Austria</td> 
+</tr>
+
+<tr>
+<td>Konstantin Tieber</td> 
+<td>webfactory GmbH</td> 
+<td></td> 
+<td>Germany</td> 
 </tr>
 
 
@@ -737,7 +799,8 @@ Text:
 </tr>
 
 <tr>
-<td>Marco Hengstenberg</td>   
+<td>Marco Hengstenberg</td>
+<td></td>   
 <td>@nice2meatu</td> 
 <td>Germany</td> 
 </tr>
@@ -787,7 +850,15 @@ Text:
 <tr>
 <td>Martin R. Krause</td>   
 <td></td> 
+<td></td> 
 <td>Germany</td> 
+</tr>
+
+<tr>
+<td>Martin Vollenweider</td>   
+<td></td> 
+<td></td> 
+<td>Switzerland</td> 
 </tr>
 
 <tr>
@@ -806,13 +877,29 @@ Text:
 
 <tr>
 <td>Matthias Ihle</td>    
-<td></td> 
+<td></td>
+<td></td>  
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Matthias Rossbach</td>    
+<td>BIG PICTURE GmbH</td>
+<td></td>  
 <td>Germany</td> 
 </tr>
 
 <tr>
 <td>Max Mai</td>    
+<td></td>  
 <td>@maxinteractive</td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Max Wendt</td>    
+<td>re-lounge GmbH</td>  
+<td></td> 
 <td>Germany</td> 
 </tr>
 
@@ -821,6 +908,13 @@ Text:
 <td>migrosch - Web Development</td> 
 <td>@migrosch</td> 
 <td>Germany</td> 
+</tr>
+
+<tr>
+<td>Michael Haefliger</td> 
+<td>Mesch GmbH</td> 
+<td>@haeflimi</td> 
+<td>Switzerland</td> 
 </tr>
 
 <tr>
@@ -852,6 +946,13 @@ Text:
 </tr>
 
 <tr>
+<td>Mikko Suominen</td> 
+<td>Ambientia</td> 
+<td></td> 
+<td>Finland</td> 
+</tr>
+
+<tr>
 <td>Milosz Daiczak</td> 
 <td>Shopgate</td> 
 <td></td> 
@@ -859,7 +960,8 @@ Text:
 </tr>
 
 <tr>
-<td>Mina Harvey</td>    
+<td>Mina Harvey</td>
+<td></td>   
 <td></td> 
 <td>Egypt</td> 
 </tr>
@@ -919,6 +1021,13 @@ Text:
 </tr>
 
 <tr>
+<td>Nikolai Horvat</td> 
+<td>empiriecom GmbH & Co. KG</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Nils Mielke</td> 
 <td>FEUERWASSER</td> 
 <td>@nilsmielke</td> 
@@ -937,7 +1046,8 @@ Text:
 
 
 <tr>
-<td>Oskar Borek</td>    
+<td>Oskar Borek</td>
+<td></td>   
 <td>@web_ozz</td> 
 <td>Germany</td> 
 </tr>
@@ -1042,7 +1152,15 @@ Text:
 </tr>
 
 <tr>
+<td>Roland Jegorovs</td> 
+<td>Evolution Latvia SIA</td> 
+<td></td> 
+<td>Latvia</td> 
+</tr>
+
+<tr>
 <td>Romero Steinhauser</td>   
+<td></td>
 <td></td> 
 <td>Germany</td> 
 </tr>
@@ -1137,6 +1255,7 @@ Text:
 
 <tr>
 <td>Simon Schaufelberger</td>   
+<td></td>
 <td></td> 
 <td>Germany</td> 
 </tr>
@@ -1177,8 +1296,9 @@ Text:
 </tr>
 
 <tr>
-<td>Stefan Oury</td>    
-<td>@stefanoury</td> 
+<td>Stefan Oury</td>
+<td></td>    
+<td>@stefanoury</td>
 <td>Belgium</td> 
 </tr>
 
@@ -1312,7 +1432,8 @@ Text:
 </tr>
 
 <tr>
-<td>Tom Devos</td>    
+<td>Tom Devos</td> 
+<td></td>  
 <td>@devostom</td> 
 <td>Belgium</td> 
 </tr>
@@ -1370,6 +1491,13 @@ Text:
 <td>Mendix Technology BV</td> 
 <td></td> 
 <td>Netherlands</td> 
+</tr>
+
+<tr>
+<td>Wojta Prandell</td> 
+<td>empiriecom GmbH & Co. KG</td> 
+<td></td> 
+<td>Germany</td> 
 </tr>
 
 <tr>
