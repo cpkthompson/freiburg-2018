@@ -100,6 +100,13 @@ Text:
 </tr>
 
 <tr>
+<td>Alexander Ehmann</td> 
+<td>ERGO Direkt Lebensversicherung AG</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Alexander Mykhailenko</td> 
 <td>BIG PICTURE GmbH</td> 
 <td></td> 
@@ -132,6 +139,13 @@ Text:
 <td>Eskamed AG</td> 
 <td></td> 
 <td>Switzerland</td> 
+</tr>
+
+<tr>
+<td>Andreas Herold</td> 
+<td>dotSource GmbH</td> 
+<td></td> 
+<td>Germany</td> 
 </tr>
 
 <tr>
@@ -229,6 +243,13 @@ Text:
 <td>Germany</td> 
 </tr>
 
+<tr>
+<td>Brian Ramirez</td> 
+<td>REWE Digital GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
 
 
 
@@ -265,6 +286,14 @@ Text:
 <tr>
 <td>Christian Sharaf</td> 
 <td>Haufe-Lexware GmbH & Co KG</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+
+<tr>
+<td>Christopher Canisius</td> 
+<td>Electronic Minds GmbH</td> 
 <td></td> 
 <td>Germany</td> 
 </tr>
@@ -336,6 +365,13 @@ Text:
 </tr>
 
 <tr>
+<td>David Slacalek</td> 
+<td>Prague Bistro Digital, s.r.o.</td> 
+<td></td> 
+<td>Czech Republic</td> 
+</tr>
+
+<tr>
 <td>Davide Donetto</td> 
 <td>Haufe-Lexware GmbH & Co KG</td> 
 <td></td> 
@@ -368,6 +404,14 @@ Text:
 <td></td>  
 <td>@Dop12</td> 
 <td>Netherlands</td> 
+</tr>
+
+
+<tr>
+<td>Dominik Laube</td> 
+<td>Electronic Minds GmbH</td> 
+<td></td> 
+<td>Germany</td> 
 </tr>
 
 
@@ -451,6 +495,13 @@ Text:
 <td>Germany</td> 
 </tr>
 
+<tr>
+<td>Frantisek Prochazka</td> 
+<td>Prague Bistro Digital, s.r.o.</td> 
+<td></td> 
+<td>Czech Republic</td> 
+</tr>
+
 
 <tr>
 <td>Frederik Rahimpur </td> 
@@ -499,6 +550,13 @@ Text:
 <td>Germany</td> 
 </tr>
 
+<tr>
+<td>Hynek Zatloukal</td> 
+<td>Prague Bistro Digital, s.r.o.</td> 
+<td></td> 
+<td>Czech Republic</td> 
+</tr>
+
 
 
 
@@ -543,7 +601,7 @@ Text:
 <td>Jan Lukes</td> 
 <td>Digital Media Publishing s.r.o</td> 
 <td></td> 
-<td>Tschech Republic</td> 
+<td>Czech Republic</td> 
 </tr>
 
 <tr>
@@ -557,7 +615,7 @@ Text:
 <td>Jan Vondrous</td> 
 <td>Digital Media Publishing s.r.o</td> 
 <td></td> 
-<td>Tschech Republic</td> 
+<td>Czech Republic</td> 
 </tr>
 
 <tr>
@@ -652,6 +710,20 @@ Text:
 </tr>
 
 <tr>
+<td>Julian Forster</td> 
+<td>Haufe-Lexware GmbH & Co KG</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Julius Pataky</td> 
+<td>Prague Bistro Digital, s.r.o.</td> 
+<td></td> 
+<td>Czech Republic</td> 
+</tr>
+
+<tr>
 <td>Jure Trtnik</td> 
 <td>Studio Moderna</td> 
 <td></td> 
@@ -673,6 +745,14 @@ Text:
 <td>Corellia Helsinki Oy</td> 
 <td>@KariSelovuo</td> 
 <td>Finland</td> 
+</tr>
+
+
+<tr>
+<td>Karina Hinkelthein</td> 
+<td>dotSource GmbH</td> 
+<td></td> 
+<td>Germany</td> 
 </tr>
 
 <tr>
@@ -827,6 +907,13 @@ Text:
 </tr>
 
 <tr>
+<td>Mario Schmidt</td> 
+<td>Heinrich Heine GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Mariona Aloy Ciller</td>
 <td>Smashing Media AG </td>
 <td>@mariondita</td>
@@ -904,6 +991,20 @@ Text:
 </tr>
 
 <tr>
+<td>Melanie Stuchlik</td> 
+<td>dpa-infocom GmbH</td> 
+<td>@MelStuch</td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Michael Ewers</td> 
+<td>REWE Digital GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Michael Grosch</td> 
 <td>migrosch - Web Development</td> 
 <td>@migrosch</td> 
@@ -931,11 +1032,19 @@ Text:
 <td>Germany</td> 
 </tr>
 
+
+<tr>
+<td>Michael Worm</td> 
+<td>Electronic Minds GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
 <tr>
 <td>Michal Pokorak</td> 
 <td>Digital Media Publishing s.r.o</td> 
 <td></td> 
-<td>Tschech Republic</td> 
+<td>Czech Republic</td> 
 </tr>
 
 <tr>
@@ -1062,6 +1171,13 @@ Text:
 
 
 <tr>
+<td>Paolo Mioni</td> 
+<td>HCE S.R.L.</td> 
+<td>@pmioni</td> 
+<td>Italy</td> 
+</tr>
+
+<tr>
 <td>Pascal Kuster</td> 
 <td>Calydo AG</td> 
 <td>@kuschti</td> 
@@ -1123,6 +1239,14 @@ Text:
 
 
 <tr>
+<td>Reem Akuz</td> 
+<td>Shopgate</td> 
+<td>@reemakuz</td> 
+<td>Germany</td> 
+</tr>
+
+
+<tr>
 <td>Rena Rohrbacher</td> 
 <td>ORT Interacitve</td> 
 <td></td> 
@@ -1131,9 +1255,9 @@ Text:
 
 
 <tr>
-<td>Reem Akuz</td> 
-<td>Shopgate</td> 
-<td>@reemakuz</td> 
+<td>Rene Bach</td> 
+<td>coliquio GmbH</td> 
+<td></td> 
 <td>Germany</td> 
 </tr>
 
