@@ -283,6 +283,14 @@ Text:
 
 
 <tr>
+<td>Christian Janz</td> 
+<td>BridgingIT</td> 
+<td>@c_janz</td> 
+<td>Germany</td> 
+</tr>
+
+
+<tr>
 <td>Christian Simeoni</td> 
 <td>empiriecom GmbH & Co. KG</td> 
 <td></td> 
@@ -1297,6 +1305,14 @@ Text:
 <td>Pixmill – Büro für Web</td> 
 <td>@pixmilltweet</td> 
 <td>Switzerland</td> 
+</tr>
+
+
+<tr>
+<td>Riona Kuthe</td> 
+<td>jweiland.net - Jochen Weiland</td> 
+<td>@mixedpixel</td> 
+<td>Germany</td> 
 </tr>
 
 <tr>
