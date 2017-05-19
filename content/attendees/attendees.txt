@@ -315,6 +315,14 @@ Text:
 
 
 <tr>
+<td>Christoph Friedl</td> 
+<td>TUI Austria Holding GmbH</td> 
+<td>@Trullus</td> 
+<td>UK</td> 
+</tr>
+
+
+<tr>
 <td>Christopher Fries</td> 
 <td>SAP SE</td> 
 <td></td> 
@@ -849,6 +857,13 @@ Text:
 <td>Laure Castiblanco</td> 
 <td>Printus GmbH</td> 
 <td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Leslie Kästner Schuler</td> 
+<td>TUI Austria Holding GmbH</td> 
+<td>@leslindividualism</td> 
 <td>Germany</td> 
 </tr>
 
