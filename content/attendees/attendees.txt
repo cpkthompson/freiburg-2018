@@ -735,6 +735,13 @@ Text:
 </tr>
 
 <tr>
+<td>Josué Zarzosa</td> 
+<td>eSailors Ltd.</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Juan Pernia</td> 
 <td>Bank of Ireland</td> 
 <td>@juanrules</td> 
@@ -1191,6 +1198,13 @@ Text:
 </tr>
 
 <tr>
+<td>Nils Binder</td> 
+<td>9elements GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Nils Mielke</td> 
 <td>FEUERWASSER</td> 
 <td>@nilsmielke</td> 
@@ -1205,6 +1219,13 @@ Text:
 
 <td colspan="4">O<a id="o"></a></td>
 
+</tr>
+
+<tr>
+<td>Olaf Tietze</td> 
+<td>eSailors Ltd.</td> 
+<td></td> 
+<td>Germany</td> 
 </tr>
 
 
@@ -1722,6 +1743,13 @@ Text:
 
 <td colspan="4">Y<a id="y"></a></td>
 
+</tr>
+
+<tr>
+<td>Yannick Milanetto</td> 
+<td>ALTRAN</td> 
+<td>@ymilanetto</td> 
+<td>France</td> 
 </tr>
 
 
