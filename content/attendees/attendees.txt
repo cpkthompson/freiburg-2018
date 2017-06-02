@@ -107,6 +107,13 @@ Text:
 </tr>
 
 <tr>
+<td>Alexander Hitzler</td> 
+<td></td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Alexander Mykhailenko</td> 
 <td>BIG PICTURE GmbH</td> 
 <td></td> 
@@ -1156,6 +1163,13 @@ Text:
 </tr>
 
 <tr>
+<td>Nepomuk Gasteiger</td> 
+<td></td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Nicolas Gehlert</td> 
 <td>Active Agent AG</td> 
 <td></td> 
@@ -1262,6 +1276,13 @@ Text:
 <tr>
 <td>Peter Reiter</td> 
 <td>norisk GmbH </td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Philip Kuban</td> 
+<td></td> 
 <td></td> 
 <td>Germany</td> 
 </tr>
@@ -1527,6 +1548,14 @@ Text:
 <tr>
 <td>Steffen Knöller</td> 
 <td>SAP SE</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+
+<tr>
+<td>Stephan Steigenberger</td> 
+<td></td> 
 <td></td> 
 <td>Germany</td> 
 </tr>
