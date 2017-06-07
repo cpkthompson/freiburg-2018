@@ -156,6 +156,13 @@ Text:
 </tr>
 
 <tr>
+<td>Anna Skwarczynska</td> 
+<td>SAP Polska Spółka z o.o.</td> 
+<td></td> 
+<td>Poland</td> 
+</tr>
+
+<tr>
 <td>Anna-Lena Becker</td> 
 <td>juni.com GmbH</td> 
 <td></td> 
@@ -550,6 +557,14 @@ Text:
 
 
 <tr>
+<td>Frederic Heitmann-Andre </td> 
+<td>Acando</td> 
+<td></td> 
+<td>Norway</td> 
+</tr>
+
+
+<tr>
 <td>Frederik Rahimpur </td> 
 <td>norisk GmbH</td> 
 <td></td> 
@@ -612,6 +627,12 @@ Text:
 
 </tr>
 
+<tr>
+<td>Ib Johansen</td> 
+<td>Acando</td> 
+<td></td> 
+<td>Norway</td> 
+</tr>
 
 <tr>
 <td>Isabel Varela Grundmann</td> 
@@ -982,6 +1003,13 @@ Text:
 </tr>
 
 <tr>
+<td>Marion Le Pontois</td> 
+<td>Acando</td> 
+<td></td> 
+<td>Norway</td> 
+</tr>
+
+<tr>
 <td>Mariona Aloy Ciller</td>
 <td>Smashing Media AG </td>
 <td>@mariondita</td>
@@ -993,6 +1021,13 @@ Text:
 <td>Smashing Media AG </td>
 <td>@indysigner</td>
 <td>Germany</td>
+</tr>
+
+<tr>
+<td>Markus Voss</td> 
+<td>Acando</td> 
+<td></td> 
+<td>Norway</td> 
 </tr>
 
 <tr>
