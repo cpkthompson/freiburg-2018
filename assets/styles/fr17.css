@@ -251,14 +251,6 @@ h4 {
 .ig img:focus {
   border-color: #329B47;
 }
-.x {
-  z-index: 5;
-  width: 100%;
-  height: 18em;
-  padding: 0 3.75em;
-  margin: 0 0 -4.5em -3.75em;
-  background: url("../images/katzi-kuchi-buschi.png") no-repeat 61.8% 0%, url("../images/buschi.png") no-repeat 50% bottom;
-}
 .ssg {
   z-index: 4;
   width: 100%;
