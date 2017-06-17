@@ -40,26 +40,26 @@
         <span class="rbt">Freiburg <img src="<?php echo url('assets/images/german-flag.png') ?>" width="26" height="26" alt="SmashingConf Germany" /> </span>
         <span class="date">11<sup>th</sup>–12<sup>th</sup> of September 2017</span>
         <ul class="ddu">
-          <li>
-        <a href="//smashingconf.com/">
-          <span class="rbt">New York <img src="<?php echo url('assets/images/usa-flag.png') ?>" width="26" height="26" alt="SmashingConf New York 2017" /> </span>
-          <span class="date">13<sup>th</sup>–14<sup>th</sup> of June 2017</span>
-        </a>
-          </li>
             <li>
-            <a href="https://smashingconf.com/barcelona-2017">
-          <span class="rbt">Barcelona <img src="<?php echo url('assets/images/spanish-flag.png') ?>" width="26" height="26" alt="SmashingConf Barcelona" /> </span>
-        <span class="date">17<sup>th</sup>–18<sup>th</sup> of October 2017</span>
-            </a>
+              <a href="https://smashingconf.com/barcelona-2017">
+              <span class="rbt">Barcelona <img src="<?php echo url('assets/images/spanish-flag.png') ?>" width="26" height="26" alt="SmashingConf Barcelona" /> </span>
+              <span class="date">17<sup>th</sup>–18<sup>th</sup> of October 2017</span>
+              </a>
+          </li>
           <li>
+              <a href="//smashingconf.com/ny-2017/">
+              <span class="rbt">New York <img src="<?php echo url('assets/images/usa-flag.png') ?>" width="26" height="26" alt="SmashingConf New York 2017" /> </span>
+              <span class="date">13<sup>th</sup>–14<sup>th</sup> of June 2017</span>
+              </a>
+          </li>
         </ul>
       </div>
     </div>
     <noscript>
       <div class="ddc nojsdd">
         <a href="//smashingconf.com/">
-          <span class="rbt">New York <img src="<?php echo url('assets/images/usa-flag.png') ?>" width="26" height="26" alt="SmashingConf New York 2017" /> </span>
-          <span class="date">13<sup>th</sup>–14<sup>th</sup> of June 2017</span>
+          <span class="rbt">Freiburg <img src="<?php echo url('assets/images/german-flag.png') ?>" width="26" height="26" alt="SmashingConf Germany" /> </span>
+          <span class="date">11<sup>th</sup>–12<sup>th</sup> of September 2017</span>
         </a>
       </div>
     </noscript>
