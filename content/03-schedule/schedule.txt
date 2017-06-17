@@ -4,7 +4,9 @@ Title: Schedule
 
 Intro:
 
-Below you'll find the schedule for our 6th SmashingConf in Freiburg. We’ll keep this page regularly updated with all new speakers and sessions, so be sure to keep checking in! <a href="http://twitter.com/smashingconf">Stay updated</a>.
+<h2>We’ll announce the schedule very soon — please stay tuned!</h2>
+
+<!--Below you'll find the schedule for our 6th SmashingConf in Freiburg. We’ll keep this page regularly updated with all new speakers and sessions, so be sure to keep checking in! <a href="http://twitter.com/smashingconf">Stay updated</a>.-->
 
 
 ----

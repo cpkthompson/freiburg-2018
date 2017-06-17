@@ -2,7 +2,7 @@
 <?php snippet('menu') ?>
 <?php
 $day = param('day');
-if(!in_array($day, array('tuesday', 'wednesday'))) $day = 'tuesday';
+if(!in_array($day, array('monday', 'tuesday'))) $day = 'monday';
 $schedule = yaml($page->schedule());
 $schedule = $schedule[str::ucfirst(str::lower($day))];
 ?>
@@ -18,10 +18,10 @@ $schedule = $schedule[str::ucfirst(str::lower($day))];
     <?php echo kirbytext($page->text()) ?>
   </div>
   <?php endif ?>
-  <!--<?php if($day == 'tuesday'): ?>
-  <h2 class="sh"><span>Tuesday, 17th</span> <small>|</small> <a href="<?php echo $page->url() . '/day:wednesday' ?>">Wednesday, 18th</a></h2>
+  <?php if($day == 'monday'): ?>
+  <h2 class="sh"><span>Monday, 12th</span> <small>|</small> <a href="<?php echo $page->url() . '/day:tuesday' ?>">Tuesday, 13th</a></h2>
   <?php else: ?>
-  <h2 class="sh"><a href="<?php echo $page->url() . '/day:tuesday' ?>">Tuesday, 17th</a> <small>|</small> <span>Wednesday, 18th</span></h2>
+  <h2 class="sh"><a href="<?php echo $page->url() . '/day:monday' ?>">Monday, 12th</a> <small>|</small> <span>Tuesday, 13th</span></h2>
   <?php endif; ?>
   <table class="s">
     <?php foreach($schedule['Track'] as $slot): ?>
@@ -36,7 +36,7 @@ $schedule = $schedule[str::ucfirst(str::lower($day))];
         </div>
         <div class="spnf">
           <h3><a href="<?php echo $speaker->url() ?>"><?php echo html($speaker->title()) ?></a></h3>
-          <a class="i ilk" href="<?php echo $speaker->url() ?>"><?php echo thumb($speaker->images()->first(), array('crop' => true, 'width' => 256, 'height' => 256)) ?></a>
+          <a class="i ilk" href="<?php echo $speaker->url() ?>"><?php echo thumb($speaker->images()->first(), array('crop' => true, 'width' => 250, 'height' => 250)) ?></a>
         </div>
       </td>
     </tr>
@@ -46,7 +46,7 @@ $schedule = $schedule[str::ucfirst(str::lower($day))];
       <td><?php echo html($slot['text']) ?></td>
     </tr>
     <?php endif ?>
-    <?php endforeach ?>-->
+    <?php endforeach ?>
   </table>
 </section>
 <?php snippet('footer') ?>
