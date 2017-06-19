@@ -141,7 +141,7 @@ h4 {
   padding-bottom: 1.25em;
   border-top: 0.625em solid #e9f4e9;
   color: rgba(0, 0, 0, 0.35);
-  background: url(../images/kaufhaus-mit-katzi-footer.png) no-repeat right bottom, #b9eab9;
+  background: url(../images/smashingconf-freiburg-footer.png) no-repeat right bottom, #b9eab9;
 }
 .f:after {
   content: "";
@@ -641,7 +641,7 @@ h4 {
     border-bottom: 0.08em solid #eee;
   }
   .f {
-    padding-bottom: 50%;
+    padding-bottom: 33%;
   }
 }
 @media screen and (max-width: 45.3125em) {
@@ -729,7 +729,7 @@ h4 {
     vertical-align: bottom;
   }
   .f {
-    padding-bottom: 125%;
+    padding-bottom: 75%;
   }
 }
 @media print {
