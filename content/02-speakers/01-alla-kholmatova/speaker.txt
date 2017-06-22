@@ -4,19 +4,21 @@ Title: Alla Kholmatova
 
 Bio:
 
-Alla is an interaction designer at an open education startup, _FutureLearn_. She's interested in how design relates to other disciplines, including linguistics, psychology, and architecture. Alla is an occasional contributor to design publications, such as _A List Apart_, and an owner of several vintage robots.
+Alla Kholmatova is a UX and interaction designer with a nine-year experience of working on the web, for a range of products and companies. Most recently she was a senior product designer at an open education platform, FutureLearn.
+
+She’s particularly interested in design systems, language, and collaborative ways of working. In the last two years this interest has led her to spend a huge amount of time working on and researching the subject. 
+
+She’s been sharing her insights with people through articles, workshops, and projects. Alla contributes to design publications, such as A List Apart, and speaks at conferences around the world.
 
 ----
 
-Talk: Atoms, Modules And Other Fancy Particles
+Talk: Teams, Cultures, And Design System Strategies
 
 ----
 
 Description:
 
-As many of us move away from designing pages toward designing systems, one concept keeps coming up: modularity. Modular systems promise to be scalable, maintainable, and easier to work with – but what if the “system” we end up with doesn’t perform as well as we expect? What if the result is disappointing – an overly simplistic “patched together” design, that’s not nearly as scalable and adaptable as we’d hoped?
-
-In this talk we’ll look at what it actually means to have a resistant design system and a shared pattern language in your team. We’ll talk through the steps to get there, as well as mistakes, stumbling blocks, and lessons learnt.
+Every design system is unique. Your organisational structure, team culture, design approach, project, and even the physical space you’re in, will shape your system. In this talk I invite you to think beyond patterns and components, and look at the underlying structures and connections which make your design system what it is.
 
 ----
 
