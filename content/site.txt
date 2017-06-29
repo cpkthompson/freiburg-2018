@@ -2,16 +2,16 @@ Title: Smashing Conference
 
 ----
 
-Hometitle: Smashing Conference Freiburg 2017, Sep. 11th to 12th
+Hometitle: Smashing Conference Freiburg 2017, September 11—12
 
 ----
 
-Author: Vitaly Friedman, Marc Thiele, Bastian Allgeier
+Author: Vitaly Friedman
 
 ----
 Description:
 
-Smashing Conference Freiburg 2017, September 11th to 12th – an event for passionate Web designers and developers, organized by Vitaly Friedman and the Smashing Magazine Team.
+Smashing Conference Freiburg 2017, September 11—12
 
 ----
 
@@ -23,11 +23,11 @@ Smashing Conference, event, conference, Web design, Web development, CSS, CSS3, 
 
 Abstract:
 
-Smashing Conference Freiburg 2017, September 11th to 12th – an event for passionate Web designers and developers, organized by Vitaly Friedman and the Smashing Magazine Team.
+Smashing Conference Freiburg 2017, September 11—12 – an event for passionate Web designers and developers, organized by Vitaly Friedman and the Smashing Magazine Team.
 
 ----
 
-Copyright: (link: http://www.smashing-media.com text: Smashing Media Company) 2011-(date: Year).
+Copyright: (link: http://www.smashingmagazine.com text: Smashing Media AG) 2011-(date: Year).
 
 ----
 
