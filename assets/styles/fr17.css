@@ -532,14 +532,22 @@ h4 {
 .ss li:focus .si.Emanuela {
   background-image: url(../images/speakers/emanuela-matteo-hov.png);
 }
-/*.si.Mystery {
+.si.Alma {
+  background-image: url(../images/speakers/alma-hoffmann.png);
+}
+.ss li:hover .si.Alma,
+.ss li:active .si.Alma,
+.ss li:focus .si.Alma {
+  background-image: url(../images/speakers/alma-hoffmann-hov.png);
+}
+.si.Mystery {
   background-image: url(../images/speakers/ms.png);
 }
 .ss li:hover .si.Mystery,
 .ss li:active .si.Mystery,
 .ss li:focus .si.Mystery {
   background-image: url(../images/speakers/msh.png);
-}*/
+}
 .ss::after {
   background: url(../images/speakers/emanuela-matteo-hov.png), url(../images/speakers/alla-kholmatova-hov.png), url(../images/speakers/chris-wright-hov.png), url(../images/speakers/sara-ramos-hov.png), url(../images/speakers/ilya-pukhalski-hov.png), url(../images/speakers/rachel-andrew-hov.png),  url(../images/speakers/umar-hansa-hov.png), url(../images/speakers/tiago-pedras-hov.png), url(../images/speakers/scott-helme-hov.png), url(../images/speakers/rachel-andrew-hov.png), url(../images/speakers/ilya-pukhalski-hov.png), url(../images/speakers/msh.png);
   visibility: hidden;
