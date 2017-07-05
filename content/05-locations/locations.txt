@@ -4,7 +4,7 @@ Intro:
 
 At SmashingConf, we always strive to host events in the most memorable of venues. In Freiburg, our home will be the magnificent “Kaufhaus” – a stunning, historical venue that blows our audience away every year. 
 
-The Kaufhaus will also be home to our (link: workshops text: workshops on Wednesday), while the **Grünhof Freiburg** will be the venue on Sunday for (link: workshops/vitaly-friedman text: Vitaly's UX workshop) and the warm-up party before the conference.
+The Kaufhaus will also be home to our (link: workshops text: workshops on Wednesday), while the **Grünhof Freiburg** will be the venue on Sunday for (link: workshops/vitaly-friedman text: Vitaly’s UX workshop) and the warm-up party before the conference.
 
 ### Conference and Workshop Venue from Sept. 11 to 13
 
@@ -32,51 +32,30 @@ The beautiful ambience of the Historical Merchants’ Hall underlines our goal t
 
 Directions:
 
-## Travel Directions
+## Getting into Freiburg
 
 ### By plane
 
 <div class="columns" markdown="1">
 **Basel, Switzerland**.
-One of the closest airport is the (link: http://www.euroairport.com/EN/accueil.php text: EuroAirport Basel-Mulhouse-Freiburg). The airport is only 70km away from Freiburg and offers over 450 scheduled flights per week to 50 different destinations in the whole of Europe, e.g. Berlin, Hamburg, London, Paris, Prague, Madrid, Rome, Barcelona, Stockholm, Reykjavik and many more. From the Airport you can easily take a (link: http://www.euroairport.com/EN/voyageurs.php?PAGEID=488&lang=EN text: train), (link: http://www.euroairport.com/EN/voyageurs.php?PAGEID=487 text: bus) or even a taxi. The (link: http://www.euroairport.com/EN/voyageurs.php?PAGEID=489&lang=EN text: taxi), of course, is the most expensive solution.
-
-**Strasbourg, France**.
-Also close to Freiburg is the (link: http://www.strasbourg.aeroport.fr/index.php/accueil?lang=E#2 text: Aèroport international Strasbourg). It is only about 60km from Freiburg. For information which Airline flies to this Airport, check the (link: http://www.strasbourg.aeroport.fr/index.php/airport-information/contacts/airlines?view=liste&lang=E text: list of Airlines at their site).
-
-**Karlsruhe, Germany**.
-An additional way to get to us by plane is to use the (link: http://www.baden-airpark.de/startseite.html?&L=1 text: Baden-Airpark) in Karlsruhe. It is about 100km away from Freiburg and you can use the ICE train or a bus to get to Freiburg. You can also use a bus called (link: http://www.baden-airpark-express.de/ text: Baden-Airpark-Express) that is driving to Freiburg for about 20 Euros.
-
-**Zürich, Switzerland**.
-Another possible airport is (link: http://www.zurich-airport.com/desktopdefault.aspx text: Zurich Airport). Only 150km away and with a direct train connection to Freiburg, it is another good solution to get to the Smashing Conference.
-
-**Stuttgart, Germany**.
-(link: http://www.stuttgart-airport.com/sys/index.php?section_id=0&id=0&lang=1 text: Stuttgart Aiport) is about 200km away, but also good connected with Freiburg via train. Check which (link: http://www.stuttgart-airport.com/travellers-and-visitors/flight-information/airlines/ text: airlines are flying) to this airport.
+The closest airport is the <strong>EuroAirport</strong> Basel-Mulhouse-Freiburg which is 60km away and has many great (and affordable) Easyjet connections. From there, you take the (link: https://shop.flixbus.com/search?route=Basel+EuroAirport-Freiburg+%28i.Br.%29&rideDate=03.09.2017&backRide=1&backRideDate=06.09.2017&adults=1&children=0&bikes=0&departureCity=8148&departureStation=&arrivalCity=92&arrivalStation=&currency=EUR text: Flixbus), which needs appr. 50 minutes to get into "Freiburg Hauptbahnhof" (Freiburg Train Station), and from there it’s just a (link: http://smashed.by/freiburgwalk text: 15min walk to the venue).
 
 **Frankfurt, Germany**.
-Last but not least you can get to Freiburg by flying to (link: http://www.frankfurt-airport.com/content/frankfurt_airport/en.html text: Frankfurt Airport). Frankfurt is the biggest airport in Germany and thousands of – also international – direct flights are available to Frankfurt. The only issue with this airport concerning Freiburg is, that you have to take a train from there that needs approximately 2 hours for the 270km to Freiburg central station.
+Frankfurt Airport is the biggest airport in Germany and has hundreds of international direct flights available. You can take the (link: https://www.bahn.com/en/view/index.shtml text: train) from there ("Frankfurt Flughafen Fernbahnhof") which brings you in approximately 2 hours to Freiburg’s central station.
+
+**Zürich, Switzerland**.
+If you want to get into Freiburg via Zürich Airport, there’s also a great (link: https://shop.flixbus.com/search?route=Zurich-Freiburg+%28i.Br.%29&rideDate=03.09.2017&backRide=1&backRideDate=06.09.2017&adults=1&children=0&bikes=0&departureCity=89&departureStation=&arrivalCity=92&arrivalStation=&currency=EUR text: Flixbus) connection available. The bus needs 2h to get into Freiburg and has WiFi available.
+
+
 </div>
 
 ****
 
-### Traveling by train
+### By train
 
 <div class="columns" markdown="1">
-The central station in Freiburg is a 10–15 minute walk away from the conference venue and the workshop venue. Since Freiburg lies within the network of the European railway system and is also an Intercity Express (ICE) station between Frankfurt and Basel, it is well accessible by rail from all directions. For example, 40 minutes from Basel or 2 hours from Frankfurt.
+The central station in Freiburg is a (link: http://smashed.by/freiburgwalk text: 15 minute walk) away from the conference venue and the workshop venue. Freiburg lies within the network of the European railway system and is well accessible by rail from all directions, e.g. 40 minutes from Basel or 2 hours from Frankfurt. Check the (link: https://www.bahn.com/en/view/index.shtml text: Deutsche Bahn website) for more details.
 
-See the following sites for detailed info:
-
-- (link: http://www.bahn.de/i/view/USA/en/index.shtml text: Website of Deutsche Bahn)
-- (link: http://www.sncf.com/en_EN/flash/ text: French railways [SNCF] via Strasbourg)
-- (link: http://www.sbb.ch/en/home.html text: Swiss railways [SBB/CFF] via Basel)
-- (link: http://www.raileurope.com/index.html text: Rail Europe)
-</div>
-
-****
-
-### Traveling by bus
-
-<div class="columns" markdown="1">
-Freiburg’s central bus station lies right next to the central train station — pretty much at the heart of the city and just a few minutes away from the Historic House of Merchants. Bus rides are available from 8€ (e.g. from Zürich) if you book some time ahead via (link: https://www.flixbus.com/bus/freiburg text: Flixbus). 
 </div>
 
 ****
@@ -84,7 +63,7 @@ Freiburg’s central bus station lies right next to the central train station �
 ### Parking
 
 <div class="columns" markdown="1">
-Freiburg has a huge amount of parking areas and parking garages. Most of them are in walking distance of the conference and workshop venues. Please check our (file: parking-in-freiburg.png text: little map) or check (link: http://smashed.by/parkingfreiburg text: google maps), where we marked the parking places for you as well.
+Freiburg has a huge amount of parking areas and parking garages, most of them in walking distance of the conference and workshop venues. Check (link: http://smashed.by/parkingfreiburg text: Google Maps) for more details.
 </div>
 
 ****
