@@ -2,7 +2,7 @@
 <?php snippet('menu') ?>
 <?php
 $day = param('day');
-if(!in_array($day, array('tuesday', 'wednesday'))) $day = 'tuesday';
+if(!in_array($day, array('monday', 'tuesday'))) $day = 'monday';
 $schedule = yaml($page->schedule());
 $schedule = $schedule[str::ucfirst(str::lower($day))];
 ?>
@@ -18,10 +18,10 @@ $schedule = $schedule[str::ucfirst(str::lower($day))];
     <?php echo kirbytext($page->text()) ?>
   </div>
   <?php endif ?>
-  <!--<?php if($day == 'tuesday'): ?>
-  <h2 class="sh"><span>Tuesday, 17th</span> <small>|</small> <a href="<?php echo $page->url() . '/day:wednesday' ?>">Wednesday, 18th</a></h2>
+  <?php if($day == 'monday'): ?>
+  <h2 class="sh"><span>Monday, 11th</span> <small>|</small> <a href="<?php echo $page->url() . '/day:tuesday' ?>">Tuesday, 12th</a></h2>
   <?php else: ?>
-  <h2 class="sh"><a href="<?php echo $page->url() . '/day:tuesday' ?>">Tuesday, 17th</a> <small>|</small> <span>Wednesday, 18th</span></h2>
+  <h2 class="sh"><a href="<?php echo $page->url() . '/day:monday' ?>">Monday, 11th</a> <small>|</small> <span>Tuesday, 12th</span></h2>
   <?php endif; ?>
   <table class="s">
     <?php foreach($schedule['Track'] as $slot): ?>
@@ -46,7 +46,7 @@ $schedule = $schedule[str::ucfirst(str::lower($day))];
       <td><?php echo html($slot['text']) ?></td>
     </tr>
     <?php endif ?>
-    <?php endforeach ?>-->
+    <?php endforeach ?>
   </table>
 </section>
 <?php snippet('footer') ?>

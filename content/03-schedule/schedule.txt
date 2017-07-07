@@ -36,19 +36,19 @@ Monday:
       talk: michael-riethmuller
 
     - time: 14:10
-      text: Afternoon Break
+      text: Coffee break
 
     - time: 14:25
       talk: rachel-andrew
 
     - time: 15:15
-      text: Coffee Break
+      text: Afternoon break
 
     - time: 15:30
       talk: emanuela-matteo
 
     - time: 16:20
-      text: Afternoon Break
+      text: Afternoon break
 
     - time: 16:50
       text: TBA
@@ -57,20 +57,20 @@ Monday:
       text: Closing Remarks
 
     - time: 20:00
-      text: Party at the Kaufhaus!
+      text: Party at the Kaufhaus + Evening Session
 
 Tuesday:
   Headline: Tuesday, 12th
   Track:
 
-- time: 08:30
+    - time: 08:30
       text: Doors Open
 
-    - time: 9:30
-      text: Welcome and Intro
+    - time: 09:30
+      text: Welcome
 
     - time: 9:40
-      talk: mystery-speaker
+      talk: the-mystery-speaker
 
     - time: 10:30
       text: Morning Break
@@ -81,27 +81,27 @@ Tuesday:
     - time: 11:50
       text: Lunch Break
 
-    - time: 13:20
+    - time: 13:25
       talk: alma-hoffmann
 
     - time: 14:10
-      text: Afternoon Break
-
-    - time: 14:40
-      talk: barry-mustersteiger
-
-    - time: 15:30
       text: Coffee Break
 
+    - time: 14:40
+      talk: barry-munstersteiger
+
+    - time: 15:30
+      text: Afternoon Break
+
     - time: 15:45
-      talk: sara-ramos
+      talk: tiago-pedras
 
     - time: 16:35
       text: Afternoon Break
 
     - time: 16:50
       text: TBA
-
+      
     - time: 17:40
       text: Closing Remarks
 
