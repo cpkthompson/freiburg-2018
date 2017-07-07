@@ -22,8 +22,8 @@ Text:
 
 <tr>
 <td>Conference Ticket <span style="color: #858585;">&bullet; Regular Ticket</span></td>
-<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>
-<td class="cta"><a class="bt sobt">Sold out</a></td>
+<td class="pc">$499</td>
+<td class="cta"><a href="https://shop.smashingmagazine.com/products/smashingconf-freiburg-2017" class="bt">Get Your Ticket</a></td>
 </tr>
 
 <tr>
