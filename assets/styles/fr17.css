@@ -549,12 +549,12 @@ h4 {
   background-image: url(../images/speakers/michael-riethmuller-hov.png);
 }
 .si.Barry {
-  background-image: url(../images/speakers/barry-munstersteiger.png);
+  background-image: url(../images/speakers/barry-munsterteiger.png);
 }
 .ss li:hover .si.Barry,
 .ss li:active .si.Barry,
 .ss li:focus .si.Barry {
-  background-image: url(../images/speakers/barry-munstersteiger-hov.png);
+  background-image: url(../images/speakers/barry-munsterteiger-hov.png);
 }
 .si.Mystery {
   background-image: url(../images/speakers/ms.png);
@@ -565,7 +565,7 @@ h4 {
   background-image: url(../images/speakers/msh.png);
 }
 .ss::after {
-  background: url(../images/speakers/barry-munstersteiger-hov.png), url(../images/speakers/emanuela-matteo-hov.png), url(../images/speakers/alma-hoffmann-hov.png), url(../images/speakers/michael-riethmuller-hov.png), url(../images/speakers/alla-kholmatova-hov.png), url(../images/speakers/chris-wright-hov.png), url(../images/speakers/sara-ramos-hov.png), url(../images/speakers/ilya-pukhalski-hov.png), url(../images/speakers/rachel-andrew-hov.png),  url(../images/speakers/umar-hansa-hov.png), url(../images/speakers/tiago-pedras-hov.png), url(../images/speakers/scott-helme-hov.png), url(../images/speakers/rachel-andrew-hov.png), url(../images/speakers/ilya-pukhalski-hov.png), url(../images/speakers/msh.png);
+  background: url(../images/speakers/barry-munsterteiger-hov.png), url(../images/speakers/emanuela-matteo-hov.png), url(../images/speakers/alma-hoffmann-hov.png), url(../images/speakers/michael-riethmuller-hov.png), url(../images/speakers/alla-kholmatova-hov.png), url(../images/speakers/chris-wright-hov.png), url(../images/speakers/sara-ramos-hov.png), url(../images/speakers/ilya-pukhalski-hov.png), url(../images/speakers/rachel-andrew-hov.png),  url(../images/speakers/umar-hansa-hov.png), url(../images/speakers/tiago-pedras-hov.png), url(../images/speakers/scott-helme-hov.png), url(../images/speakers/rachel-andrew-hov.png), url(../images/speakers/ilya-pukhalski-hov.png), url(../images/speakers/msh.png);
   visibility: hidden;
   height: 0;
   content: " ";
