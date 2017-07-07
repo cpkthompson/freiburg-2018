@@ -4,102 +4,108 @@ Title: Schedule
 
 Intro:
 
-<h2>We’ll announce the schedule very soon — please stay tuned!</h2>
-
-<!--Below you'll find the schedule for our 6th SmashingConf in Freiburg. We’ll keep this page regularly updated with all new speakers and sessions, so be sure to keep checking in! <a href="http://twitter.com/smashingconf">Stay updated</a>.-->
-
+Below you'll find the schedule for our 6th SmashingConf Freiburg. Please note that we changed the timings and the number of breaks. Also, we’ll start slightly later than in the previous years (at 9:30), plus we have an evening session at our party at the ‘Historisches Kaufhaus’ We hope you’ll enjoy the new format! 
 
 ----
 
 Schedule:
 
 Monday:
-  Headline: Monday, 12th
+  Headline: Monday, 11th
   Track:
 
-    - time: 08:00
+    - time: 08:30
       text: Doors Open
 
-    - time: 9:00
+    - time: 9:30
       text: Welcome and Intro
 
-    - time: 9:25
-      talk: dave-rupert
-
-    - time: 10:15
-      talk: una-kravets
-
-    - time: 11:05
-      text: Morning Break
-
-    - time: 11:35
-      talk: adrian-holovaty
-
-    - time: 12:25
-      talk: lyza-danger-gardner
-
-    - time: 13:15
-      text: Lunch Break
-
-    - time: 14:45
-      talk: nathan-curtis
-
-    - time: 15:35
-      talk: aaron-gustafson
-
-    - time: 16:25
-      text: Afternoon Break
-
-    - time: 16:55
-      talk: monica-dinculescu
-
-    - time: 17:30
-      text: Closing Remarks
-
-    - time: 20:00
-      text: Party Time!
-
-Tuesday:
-  Headline: Tuesday, 13th
-  Track:
-
-    - time: 08:00
-      text: Doors Open
-
-    - time: 9:05
-      talk: the-mystery-speaker
-
-    - time: 09:55
-      talk: paul-lloyd
+    - time: 9:55
+      text: TBA
 
     - time: 10:45
       text: Morning Break
 
-    - time: 11:15
-      talk: eva-lotta-lamm
+    - time: 11:00
+      talk: alla-kholmatova
 
-    - time: 12:05
-      talk: denys-mishunov
-
-    - time: 12:55
+    - time: 11:50
       text: Lunch Break
 
-    - time: 14:25
-      talk: polle-de-maagt
+    - time: 13:20
+      talk: michael-riethmuller
 
-    - time: 15:15
-      talk: sarah-drasner
-
-    - time: 16:05
+    - time: 14:10
       text: Afternoon Break
 
-    - time: 16:35
-      talk: oliver-reichenstein
-      
-    - time: 17:25
-      text: Closing Remarks
+    - time: 14:25
+      talk: rachel-andrew
+
+    - time: 15:15
+      text: Coffee Break
+
+    - time: 15:30
+      talk: emanuela-matteo
+
+    - time: 16:20
+      text: Afternoon Break
+
+    - time: 16:50
+      text: TBA
 
     - time: 17:40
+      text: Closing Remarks
+
+    - time: 20:00
+      text: Party at the Kaufhaus!
+
+Tuesday:
+  Headline: Tuesday, 12th
+  Track:
+
+- time: 08:30
+      text: Doors Open
+
+    - time: 9:30
+      text: Welcome and Intro
+
+    - time: 9:40
+      talk: mystery-speaker
+
+    - time: 10:30
+      text: Morning Break
+
+    - time: 11:00
+      talk: chris-wright
+
+    - time: 11:50
+      text: Lunch Break
+
+    - time: 13:20
+      talk: alma-hoffmann
+
+    - time: 14:10
+      text: Afternoon Break
+
+    - time: 14:40
+      talk: barry-mustersteiger
+
+    - time: 15:30
+      text: Coffee Break
+
+    - time: 15:45
+      talk: sara-ramos
+
+    - time: 16:35
+      text: Afternoon Break
+
+    - time: 16:50
+      text: TBA
+
+    - time: 17:40
+      text: Closing Remarks
+
+    - time: 18:00
       text: Historic Tour Photowalk
 
 
