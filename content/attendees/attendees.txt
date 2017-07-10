@@ -156,6 +156,13 @@ Text:
 </tr>
 
 <tr>
+<td>Andreas Nusser</td> 
+<td>JoussenKarliczek GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Anna Skwarczynska</td> 
 <td>SAP Polska Spółka z o.o.</td> 
 <td></td> 
@@ -612,6 +619,13 @@ Text:
 </tr>
 
 <tr>
+<td>Hugo Villegas </td>   
+<td>MRM McCann GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Hynek Zatloukal</td> 
 <td>Prague Bistro Digital, s.r.o.</td> 
 <td></td> 
@@ -947,6 +961,13 @@ Text:
 </tr>
 
 <tr>
+<td>Manuel Schulz</td>   
+<td>Peakwork AG</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Marc Kiessling</td> 
 <td>FTI Touristik GmbH</td> 
 <td></td> 
@@ -1240,6 +1261,13 @@ Text:
 </tr>
 
 <tr>
+<td>Niklas Maier</td> 
+<td>SYZYGY Deutschland GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Nikolai Horvat</td> 
 <td>empiriecom GmbH & Co. KG</td> 
 <td></td> 
@@ -1322,6 +1350,13 @@ Text:
 <td>Germany</td> 
 </tr>
 
+<tr>
+<td>Po-Wei Chen</td> 
+<td>Acer Inc.</td> 
+<td></td> 
+<td>Taiwan</td> 
+</tr>
+
 
 
 
@@ -1365,6 +1400,13 @@ Text:
 <td>Ralf Hortt</td> 
 <td></td> 
 <td>@horttcore</td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Rebecca Sturm</td> 
+<td>SYZYGY Deutschland GmbH</td> 
+<td></td> 
 <td>Germany</td> 
 </tr>
 
@@ -1432,6 +1474,13 @@ Text:
 <td>Ronald The</td> 
 <td>infotectures GmbH</td> 
 <td>@infotectures</td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Rouven Rieker</td> 
+<td>JoussenKarliczek GmbH</td> 
+<td>@therouv</td> 
 <td>Germany</td> 
 </tr>
 
