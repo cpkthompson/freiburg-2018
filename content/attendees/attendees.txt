@@ -149,6 +149,13 @@ Text:
 </tr>
 
 <tr>
+<td>Andrea Wilczek</td> 
+<td>Pluswerk Puls GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Andreas Herold</td> 
 <td>dotSource GmbH</td> 
 <td></td> 
@@ -160,6 +167,20 @@ Text:
 <td>JoussenKarliczek GmbH</td> 
 <td></td> 
 <td>Germany</td> 
+</tr>
+
+<tr>
+<td>Andreas Retzbach</td> 
+<td>Signum communication GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Anita Stamova</td> 
+<td>BG LEADS Ltd.</td> 
+<td>@ani</td> 
+<td>Bulgaria</td> 
 </tr>
 
 <tr>
@@ -258,6 +279,13 @@ Text:
 </tr>
 
 <tr>
+<td>Boryana Dimitrova</td> 
+<td>BG LEADS Ltd.</td> 
+<td>@botzy</td> 
+<td>Bulgaria</td> 
+</tr>
+
+<tr>
 <td>Brian McClure</td> 
 <td>ADITION technologies AG</td> 
 <td></td> 
@@ -291,6 +319,13 @@ Text:
 <tr>
 <td>Chiara Ficano</td> 
 <td>BridgingIT</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Christian Aderhold</td> 
+<td>qu-int.gmbh</td> 
 <td></td> 
 <td>Germany</td> 
 </tr>
@@ -506,6 +541,13 @@ Text:
 <td>Germany</td> 
 </tr>
 
+<tr>
+<td>Erika Zammit</td> 
+<td>Blexr Limited</td> 
+<td></td> 
+<td>Malta</td> 
+</tr>
+
 
 
 
@@ -600,6 +642,13 @@ Text:
 <td>UC Leuven Limburg</td> 
 <td></td> 
 <td>Belgium</td> 
+</tr>
+
+<tr>
+<td>Gregorio Levano</td> 
+<td>Haufe-Lexware GmbH & Co KG</td> 
+<td></td> 
+<td>Germany</td> 
 </tr>
 
 
@@ -697,6 +746,13 @@ Text:
 <td>Digital Media Publishing s.r.o</td> 
 <td></td> 
 <td>Czech Republic</td> 
+</tr>
+
+<tr>
+<td>Janice Noack</td> 
+<td>Pluswerk Puls GmbH</td> 
+<td></td> 
+<td>Germany</td> 
 </tr>
 
 <tr>
@@ -996,6 +1052,13 @@ Text:
 </tr>
 
 <tr>
+<td>Marco Stephan</td>
+<td>Namics AG</td>   
+<td></td> 
+<td>Switzerland</td> 
+</tr>
+
+<tr>
 <td>Mariana Wolfschoon</td> 
 <td>elementare teilchen GmbH</td> 
 <td></td> 
@@ -1073,6 +1136,13 @@ Text:
 </tr>
 
 <tr>
+<td>Martina Nedyalkova</td>   
+<td>BG LEADS Ltd.</td> 
+<td></td> 
+<td>Bulgaria</td> 
+</tr>
+
+<tr>
 <td>Mary Vokicic</td> 
 <td>arvato eCommerce</td> 
 <td></td> 
@@ -1124,6 +1194,13 @@ Text:
 <tr>
 <td>Michael Ewers</td> 
 <td>REWE Digital GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Michael Fest</td> 
+<td>NFQ | Digital Creatives</td> 
 <td></td> 
 <td>Germany</td> 
 </tr>
@@ -1199,6 +1276,13 @@ Text:
 <td>Egypt</td> 
 </tr>
 
+<tr>
+<td>Miryam Remedios Flores Vergara</td>
+<td>Casa de Agua</td>   
+<td></td> 
+<td>Mexico</td> 
+</tr>
+
 
 
 
@@ -1210,12 +1294,26 @@ Text:
 
 </tr>
 
+<tr>
+<td>Nadezhda Serafimova</td> 
+<td>BG LEADS Ltd.</td> 
+<td></td> 
+<td>Bulgaria</td> 
+</tr>
+
 
 <tr>
 <td>Nela Treuchtlinger</td> 
 <td>TechDivision GmbH</td> 
 <td></td> 
 <td>Germany</td> 
+</tr>
+
+<tr>
+<td>Nele Rabus</td>
+<td>Namics AG</td>   
+<td></td> 
+<td>Switzerland</td> 
 </tr>
 
 <tr>
@@ -1351,6 +1449,13 @@ Text:
 </tr>
 
 <tr>
+<td>Philipp Wehmeier</td>	
+<td>Pixelpark Bielefeld GmbH</td>	
+<td></td>	
+<td>Germany</td>
+</tr>
+
+<tr>
 <td>Po-Wei Chen</td> 
 <td>Acer Inc.</td> 
 <td></td> 
@@ -1400,6 +1505,13 @@ Text:
 <td>Ralf Hortt</td> 
 <td></td> 
 <td>@horttcore</td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Raphael Pietsch</td> 
+<td>qu-int.gmbh</td> 
+<td></td> 
 <td>Germany</td> 
 </tr>
 
@@ -1573,6 +1685,13 @@ Text:
 </tr>
 
 <tr>
+<td>Simone Füllgraf</td> 
+<td>Pluswerk Puls GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Sina Burow</td> 
 <td>SinnerSchrader Deutschl. GmbH</td> 
 <td></td> 
@@ -1612,6 +1731,13 @@ Text:
 <td></td>    
 <td>@stefanoury</td>
 <td>Belgium</td> 
+</tr>
+
+<tr>
+<td>Stefan Reichert</td> 
+<td>qu-int.gmbh</td> 
+<td></td> 
+<td>Germany</td> 
 </tr>
 
 <tr>
@@ -1703,6 +1829,14 @@ Text:
 <td>Germany</td> 
 </tr>
 
+
+<tr>
+<td>Theo Pantazi</td> 
+<td>Blexr Limited</td> 
+<td></td> 
+<td>Malta</td> 
+</tr>
+
 <tr>
 <td>Thierry Lewyllie</td> 
 <td>waw bvba</td> 
@@ -1736,6 +1870,13 @@ Text:
 <td>TechDivision GmbH</td> 
 <td></td> 
 <td>Germany</td> 
+</tr>
+
+<tr>
+<td>Thomas May</td>
+<td>Namics AG</td>   
+<td></td> 
+<td>Switzerland</td> 
 </tr>
 
 <tr>
@@ -1800,6 +1941,13 @@ Text:
 <td>Vitaly Friedman</td>	
 <td>Smashing Media AG </td>	
 <td>@smashingmag</td>	
+<td>Germany</td>
+</tr>
+
+<tr>
+<td>Volker Rose</td>	
+<td>Pixelpark Bielefeld GmbH</td>	
+<td></td>	
 <td>Germany</td>
 </tr>
 

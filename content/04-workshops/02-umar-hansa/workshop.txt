@@ -82,4 +82,4 @@ Link: https://umaar.com/
 
 ----
 
-Sold-out: no
+Sold-out: yes
