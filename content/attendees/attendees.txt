@@ -1101,6 +1101,13 @@ Text:
 </tr>
 
 <tr>
+<td>Markus Angermeier</td>
+<td></td>
+<td>@kosmar</td>
+<td>Germany</td>
+</tr>
+
+<tr>
 <td>Markus Seyfferth</td>
 <td>Smashing Media AG </td>
 <td>@indysigner</td>
@@ -1882,6 +1889,13 @@ Text:
 <tr>
 <td>Till Schweneker</td> 
 <td>melting elements gmbh</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Till Wollong</td> 
+<td></td> 
 <td></td> 
 <td>Germany</td> 
 </tr>
