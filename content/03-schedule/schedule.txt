@@ -107,6 +107,6 @@ Tuesday:
       text: Closing Remarks
 
     - time: 18:00
-      text: Historic Tour Photowalk
+      text: Beer Garden Networking
 
 
