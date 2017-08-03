@@ -162,6 +162,14 @@ Text:
 <td>Germany</td> 
 </tr>
 
+
+<tr>
+<td>Andreas Mohr</td> 
+<td>ORT Interacitve</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
 <tr>
 <td>Andreas Nusser</td> 
 <td>JoussenKarliczek GmbH</td> 
@@ -391,14 +399,6 @@ Text:
 <td></td> 
 <td>@cjfh1990</td> 
 <td>UK</td> 
-</tr>
-
-
-<tr>
-<td>Corinna Kretz</td> 
-<td>ORT Interacitve</td> 
-<td></td> 
-<td>Germany</td> 
 </tr>
 
 
@@ -979,6 +979,13 @@ Text:
 <td>Germany</td> 
 </tr>
 
+<tr>
+<td>Luke Sideris</td> 
+<td>Bitsight Technologies</td> 
+<td>@lukesideris</td> 
+<td>USA</td> 
+</tr>
+
 
 <tr class="nwl">
 
@@ -1539,14 +1546,6 @@ Text:
 
 
 <tr>
-<td>Rena Rohrbacher</td> 
-<td>ORT Interacitve</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
-<tr>
 <td>Rene Bach</td> 
 <td>coliquio GmbH</td> 
 <td></td> 
@@ -1896,6 +1895,14 @@ Text:
 <tr>
 <td>Till Wollong</td> 
 <td></td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+
+<tr>
+<td>Tim Christmann</td> 
+<td>ORT Interacitve</td> 
 <td></td> 
 <td>Germany</td> 
 </tr>
