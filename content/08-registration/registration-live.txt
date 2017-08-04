@@ -41,9 +41,8 @@ Text:
 
 <tr>
 <td><strong>Workshop:</strong> Vitaly on UX Patterns &bullet; (link: workshops/vitaly-friedman text: Details)...</a></td>
-<td class="pc">$399</td>
-<!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
-<td class="cta"><a href="https://shop.smashingmagazine.com/products/workshop-vitaly-friedman-ux-freiburg-2017" class="bt" >Get Your Ticket</a></td>
+<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>
+<td class="cta"><a class="bt sobt" >Sold out</a></td>
 </tr>
 </tbody>
 </table>
