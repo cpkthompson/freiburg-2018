@@ -128,6 +128,13 @@ Text:
 </tr>
 
 <tr>
+<td>Alexandru Boamfa</td> 
+<td>1&1 Internet Development</td> 
+<td></td> 
+<td>Romania</td> 
+</tr>
+
+<tr>
 <td>Amanda Annandale</td>
 <td>Smashing Media AG </td>
 <td>@MsMandachelle</td>
@@ -414,6 +421,14 @@ Text:
 
 <td colspan="4">D<a id="d"></a></td>
 
+</tr>
+
+
+<tr>
+<td>Diana Zubova</td> 
+<td>Autoscout24 GmbH</td> 
+<td></td> 
+<td>Germany</td> 
 </tr>
 
 
