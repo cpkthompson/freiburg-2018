@@ -841,6 +841,13 @@ Text:
 </tr>
 
 <tr>
+<td>José Corachan</td> 
+<td>NT-ware Systemprogrammierungs GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Jose-Luis Almagro</td> 
 <td>Exitable</td> 
 <td></td> 
@@ -852,13 +859,6 @@ Text:
 <td>eSailors Ltd.</td> 
 <td></td> 
 <td>Germany</td> 
-</tr>
-
-<tr>
-<td>Juan Pernia</td> 
-<td>Bank of Ireland</td> 
-<td>@juanrules</td> 
-<td>Ireland</td> 
 </tr>
 
 <tr>
@@ -976,6 +976,13 @@ Text:
 <tr>
 <td>Laure Castiblanco</td> 
 <td>Printus GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Lennart Hennigs</td> 
+<td>Miele & Cie. KG</td> 
 <td></td> 
 <td>Germany</td> 
 </tr>
@@ -1450,13 +1457,6 @@ Text:
 
 
 <tr>
-<td>Paolo Mioni</td> 
-<td>HCE S.R.L.</td> 
-<td>@pmioni</td> 
-<td>Italy</td> 
-</tr>
-
-<tr>
 <td>Pascal Kuster</td> 
 <td>Calydo AG</td> 
 <td>@kuschti</td> 
@@ -1873,6 +1873,13 @@ Text:
 </tr>
 
 <tr>
+<td>Thomas Heilmann</td> 
+<td>mindscreen GmbH</td> 
+<td>@theilm_muc</td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Thomas Keller</td> 
 <td>Hochschule Furtwangen University - HFU</td> 
 <td></td> 
@@ -1898,6 +1905,13 @@ Text:
 <td>Namics AG</td>   
 <td></td> 
 <td>Switzerland</td> 
+</tr>
+
+<tr>
+<td>Thomas Rahlf</td>
+<td></td>   
+<td></td> 
+<td>Germany</td> 
 </tr>
 
 <tr>
