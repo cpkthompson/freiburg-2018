@@ -273,6 +273,13 @@ Text:
 </tr>
 
 <tr>
+<td>Björn Asal</td> 
+<td>Nero EMEA Sales GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Bogdan Strecker</td> 
 <td>Sinnoptics - Bodemeyer Eismann Lau GbR</td> 
 <td></td> 
@@ -408,6 +415,13 @@ Text:
 <td>UK</td> 
 </tr>
 
+<tr>
+<td>Christopher Kuhrt</td> 
+<td>Reservix GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
 
 <tr>
 <td>Corinna Lins</td> 
@@ -503,13 +517,6 @@ Text:
 </tr>
 
 <tr>
-<td>Diederick de Geest</td> 
-<td>De Geest UX</td> 
-<td>@degeestux</td> 
-<td>Netherlands</td> 
-</tr>
-
-<tr>
 <td>Dolinde van Beek</td>
 <td></td>  
 <td>@Dop12</td> 
@@ -547,6 +554,13 @@ Text:
 <td>kultwerk GmbH</td> 
 <td></td> 
 <td>Germany</td> 
+</tr>
+
+<tr>
+<td>Enzo Marchioni</td> 
+<td></td> 
+<td></td> 
+<td>Canada</td> 
 </tr>
 
 <tr>
@@ -608,6 +622,14 @@ Text:
 <tr>
 <td>Florian Barndt</td> 
 <td>s.Oliver Bernd Freier GmbH & Co.KG</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+
+<tr>
+<td>Florian Seidel</td> 
+<td>HUK-Coburg</td> 
 <td></td> 
 <td>Germany</td> 
 </tr>
@@ -710,6 +732,13 @@ Text:
 <td>Acando</td> 
 <td></td> 
 <td>Norway</td> 
+</tr>
+
+<tr>
+<td>Indre Skaburskyte</td> 
+<td>Reservix GmbH</td> 
+<td></td> 
+<td>Germany</td> 
 </tr>
 
 <tr>
@@ -887,6 +916,14 @@ Text:
 <td>Studio Moderna</td> 
 <td></td> 
 <td>Slovenia</td> 
+</tr>
+
+
+<tr>
+<td>Jürgen Schröder</td> 
+<td>HUK-Coburg</td> 
+<td></td> 
+<td>Germany</td> 
 </tr>
 
 
@@ -1195,6 +1232,13 @@ Text:
 <tr>
 <td>Matthias Ihle</td>    
 <td></td>
+<td></td>  
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Matthias Lück</td>    
+<td>Volkswagen Financial Services AG</td>
 <td></td>  
 <td>Germany</td> 
 </tr>
@@ -1629,13 +1673,6 @@ Text:
 
 
 <tr>
-<td>Sabrina Handt</td> 
-<td>E.M.P. Merchandising Handelsgesellschaft mbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
 <td>Samuel Snopko</td> 
 <td>WONDROUS LLC</td> 
 <td>@samuelsnopko</td> 
@@ -1820,13 +1857,6 @@ Text:
 </tr>
 
 <tr>
-<td>Svenja Buchholz</td> 
-<td>E.M.P. Merchandising Handelsgesellschaft mbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
 <td>Szymon Nowicki</td> 
 <td>Shopgate</td> 
 <td>@sznowicki</td> 
@@ -1933,6 +1963,13 @@ Text:
 <td>Tim Christmann</td> 
 <td>ORT Interacitve</td> 
 <td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Timo Motte</td>    
+<td>Volkswagen Financial Services AG</td>
+<td></td>  
 <td>Germany</td> 
 </tr>
 
