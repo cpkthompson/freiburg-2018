@@ -121,6 +121,13 @@ Text:
 </tr>
 
 <tr>
+<td>Alexander Phlippen</td> 
+<td>Studitemps GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Alexandre Polise</td> 
 <td>MOO Print Limited</td> 
 <td></td> 
@@ -239,6 +246,13 @@ Text:
 </tr>
 
 <tr>
+<td>Ben Cowley</td> 
+<td>DoneDeal</td> 
+<td></td> 
+<td>Ireland</td> 
+</tr>
+
+<tr>
 <td>Benjamin Messmer</td> 
 <td>Communiacs GmbH & Co.KG</td> 
 <td></td> 
@@ -348,6 +362,13 @@ Text:
 <tr>
 <td>Christian Aderhold</td> 
 <td>qu-int.gmbh</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Christian Albert</td> 
+<td>Studitemps GmbH</td> 
 <td></td> 
 <td>Germany</td> 
 </tr>
@@ -521,6 +542,13 @@ Text:
 <td></td>  
 <td>@Dop12</td> 
 <td>Netherlands</td> 
+</tr>
+
+<tr>
+<td>Dominik Hornung</td> 
+<td>Studitemps GmbH</td> 
+<td></td> 
+<td>Germany</td> 
 </tr>
 
 
@@ -702,6 +730,13 @@ Text:
 <td>Hochschule Furtwangen University - HFU</td> 
 <td></td> 
 <td>Germany</td> 
+</tr>
+
+<tr>
+<td>Hendrik Mondelaers</td> 
+<td>Realdolmen</td> 
+<td></td> 
+<td>Belgium</td> 
 </tr>
 
 <tr>
@@ -1627,6 +1662,13 @@ Text:
 </tr>
 
 <tr>
+<td>Robin Klärck</td> 
+<td>insign gmbh</td> 
+<td></td> 
+<td>Switzerland</td> 
+</tr>
+
+<tr>
 <td>Robin Valins</td> 
 <td>Active Agent AG</td> 
 <td></td> 
@@ -1760,6 +1802,13 @@ Text:
 <td>Soeren Birkemeyer</td> 
 <td>webfactory GmbH</td> 
 <td>@polarbirke</td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Sonja Scharfenberg</td> 
+<td>Goethe-Institut e.V.</td> 
+<td></td> 
 <td>Germany</td> 
 </tr>
 
@@ -2028,6 +2077,13 @@ Text:
 <td>Vitaly Friedman</td>	
 <td>Smashing Media AG </td>	
 <td>@smashingmag</td>	
+<td>Germany</td>
+</tr>
+
+<tr>
+<td>Vivian Avery Lim</td>	
+<td>Titelmedia GmbH </td>	
+<td></td>	
 <td>Germany</td>
 </tr>
 
