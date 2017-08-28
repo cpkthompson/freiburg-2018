@@ -476,8 +476,8 @@ Text:
 
 <tr>
 <td>Daniel Ehniss</td>    
-<td>depone</td> 
-<td></td>
+<td></td> 
+<td>@depone</td>
 <td>Germany</td> 
 </tr>
 
@@ -1067,7 +1067,7 @@ Text:
 </tr>
 
 <tr>
-<td>Lisa Ehrhardt</td> 
+<td>Lisa Eckhardt</td> 
 <td>Artirigo AG</td> 
 <td></td> 
 <td>Germany</td> 
@@ -1147,7 +1147,7 @@ Text:
 
 <tr>
 <td>Marco Hengstenberg</td>
-<td></td>   
+<td>NIMIUS</td>   
 <td>@nice2meatu</td> 
 <td>Germany</td> 
 </tr>
@@ -1939,7 +1939,7 @@ Text:
 
 <tr>
 <td>Thierry Lewyllie</td> 
-<td>waw bvba</td> 
+<td>CTA</td> 
 <td>@LewyllieT</td> 
 <td>Netherlands</td> 
 </tr>
