@@ -199,6 +199,13 @@ Text:
 </tr>
 
 <tr>
+<td>Andreas Winter</td> 
+<td>Onedrop GmbH & Co KG</td> 
+<td>@wolvdev</td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Anita Stamova</td> 
 <td>BG LEADS Ltd.</td> 
 <td>@ani</td> 
@@ -578,6 +585,13 @@ Text:
 </tr>
 
 <tr>
+<td>Elizabeth Dunphy</td> 
+<td>Onedrop GmbH & Co KG</td> 
+<td>@caora_bhreagha</td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Emma Seifried</td> 
 <td>kultwerk GmbH</td> 
 <td></td> 
@@ -615,6 +629,7 @@ Text:
 </tr>
 
 
+
 <tr>
 <td>Fabian Christen</td> 
 <td>Pixmill – Büro für Web</td> 
@@ -629,15 +644,6 @@ Text:
 <td></td> 
 <td>Germany</td> 
 </tr>
-
-
-<tr>
-<td>Frantisek Ivanko</td> 
-<td>WONDROUS LLC</td> 
-<td></td> 
-<td>Switzerland</td> 
-</tr>
-
 
 <tr>
 <td>Fabian Koenig</td> 
@@ -654,12 +660,27 @@ Text:
 <td>Germany</td> 
 </tr>
 
+<tr>
+<td>Florian Schlittenbauer</td> 
+<td>Onedrop GmbH & Co KG</td> 
+<td>@schliflo</td> 
+<td>Germany</td> 
+</tr>
+
 
 <tr>
 <td>Florian Seidel</td> 
 <td>HUK-Coburg</td> 
 <td></td> 
 <td>Germany</td> 
+</tr>
+
+
+<tr>
+<td>Frantisek Ivanko</td> 
+<td>WONDROUS LLC</td> 
+<td></td> 
+<td>Switzerland</td> 
 </tr>
 
 <tr>
@@ -726,6 +747,20 @@ Text:
 
 
 <tr>
+<td>Hans Hoechtl</td> 
+<td>Onedrop GmbH & Co KG</td> 
+<td>@hhoechtl</td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Heather Houston</td> 
+<td>trnd international GmbH</td> 
+<td></td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
 <td>Hendrik Kuijs</td> 
 <td>Hochschule Furtwangen University - HFU</td> 
 <td></td> 
@@ -789,6 +824,13 @@ Text:
 
 <td colspan="4">J<a id="j"></a></td>
 
+</tr>
+
+<tr>
+<td>Jakob Härter</td> 
+<td></td> 
+<td></td>
+<td>Germany</td>
 </tr>
 
 <tr>
@@ -997,6 +1039,14 @@ Text:
 <td>Katharina Beckenhaub</td> 
 <td>DB Vertrieb GmbH</td> 
 <td></td> 
+<td>Germany</td> 
+</tr>
+
+
+<tr>
+<td>Katharina Konopik</td> 
+<td>Onedrop GmbH & Co KG</td> 
+<td>@righthandedless</td> 
 <td>Germany</td> 
 </tr>
 
@@ -1653,11 +1703,32 @@ Text:
 <td>Switzerland</td> 
 </tr>
 
+<tr>
+<td>Richard Weltman</td> 
+<td>picturesforpress</td> 
+<td>@j3610</td> 
+<td>UK</td> 
+</tr>
+
 
 <tr>
 <td>Riona Kuthe</td> 
 <td>jweiland.net - Jochen Weiland</td> 
 <td>@mixedpixel</td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Robert van de Linde</td> 
+<td></td> 
+<td></td> 
+<td>Netherlands</td> 
+</tr>
+
+<tr>
+<td>Robert Zierhofer</td> 
+<td>Onedrop GmbH & Co KG</td> 
+<td>@rzierhofer</td> 
 <td>Germany</td> 
 </tr>
 
@@ -1700,6 +1771,13 @@ Text:
 <td>Rouven Rieker</td> 
 <td>JoussenKarliczek GmbH</td> 
 <td>@therouv</td> 
+<td>Germany</td> 
+</tr>
+
+<tr>
+<td>Runsu Deng</td> 
+<td>trnd international GmbH</td> 
+<td></td> 
 <td>Germany</td> 
 </tr>
 
@@ -2136,8 +2214,12 @@ Text:
 
 </tr>
 
-
-
+<tr>
+<td>Xaver Maierhofer</td> 
+<td>Onedrop GmbH & Co KG</td> 
+<td>@__xaver</td> 
+<td>Germany</td> 
+</tr>
 
 
 

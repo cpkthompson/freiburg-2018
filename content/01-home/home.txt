@@ -4,15 +4,15 @@ Title: Home
 
 Intro:
 
-A warm welcome to the 6th annual **SmashingConf Freiburg**, taking place on **September 11th–12th**, 2017! Join us for a few special days of friendly conversation, learning and new ideas — we’d love to see you there!
+A warm welcome to the 6th annual **SmashingConf Freiburg**, taking place on **September 11th–12th**, 2017! It’s only a few days left and we can’t wait to see you in our lovely hometown!
 
 Our mission is to explore real-life web design problems and techniques that are relevant and applicable to your work straight away. A single track with **12 speakers** will bring you a focused, well-curated learning experience, and an intimate environment of just **260 attendees** will ensure a friendly atmosphere!
 
-<p>Need help convincing your boss? We’ve got your back:<br /><a href="http://smashingconf.com/pdf/8-reasons-for-Smashing-Conference-Freiburg-2017.pdf">download "Convince Your Boss" PDF</a> (0.2 Mb).</p>
+<p>Check our <a href="https://paper.dropbox.com/doc/SmashingConf-Freiburg-2017-Attendee-Handbook-P4Se2cnarZ3he9EEyeu2r?mc_cid=7e4adc8ef0&mc_eid=461c33665c">Attendee Handbook</a> (link goes to Dropbox Paper) as well as our <a href="attendees">attendee list</a>.</p>
 
 <p class="hsh"><strong><a href="https://twitter.com/smashingconf">@smashingconf</a></strong></p>
 
-<p class="ttt">(link: registration text: Tickets available now! →)</p>
+<p class="ttt">(link: registration text: All conference tickets are sold out!)</p>
 
 ----
 
