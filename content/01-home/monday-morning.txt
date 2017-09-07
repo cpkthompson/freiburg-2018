@@ -10,36 +10,9 @@ Title: Home
 
 Intro:
 
-<p><strong>Update (September 9th)</strong>: It’s almost showtime! We can’t wait to welcome you to the 6th <strong>SmashingConf Freiburg</strong>! It may be a good idea to preload your map in Google Maps and to download the (link: https://paper.dropbox.com/doc/SmashingConf-Freiburg-2017-Attendee-Handbook-P4Se2cnarZ3he9EEyeu2r text: Attendee pack). Also, feel free to check our (link: attendees/ text: Attendee list) and see who is coming.</p>
-
-<hr />
+<p><strong>Update (Monday, September 11th)</strong>: It’s showtime! The <strong>conference</strong> is taking place at the Historisches Kaufhaus (<a href="https://www.google.de/maps/preview?ie=UTF-8&q=historisches+kaufhaus&fb=1&gl=de&hq=historisches+kaufhaus&hnear=0x47911b26560bd665:0x41f6bb7a5df57b0,Freiburg&cid=3051621356311743646&ei=7MYSVNGCMYPXyQP0voC4Ag&ved=0CC8QrwswAA">Google Maps</a>), and the registration is open from 8:30AM. <strong>No printing is necessary!</strong> — help us save the trees! Just bring your ID with you, and we will give you your badge! You’ll be set for the rest of the conference! Easy.</p>
 
 <h2 style="font-size: 1.5em;">The Schedule At A Glance</h2>
-
-<h3>Sunday, September 10th</h3>
-
-<p><strong>Workshop on Sunday:</strong></p>
-
-<p>Vitaly Friedman's <a href="https://smashingconf.com/workshops/vitaly-friedman">Smart Responsive UX Design Patterns</a> Workshop from 9 to 5 at (link: locations text: Grünhof) ((link: https://www.google.de/maps/place/Gr%C3%BCnhof+Freiburg/@47.9940488,7.8399227,15z/data=!4m2!3m1!1s0x0:0x3e139e522dd39d38?sa=X&ved=0ahUKEwiVodue3OTSAhVFhiwKHcAnA_4Q_BIIlAEwDg text: Google Maps)). Get some coffee on arrival. Lunch included. <em>Please note this is a different location than the rest of the conference</em></p>
-
-<h4>Pre-Conference Warm-Up Party</h4>
-<p>On Sunday, <strong>September 10th</strong>, just before the two main conference days, we’re hosting a pre-conference warm-up party for SmashingConf attendees at the <a href="https://www.google.de/maps/place/Gr%C3%BCnhof+Freiburg/@47.9940488,7.8399227,15z/data=!4m2!3m1!1s0x0:0x3e139e522dd39d38?sa=X&ved=0ahUKEwiVodue3OTSAhVFhiwKHcAnA_4Q_BIIlAEwDg">Grünhof co-working space</a> — with the lightning talks!</p>
-
-<p>Here’s the schedule of our lightning talks:</p>
-
-<ul>
-<li><strong>6:30PM</strong> &mdash; Doors open: networking, drinks</li>
-<li><strong>7:30PM</strong> &mdash; Bastian Koch &mdash; Building Lighthouses Through Design</li>
-<li><strong>7:45PM</strong> &mdash; Hans Höchtl &mdash; A System of Front-End and Back-End People Love</li>
-<li><strong>8:05PM</strong> &mdash; Samuell Snopko &mdash; How To Write Modular/Atomic CSS With Modern Gulp Stack</li>
-<li><strong>8:20PM</strong> &mdash; TBD</li>
-<li><strong>8:35PM</strong> &mdash; TBD</li>
-</ul>
-
-<p>The idea behind the lightning talks is to give folks attending the conference a chance to hang out together ahead of the event. Share some drinks, share your knowledge and experience too! Be sure to <a href="https://www.meetup.com/SmashingConf/events/241543898/">RSVP</a> so we know you're coming!</p>
-
-
-<hr />
 
 <h3>Monday, September 11th</h3>
 <strong>Wi-Fi</strong>: SmashingConf / Pass: icecream
