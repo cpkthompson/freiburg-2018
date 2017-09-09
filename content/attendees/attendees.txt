@@ -281,8 +281,9 @@ Text:
 </tr>
 
 <tr>
-<td>Benoit Henry</td>   
+<td>Benoît Henry</td>   
 <td></td> 
+<td>@bhenbe</td> 
 <td>Belgium</td> 
 </tr>
 
