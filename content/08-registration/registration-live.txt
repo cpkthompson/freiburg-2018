@@ -55,9 +55,8 @@ Text:
 
 <tr>
 <td><strong>Workshop:</strong> Alla on Modular Design &bullet; (link: workshops/alla-kholmatova text: Details)...</a></td>
-<td class="pc">$399</td>
-<td class="cta"><a href="https://shop.smashingmagazine.com/products/workshop-alla-kholmatova-freiburg-2017" class="bt" >2 tickets left</a></td>
-</tr>
+<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>
+<td class="cta"><a class="bt sobt" >Sold out</a></td>
 
 <tr>
 <td><strong>Workshop:</strong> Umar on DevTools &bullet; (link: workshops/umar-hansa text: Details)...</a></td>
@@ -67,10 +66,8 @@ Text:
 
 <tr>
 <td><strong>Workshop:</strong> Rachel on CSS Grid &bullet; (link: workshops/rachel-andrew text: Details)...</a></td>
-<td class="pc">$399</td>
-<!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
-<td class="cta"><a href="https://shop.smashingmagazine.com/products/workshop-rachel-andrew-freiburg-2017" class="bt" >3 tickets left</a></td>
-</tr>
+<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>
+<td class="cta"><a class="bt sobt" >Sold out</a></td>
 
 </tbody>
 </table>
