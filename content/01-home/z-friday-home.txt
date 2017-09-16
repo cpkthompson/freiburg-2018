@@ -4,7 +4,69 @@ Title: Home
 
 Intro:
 
-<p><strong>Update (Wednesday, September 13th)</strong>: It’s workshops time! Start at 9AM. Doors open at 8:30AM, at (link: locations text: Historical Merchants’ Hall). Coffee will be waiting for you on arrival!</p>
+Title: Home
+
+----
+
+Intro:
+
+<p><strong>Update (September 9th)</strong>: It’s almost showtime! We can’t wait to welcome you to the 6th <strong>SmashingConf Freiburg</strong>! It may be a good idea to preload your map in Google Maps and to download the (link: https://paper.dropbox.com/doc/SmashingConf-Freiburg-2017-Attendee-Handbook-P4Se2cnarZ3he9EEyeu2r text: Attendee pack). Also, feel free to check our (link: attendees/ text: Attendee list) and see who is coming.</p>
+
+<hr />
+
+<h2 style="font-size: 1.5em;">The Schedule At A Glance</h2>
+
+<h3>Arrive early? Need to work?</h3>
+<p>If you're looking for a place to work from, here are two places with very good Wi-Fi (and coffee!):</p>
+
+<ul>
+<li><a href="https://www.google.de/maps/dir/''/coffee+pow/data=!4m5!4m4!1m0!1m2!1m1!1s0x47911b60e334fc05:0x5a2d91d108605760?sa=X&ved=0ahUKEwjdluTXzpfWAhUQPFAKHfbkD04Q9RcImwEwEA">Café POW</a>, Belfortstraße 52, 79098 Freiburg im Breisgau. <a href="https://www.google.de/maps/dir/''/coffee+pow/data=!4m5!4m4!1m0!1m2!1m1!1s0x47911b60e334fc05:0x5a2d91d108605760?sa=X&ved=0ahUKEwjdluTXzpfWAhUQPFAKHfbkD04Q9RcImwEwEA">Google Maps</a></li>
+<li><a href="https://www.google.de/maps/place/Sedan+Caf%C3%A9/@47.9947959,7.8429737,19.47z/data=!4m18!1m12!4m11!1m3!2m2!1d7.8388912!2d47.9977037!1m6!1m2!1s0x47911b60e334fc05:0x5a2d91d108605760!2scoffee+pow!2m2!1d7.839923!2d47.994049!3m4!1s0x0:0x5c06876bd8c7faec!8m2!3d47.995041!4d7.8431037">Sedan Café</a>, Sedanstraße 9, 79098 Freiburg im Breisgau. <a href="https://www.google.de/maps/place/Sedan+Caf%C3%A9/@47.9947959,7.8429737,19.47z/data=!4m18!1m12!4m11!1m3!2m2!1d7.8388912!2d47.9977037!1m6!1m2!1s0x47911b60e334fc05:0x5a2d91d108605760!2scoffee+pow!2m2!1d7.839923!2d47.994049!3m4!1s0x0:0x5c06876bd8c7faec!8m2!3d47.995041!4d7.8431037">Google Maps</a></li>
+</ul>
+
+<h3>Sunday, September 10th</h3>
+
+<p><strong>Workshop on Sunday:</strong></p>
+
+<p>Vitaly Friedman's <a href="https://smashingconf.com/workshops/vitaly-friedman">Smart Responsive UX Design Patterns</a> Workshop from 9 to 5 at (link: locations text: Grünhof) ((link: https://www.google.de/maps/place/Gr%C3%BCnhof+Freiburg/@47.9940488,7.8399227,15z/data=!4m2!3m1!1s0x0:0x3e139e522dd39d38?sa=X&ved=0ahUKEwiVodue3OTSAhVFhiwKHcAnA_4Q_BIIlAEwDg text: Google Maps)). Get some coffee on arrival. Lunch included. <em>Please note this is a different location than the rest of the conference</em></p>
+
+<h4>Pre-Conference Warm-Up Party</h4>
+<p>On Sunday, <strong>September 10th</strong>, just before the two main conference days, we’re hosting a pre-conference warm-up party for SmashingConf attendees at the <a href="https://www.google.de/maps/place/Gr%C3%BCnhof+Freiburg/@47.9940488,7.8399227,15z/data=!4m2!3m1!1s0x0:0x3e139e522dd39d38?sa=X&ved=0ahUKEwiVodue3OTSAhVFhiwKHcAnA_4Q_BIIlAEwDg">Grünhof co-working space</a> — with the lightning talks!</p>
+
+<p>Here’s the schedule of our lightning talks:</p>
+
+<ul>
+<li><strong>6:30PM</strong> &mdash; Doors open: networking, drinks</li>
+<li><strong>7:30PM</strong> &mdash; Bastian Koch &mdash; Building Lighthouses Through Design</li>
+<li><strong>7:45PM</strong> &mdash; Hans Höchtl &mdash; A System of Front-End and Back-End People Love</li>
+<li><strong>8:05PM</strong> &mdash; Samuell Snopko &mdash; How To Write Modular/Atomic CSS With Modern Gulp Stack</li>
+<li><strong>8:20PM</strong> &mdash; TBD</li>
+<li><strong>8:35PM</strong> &mdash; TBD</li>
+</ul>
+
+<p>The idea behind the lightning talks is to give folks attending the conference a chance to hang out together ahead of the event. Share some drinks, share your knowledge and experience too! Be sure to <a href="https://www.meetup.com/SmashingConf/events/241543898/">RSVP</a> so we know you're coming!</p>
+
+
+<hr />
+
+<h3>Monday, September 11th</h3>
+<strong>Wi-Fi</strong>: SmashingConf / Pass: icecream
+Kicking off the <strong>conference at 9:30AM</strong>! (<a href="https://smashingconf.com/schedule">Schedule for day 1.</a>)
+Snacks and coffee provided throughout the day. We also have charging stations in every other row in the main hall and at the Haufe lounge.
+SmashingConf Party back at the <a href="smashed.by/party">Historisches Kaufhaus</a> (<a href="http://smashed.by/party">Google Maps</a>), starting at 8:00PM. <strong>Don’t forget your badge!</strong></li>
+
+<hr />
+
+<h3>Tuesday, September 12th</h3>
+<a href="https://smashingconf.com/schedule/day:tuesday">Schedule for day 2.</a>
+Snacks and coffee provided throughout the day.
+SmashingConf <a href="https://www.google.de/maps/place/Kastaniengarten+Biergarten/@47.992789,7.855567,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipP_ijkZOOMZCixCpP4SbFn0w69xxCA92U16_U1P!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP_ijkZOOMZCixCpP4SbFn0w69xxCA92U16_U1P%3Dw152-h86-k-no!7i4032!8i2268!4m8!1m2!2m1!1sbiergarten+greifenegg!3m4!1s0x0:0xb879f13ea1bb3fba!8m2!3d47.9926789!4d7.8554982?hl=en"><strong>Kastaniengarten Biergarten Networking event</strong></a>: we’ll meet in front of Historical Merchants’ Hall right after the conference ends (at around 6:00PM)
+
+<hr />
+
+<h3>Wednesday, September 13th</h3>
+Workshops from 9 to 5 at (link: locations text: Historical Merchants’ Hall). Get some coffee on arrival. Lunch included.
+
 
 <p><strong>Workshops on Thursday:</strong></p>
 <ul><li>Alla Kholmatova on <a href="https://smashingconf.com/workshops/alla-kholmatova">Modular Design</a></li>
@@ -14,8 +76,8 @@ Intro:
 
 <hr />
 
-<h3>Transportation from Freiburg to Basel Airport</h3>
-<p>You can take the <a href="https://shop.flixbus.com/search?route=Freiburg+%28i.Br.%29-Basel+EuroAirport&rideDate=13.09.2017&adults=1&children=0&bikes=0&_locale=en&departureCity=92&departureStation=&arrivalCity=8148&arrivalStation=&currency=EUR">Airport Bus</a> from Basel Airport to Freiburg and back, for €20 for one trip. The bus departs once in an hour (check the <a href="https://shop.flixbus.com/search?route=Freiburg+%28i.Br.%29-Basel+EuroAirport&rideDate=13.09.2017&adults=1&children=0&bikes=0&_locale=en&departureCity=92&departureStation=&arrivalCity=8148&arrivalStation=&currency=EUR">time table</a>). The bus driver won’t accept credit cards, so please make sure to have <strong>€20 in cash </strong> with you or <a href="https://shop.flixbus.com/search?route=Freiburg+%28i.Br.%29-Basel+EuroAirport&rideDate=13.09.2017&adults=1&children=0&bikes=0&_locale=en&departureCity=92&departureStation=&arrivalCity=8148&arrivalStation=&currency=EUR">book your ticket</a> ahead of your trip.</p> 
+<h3>Transportation from Basel Airport to Freiburg</h3>
+<p>You can take the <a href="https://shop.flixbus.com/search?route=Basel+EuroAirport-Freiburg+%28i.Br.%29&rideDate=10.09.2017&adults=1&children=0&bikes=0&_locale=en&departureCity=8148&departureStation=&arrivalCity=92&arrivalStation=&currency=EUR">Airport Bus</a> from Basel Airport to Freiburg and back, for €20 for one trip. The bus departs once in an hour (check the <a href="https://shop.flixbus.com/search?route=Basel+EuroAirport-Freiburg+%28i.Br.%29&rideDate=10.09.2017&adults=1&children=0&bikes=0&_locale=en&departureCity=8148&departureStation=&arrivalCity=92&arrivalStation=&currency=EUR">time table</a>). The bus driver won’t accept credit cards, so please make sure to have <strong>€20 in cash </strong> with you or <a href="https://shop.flixbus.com/search?route=Basel+EuroAirport-Freiburg+%28i.Br.%29&rideDate=10.09.2017&adults=1&children=0&bikes=0&_locale=en&departureCity=8148&departureStation=&arrivalCity=92&arrivalStation=&currency=EUR">book your ticket</a> ahead of your trip.</p> 
 <p>A <strong>taxi</strong> will be quite pricey (€107) and needs to be <strong>pre-booked</strong> via phone (+49-761-555555) &mdash; make sure to have your Credit Card ready. Might be a good option if you’re traveling with friends or collegues.</p>
 
 <!--<hr />
@@ -40,14 +102,6 @@ Intro:
 -->
 
 <hr />
-
-<h3>Need to get work done?</h3>
-<p>If you're looking for a place to work from, here are two places with very good Wi-Fi (and coffee!):</p>
-
-<ul>
-<li><a href="https://www.google.de/maps/dir/''/coffee+pow/data=!4m5!4m4!1m0!1m2!1m1!1s0x47911b60e334fc05:0x5a2d91d108605760?sa=X&ved=0ahUKEwjdluTXzpfWAhUQPFAKHfbkD04Q9RcImwEwEA">Café POW</a>, Belfortstraße 52, 79098 Freiburg im Breisgau. <a href="https://www.google.de/maps/dir/''/coffee+pow/data=!4m5!4m4!1m0!1m2!1m1!1s0x47911b60e334fc05:0x5a2d91d108605760?sa=X&ved=0ahUKEwjdluTXzpfWAhUQPFAKHfbkD04Q9RcImwEwEA">Google Maps</a></li>
-<li><a href="https://www.google.de/maps/place/Sedan+Caf%C3%A9/@47.9947959,7.8429737,19.47z/data=!4m18!1m12!4m11!1m3!2m2!1d7.8388912!2d47.9977037!1m6!1m2!1s0x47911b60e334fc05:0x5a2d91d108605760!2scoffee+pow!2m2!1d7.839923!2d47.994049!3m4!1s0x0:0x5c06876bd8c7faec!8m2!3d47.995041!4d7.8431037">Sedan Café</a>, Sedanstraße 9, 79098 Freiburg im Breisgau. <a href="https://www.google.de/maps/place/Sedan+Caf%C3%A9/@47.9947959,7.8429737,19.47z/data=!4m18!1m12!4m11!1m3!2m2!1d7.8388912!2d47.9977037!1m6!1m2!1s0x47911b60e334fc05:0x5a2d91d108605760!2scoffee+pow!2m2!1d7.839923!2d47.994049!3m4!1s0x0:0x5c06876bd8c7faec!8m2!3d47.995041!4d7.8431037">Google Maps</a></li>
-</ul>
 
 <h3>Helpful Resources</h3>
 <ul>
