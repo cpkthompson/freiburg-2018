@@ -1,0 +1,14 @@
+#AuthName "Do you want to smash my conf?"
+#AuthType Basic
+#AuthUserFile "/var/www/smashingconf.com/private/.htpasswd"
+#Require valid-user
+
+<IfModule mod_rewrite.c>
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^(.*) index.php [L]
+
+</IfModule>

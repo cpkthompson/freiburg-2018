@@ -7,7 +7,7 @@ c::set('license', 'smashingconf');
 
 
 /* Local Development */
-#c::set('url', 'http://fr16.kirby');
+#c::set('url', 'http://fr17.kirby');
 #c::set('subfolder', 'fr-2017');
 
 /* Server Development */
