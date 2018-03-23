@@ -1,18 +1,18 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//lanyrd.com//Lanyrd//EN
-X-ORIGINAL-URL:http://lanyrd.com/2016/smashingconf-freiburg/smashingconf-freiburg.ics
-X-WR-CALNAME;CHARSET=utf-8:SmashingConf Freiburg 2016
+X-ORIGINAL-URL:http://lanyrd.com/2018/smashingconf-freiburg/smashingconf-freiburg.ics
+X-WR-CALNAME;CHARSET=utf-8:SmashingConf Freiburg 2018
 METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
-SUMMARY;CHARSET=utf-8:SmashingConf Freiburg 2016
+SUMMARY;CHARSET=utf-8:SmashingConf Freiburg 2018
 LOCATION;CHARSET=utf-8:Historisches Kaufhaus Freiburg\, Münsterplatz 24\, 79098
-URL:http://lanyrd.com/2016/smashingconf-freiburg/
+URL:http://lanyrd.com/2018/smashingconf-freiburg/
 UID:66da4bec0897d6be8d2fb22e12cd7ef9dc813bb4
 DESCRIPTION:Smashing Conference: 2 days\, one track\, 14 brilliant speakers\, and hands-on\, practical and useful talks.\n\nhttp://lanyrd.com/cftgdc
-DTSTART;VALUE=DATE:20160912
-DTEND;VALUE=DATE:20160914
+DTSTART;VALUE=DATE:20180912
+DTEND;VALUE=DATE:20180914
 GEO:47.9949575609;7.85275154418
 END:VEVENT
 END:VCALENDAR

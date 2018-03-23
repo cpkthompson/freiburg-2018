@@ -1,4 +1,4 @@
-# Smashing Conference Freiburg 2016 – Documentation
+# Smashing Conference Freiburg 2018 – Documentation
 
 ## Why a documentation?
 
@@ -48,8 +48,8 @@ being uncommented from line 21 to line 23. If at some point the install moves to
 
 ```php
 /* Directory Install - Live */
-#c::set('url', 'https://smashingconf.com/freiburg-2016');
-#c::set('subfolder', 'freiburg-2016');
+#c::set('url', 'https://smashingconf.com/freiburg-2018');
+#c::set('subfolder', 'freiburg-2018');
 ```
 
 uncommented. Remove the hash-signs in front of the lines 18 & 19 to uncomment. Add them in, in front of the lines you wish to comment and thus make them unusable for Kirby.
@@ -174,11 +174,11 @@ Going offline also means that we are somewhere in the grey area of progressive w
 
 We are giving the manifest a version in order to make it updateable. Like with the serviceworker, whenever the manifest changes, we want to update the version number in order to create a new request and make the user update the file.
 
-The name of the manifest should match with what the site's purpose is or what's in the title of the website. In our case we tell the device that it's a Smashing Conference and also which one it is: `"name": "Smashing Conference Freiburg 2016",` it goes without saying that this needs to be adjusted for every install.
+The name of the manifest should match with what the site's purpose is or what's in the title of the website. In our case we tell the device that it's a Smashing Conference and also which one it is: `"name": "Smashing Conference Freiburg 2018",` it goes without saying that this needs to be adjusted for every install.
 
 As our website speaks only english we hand out a locale of `en`. That way any browser or device will know the language of our app/site.
 
-The description should match with what we give away in the description meta inside the `<head>` of the website. In our case the description text can be adjusted in `site.txt` which lies inside the `/content/` directory. As it is now, it is way too long for a description and needs adjustment: `Smashing Conference Freiburg 2016, September 12th to 13th – an event for passionate Web designers and developers, organized by Vitaly Friedman and the Smashing Magazine Team.`. Hence I shortened the description for the manifest to: `Smashing Conference Freiburg 2016, taking place on the 12th and 13th of September`.
+The description should match with what we give away in the description meta inside the `<head>` of the website. In our case the description text can be adjusted in `site.txt` which lies inside the `/content/` directory. As it is now, it is way too long for a description and needs adjustment: `Smashing Conference Freiburg 2018, September 12th to 13th – an event for passionate Web designers and developers, organized by Vitaly Friedman and the Smashing Magazine Team.`. Hence I shortened the description for the manifest to: `Smashing Conference Freiburg 2018, taking place on the 12th and 13th of September`.
 
 The `short_name` meta takes only a single word, so I opted for: `SmashingConf`.
 

@@ -6,19 +6,19 @@ Intro:
 
 <p><strong>(October 2nd)</strong>: We just uploaded all the videos and slides! Feel free to share them with your friends and collegues, and relive your Smashing experience! We hope you had a great time with us and would love to seeing you again next year!</p>
 
-<h3>Videos for SmashingConf Freiburg 2017</h3>
+<h3>Videos for SmashingConf Freiburg 2018</h3>
 
 <ul>
 <li>Rachel Andrew (<a href="https://vimeo.com/235424601">Video</a>) &mdash; (<a href="https://de.slideshare.net/rachelandrew/laying-out-the-future-with-grid-flexbox-smashing-conf-freiburg">Slides</a>)</li>
-<li>Michael Reithmuller (<a href="https://vimeo.com/235428198">Video</a>) &mdash; (<a href="https://madebymike.com.au/smashing-conf-2017/">Slides</a>)</li>
+<li>Michael Reithmuller (<a href="https://vimeo.com/235428198">Video</a>) &mdash; (<a href="https://madebymike.com.au/smashing-conf-2018/">Slides</a>)</li>
 <li>Umar Hansa (<a href="https://vimeo.com/235431630">Video</a>) </li>
 <li>Emanuella and Matteo (<a href="https://vimeo.com/235434986">Video</a>) &mdash; (<a href="https://www.slideshare.net/magicodeselegantdesign/redesign-design-duo-version">Slides</a>)</li>
-<li>Mathias Biilmann Christensen (<a href="https://vimeo.com/235438562">Video</a>) &mdash; (<a href="https://speakerdeck.com/biilmann/the-jamstack-smashing-conf-freiburg-2017">Slides</a>)</li>
+<li>Mathias Biilmann Christensen (<a href="https://vimeo.com/235438562">Video</a>) &mdash; (<a href="https://speakerdeck.com/biilmann/the-jamstack-smashing-conf-freiburg-2018">Slides</a>)</li>
 <li>Chris Wright (<a href="https://vimeo.com/235441212">Videos</a>) &mdash; (<a href="https://speakerdeck.com/cwrightdesign/changing-the-layout-game-smashing-version">Slides</a>)</li>
 <li>Alma Hoffman (<a href="https://vimeo.com/235451342">Video</a>) (<a href="https://speakerdeck.com/almahoffmann/harnessing-the-creative-mind">Slides</a>)</li>
 <li>Scott Helme (<a href="https://vimeo.com/235443766">Video</a>) &mdash; (<a href="https://www.dropbox.com/s/eckldtdf98vsdq6/CSP%20STS%20PKP%20SRI%20ETC%20OMG%20WTF%20BBQ.pptx?dl=0">Slides</a>)</li>
 <li>Barry Munsterteiger (<a href="https://vimeo.com/235446582">Video</a>)</li>
-<li>Sara Ramos  &amp; Tiago Pedras (<a href="https://vimeo.com/235448838">Video</a>) &mdash; (<a href="https://www.dropbox.com/s/6vtnv28r9llv8hy/2017-09-11%20-%20Smashing%20Conf%20Freiburg.key?dl=0">Slides</a>)</li>
+<li>Sara Ramos  &amp; Tiago Pedras (<a href="https://vimeo.com/235448838">Video</a>) &mdash; (<a href="https://www.dropbox.com/s/6vtnv28r9llv8hy/2018-09-11%20-%20Smashing%20Conf%20Freiburg.key?dl=0">Slides</a>)</li>
 </ul>
 
 ----

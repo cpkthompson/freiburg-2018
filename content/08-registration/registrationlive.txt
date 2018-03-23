@@ -3,7 +3,7 @@ Title: Get your ticket!
 Intro: 
                     
 <div class="cls" markdown="1"> 
-So you'd like to be a part of the _SmashingConf Freiburg 2018_? Brilliant — mark your calendar! **Tickets will go on sale on Tuesday, March 28, at 14:00 CET**. Be quick: only _260 tickets are available_.
+We are delighted to have you join us in Freiburg! Seating is limited and **tickets are available now**. If you need help convincing your company, you can download our (link: http://smashingconf.com/pdf/8-reasons-for-Smashing-Conference-Freiburg-2018.pdf text: Convince-Your-Boss PDF) (0.2MB).
 
 **All prices include 19% German VAT**. Payment methods are Credit Card and Paypal. We’ll reserve 10 student tickets. Please send a photo of your student ID to &#109;&#097;&#099;&#064;&#115;&#109;&#097;&#115;&#104;&#105;&#110;&#103;&#099;&#111;&#110;&#102;&#046;&#099;&#111;&#109; and Mariona will get back to you swiftly!
 </div>
@@ -17,20 +17,19 @@ Text:
 <tr>
 <td>Conference Ticket <span style="color: #858585;">&bullet; Early bird</span></td>
 <td class="pc">$399</td>
-<!--<td class="pc">Join the (email: waitinglist@smashingconf.com text: waiting list)</td>-->
-<td class="cta"><a class="bt sobt" >2min left</a></td>
+<td class="cta"><a class="bt sobt">Sold out</a></td>
 </tr>
 
 <tr>
 <td>Conference Ticket <span style="color: #858585;">&bullet; Regular Ticket</span></td>
 <td class="pc">$499</td>
-<td class="cta"><a class="bt sobt">2min left</a></td>
+<td class="cta"><a class="bt sobt">Sold out</a></td>
 </tr>
 
 <tr>
 <td>Conference + Workshop Ticket</td>
 <td class="pc">Save $100</td>
-<td class="cta"><a class="bt sobt">2min left</a></td>
+<td class="cta"><a class="bt sobt">Sold out</a></td>
 </tr>
 
 </tbody></table>
@@ -42,9 +41,8 @@ Text:
 
 <tr>
 <td><strong>Workshop:</strong> Vitaly on UX Patterns &bullet; (link: workshops/vitaly-friedman text: Details)...</a></td>
-<td class="pc">$399</td>
-<!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
-<td class="cta"><a alt="https://shop.smashingmagazine.com/products/vitaly-ux-design-patterns-freiburg-2018" class="bt sobt" >2min left</a></td>
+<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>
+<td class="cta"><a class="bt sobt" >Sold out</a></td>
 </tr>
 </tbody>
 </table>
@@ -57,24 +55,19 @@ Text:
 
 <tr>
 <td><strong>Workshop:</strong> Alla on Modular Design &bullet; (link: workshops/alla-kholmatova text: Details)...</a></td>
-<td class="pc">$399</td>
-<!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
-<td class="cta"><a alt="https://shop.smashingmagazine.com/products/alla-kholmatova-modular-design-freiburg-2018" class="bt sobt" >2min left</a></td>
-</tr>
+<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>
+<td class="cta"><a class="bt sobt" >Sold out</a></td>
 
 <tr>
 <td><strong>Workshop:</strong> Umar on DevTools &bullet; (link: workshops/umar-hansa text: Details)...</a></td>
-<td class="pc">$399</td>
-<!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
-<td class="cta"><a alt="https://shop.smashingmagazine.com/products/umar-hansa-devtools-freiburg-2018" class="bt sobt" >2min left</a></td>
+<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>
+<td class="cta"><a class="bt sobt" >Sold out</a></td>
 </tr>
 
 <tr>
 <td><strong>Workshop:</strong> Rachel on CSS Grid &bullet; (link: workshops/rachel-andrew text: Details)...</a></td>
-<td class="pc">$399</td>
-<!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
-<td class="cta"><a alt="https://shop.smashingmagazine.com/products/rachel-andrew-css-grid-freiburg-2018" class="bt sobt" >2min left</a></td>
-</tr>
+<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>
+<td class="cta"><a class="bt sobt" >Sold out</a></td>
 
 </tbody>
 </table>

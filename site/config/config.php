@@ -8,15 +8,15 @@ c::set('license', 'smashingconf');
 
 /* Local Development */
 #c::set('url', 'http://fr17.kirby');
-#c::set('subfolder', 'fr-2017');
+#c::set('subfolder', 'fr-2018');
 
 /* Server Development */
 #c::set('url', 'https://smashingconf.com/dev');
 #c::set('subfolder', 'dev');
 
 /* Directory Install - Live */
-c::set('url', 'https://smashingconf.com/freiburg-2017');
-c::set('subfolder', 'freiburg-2017');
+c::set('url', 'https://smashingconf.com/freiburg-2018');
+c::set('subfolder', 'freiburg-2018');
 
 /* Root Install - Live */
 #c::set('url', 'https://smashingconf.com');

@@ -1,4 +1,4 @@
-/*! onloadCSS: adds onload support for asynchronous stylesheets loaded with loadCSS. [c]2016 @zachleat, Filament Group, Inc. Licensed MIT */
+/*! onloadCSS: adds onload support for asynchronous stylesheets loaded with loadCSS. [c]2018 @zachleat, Filament Group, Inc. Licensed MIT */
 /* global navigator */
 /* exported onloadCSS */
 function onloadCSS( ss, callback ) {

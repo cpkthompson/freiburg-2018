@@ -21,12 +21,12 @@
   <meta name="keywords" content="<?php echo html($site->keywords()) ?>" />
   <meta name="robots" content="index, follow" />
   <meta property="fb:admins" content="564938915" />
-  <meta property="og:title" content="Smashing Conference Freiburg 2017" />
+  <meta property="og:title" content="Smashing Conference Freiburg 2018" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://smashingconf.com/freiburg-2017/" />
+  <meta property="og:url" content="https://smashingconf.com/freiburg-2018/" />
   <meta property="og:description" content="<?php echo html($site->description()) ?>" />
-  <meta property="og:image" content="assets/images/banners/smashingconf-freiburg2017.png" />
-  <link rel="image_src" href="assets/images/banners/smashingconf-freiburg2017.png" />
+  <meta property="og:image" content="assets/images/banners/smashingconf-freiburg2018.png" />
+  <link rel="image_src" href="assets/images/banners/smashingconf-freiburg2018.png" />
   <!--[if IE]><link href="favicon.ico" rel="icon" /><![endif]-->
   <link href="favicon.png" rel="icon" />
   <link rel="apple-touch-icon" href="assets/images/appletouchicon.png" />
@@ -38,18 +38,18 @@
     <div id="ddc" class="ddc">
       <div id="dd" class="wdd" tabindex="1">
         <span class="rbt">Freiburg <img src="<?php echo url('assets/images/german-flag.png') ?>" width="26" height="26" alt="SmashingConf Germany" /> </span>
-        <span class="date">11<sup>th</sup>–12<sup>th</sup> of September 2017</span>
+        <span class="date">11<sup>th</sup>–12<sup>th</sup> of September 2018</span>
         <ul class="ddu">
             <li>
-              <a href="https://smashingconf.com/barcelona-2017">
+              <a href="https://smashingconf.com/barcelona-2018">
               <span class="rbt">Barcelona <img src="<?php echo url('assets/images/spanish-flag.png') ?>" width="26" height="26" alt="SmashingConf Barcelona" /> </span>
-              <span class="date">17<sup>th</sup>–18<sup>th</sup> of October 2017</span>
+              <span class="date">17<sup>th</sup>–18<sup>th</sup> of October 2018</span>
               </a>
           </li>
           <li>
-              <a href="//smashingconf.com/ny-2017/">
-              <span class="rbt">New York <img src="<?php echo url('assets/images/usa-flag.png') ?>" width="26" height="26" alt="SmashingConf New York 2017" /> </span>
-              <span class="date">13<sup>th</sup>–14<sup>th</sup> of June 2017</span>
+              <a href="//smashingconf.com/ny-2018/">
+              <span class="rbt">New York <img src="<?php echo url('assets/images/usa-flag.png') ?>" width="26" height="26" alt="SmashingConf New York 2018" /> </span>
+              <span class="date">13<sup>th</sup>–14<sup>th</sup> of June 2018</span>
               </a>
           </li>
         </ul>
@@ -59,7 +59,7 @@
       <div class="ddc nojsdd">
         <a href="//smashingconf.com/">
           <span class="rbt">Freiburg <img src="<?php echo url('assets/images/german-flag.png') ?>" width="26" height="26" alt="SmashingConf Germany" /> </span>
-          <span class="date">11<sup>th</sup>–12<sup>th</sup> of September 2017</span>
+          <span class="date">11<sup>th</sup>–12<sup>th</sup> of September 2018</span>
         </a>
       </div>
     </noscript>
