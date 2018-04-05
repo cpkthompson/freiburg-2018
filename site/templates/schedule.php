@@ -6,8 +6,11 @@ if(!in_array($day, array('monday', 'tuesday'))) $day = 'monday';
 $schedule = yaml($page->schedule());
 $schedule = $schedule[str::ucfirst(str::lower($day))];
 ?>
+
 <section class="c schedule">
-  <h1><?php echo html($page->title()) ?></h1>
+<br /><br /><p>We’ll announce the schedule throughout the next few weeks — please stay tuned!</p>
+<hr>
+<!--  <h1><?php echo html($page->title()) ?></h1>
   <?php if($page->intro() != ''): ?>
   <div class="io">
     <?php echo kirbytext($page->intro()) ?>
@@ -47,6 +50,6 @@ $schedule = $schedule[str::ucfirst(str::lower($day))];
     </tr>
     <?php endif ?>
     <?php endforeach ?>
-  </table>
+  </table>-->
 </section>
 <?php snippet('footer') ?>

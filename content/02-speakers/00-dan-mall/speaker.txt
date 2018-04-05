@@ -1,0 +1,27 @@
+Title: Dan Mall
+
+----
+
+Bio: 
+
+Dan Mall is a designer from Philadelphia, an enthralled husband and new dad, Founder &amp; Design Director at (link: http://superfriend.ly/ text: SuperFriendly). He is the co-founder of (link: http://typedia.com/ text: Typedia), _The Businessology Show_, and _swfIR_. He was formerly Design Director at _Big Spaceship_, Interactive Director at _Happy Cog_ and a technical editor for _A List Apart_.
+                                        
+Having worked with clients like Google, Lucasfilm, Microsoft, GE, Wrigley, The Mozilla Foundation, Thomson Reuters, and The Sherwin-Williams Company, he has a passion for playing matchmaker between surprising art direction and intuitive interaction design.
+
+----
+
+Talk: Proper Etiquette for the Advancement of Design
+
+----
+
+Description: 
+
+Designing at your desk with Photoshop or HTML and CSS is easy, but getting your bosses and clients to give your work their stamp of approval is often quite a feat. In this presentation, Dan will share some stories of tools, methodologies, and non-traditional deliverables that can help you get the buy-in you need. Follow along to learn how to make everyone you work with say "please" and "thank you!"
+
+----
+
+Link: http://danielmall.com
+
+----
+
+Twitter: @danielmall

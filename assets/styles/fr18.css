@@ -485,6 +485,15 @@ h4 {
 .ss li:focus .si.Craig {
   background-image: url(../images/speakers/craig-hov.png);
 }
+.si.Dan {
+  background-image: url(../images/speakers/dan.png);
+}
+}
+.ss li:hover .si.Dan,
+.ss li:active .si.Dan,
+.ss li:focus .si.Dan {
+  background-image: url(../images/speakers/dan-hov.png);
+}
 .si.Josh {
   background-image: url(../images/speakers/josh.png);
 }
@@ -729,7 +738,13 @@ h4 {
   body {
     background: #fff;
   }
-  h2,
+  
+  p {
+  font-size: 1.1em;
+  line-height: 1.6em;
+}
+
+h2,
   h3,
   h4 {
     orphans: 3;
