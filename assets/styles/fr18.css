@@ -1,5 +1,6 @@
 body {
-  background: url(https://smashingconf.com/2015/assets/images/background.png);
+  background: url(../images/background.png);
+  background-image: linear-gradient(#fafafa, #d6d6d6);
 }
 h4,
 blockquote,

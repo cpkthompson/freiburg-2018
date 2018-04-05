@@ -15,7 +15,7 @@ c::set('license', 'smashingconf');
 #c::set('subfolder', 'dev');
 
 /* Directory Install - Live */
-c::set('url', 'https://smashingconf.com/dev/freiburg-2018/');
+c::set('url', 'https://smashingconf.com/freiburg-2018');
 c::set('subfolder', 'freiburg-2018');
 
 /* Root Install - Live */
