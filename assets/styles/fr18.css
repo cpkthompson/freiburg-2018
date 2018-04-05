@@ -27,7 +27,7 @@ blockquote:after {
   content: '';
 }
 a:hover {
-  border-bottom: 0.08em solid #4DB7DB;
+  border-bottom: 0.08em solid #2685a5;
 }
 h4,
 .sc,
@@ -88,7 +88,7 @@ h4,
 }
 .c a:hover,
 .c a:focus {
-  border-color: #4DB7DB;
+  border-color: #2685a5;
 }
 .c a:active {
   color: #fff;
@@ -123,7 +123,7 @@ h4 {
 .m a:hover,
 .m a.active {
   color: #fff;
-  background: #4DB7DB;
+  background: #2685a5;
   border: 0;
 }
 .m li:last-child a:hover,
@@ -488,7 +488,6 @@ h4 {
 }
 .si.Dan {
   background-image: url(../images/speakers/dan.png);
-}
 }
 .ss li:hover .si.Dan,
 .ss li:active .si.Dan,
