@@ -38,7 +38,7 @@
     <div id="ddc" class="ddc">
       <div id="dd" class="wdd" tabindex="1">
         <span class="rbt">Freiburg <img src="<?php echo url('assets/images/german-flag.png') ?>" width="26" height="26" alt="SmashingConf Germany" /> </span>
-        <span class="date">11<sup>th</sup>–12<sup>th</sup> of September 2018</span>
+        <span class="date">10<sup>th</sup>–11<sup>th</sup> of September 2018</span>
         <ul class="ddu">
             <li>
               <a href="https://smashingconf.com/barcelona-2018">
@@ -59,7 +59,7 @@
       <div class="ddc nojsdd">
         <a href="//smashingconf.com/">
           <span class="rbt">Freiburg <img src="<?php echo url('assets/images/german-flag.png') ?>" width="26" height="26" alt="SmashingConf Germany" /> </span>
-          <span class="date">11<sup>th</sup>–12<sup>th</sup> of September 2018</span>
+          <span class="date">10<sup>th</sup>–11<sup>th</sup> of September 2018</span>
         </a>
       </div>
     </noscript>
