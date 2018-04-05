@@ -1,0 +1,94 @@
+Title: Design Workflow for a Multi-Device World
+
+----
+
+Trainer: Dan Mall
+
+----
+
+Intro: 
+
+**Full-day workshop &bullet; Sept 12th**
+In this workshop, Dan will share insights into his tools and techniques for integrating design thinking into your product development process. You’ll learn how to craft powerful design approaches through collaborative brainstorming techniques, and how to involve your entire team in the design process. 
+
+----
+
+More: 
+
+Building responsive websites is hard! No longer can we get away with churning out some comps, writing barebones HTML and CSS, and calling it a day. We have to get comfortable using phrases like "performance budgets," "device-agnostic," "fluid width," toss our heavy documentation and involve our entire team in the design process, and to establish the right metrics to evaluate our design’s success.
+
+### You’ll learn
+
+1) Introduce a collaborative, team-based design approach
+<ul>
+<li style="font-size: 1.1em;line-height: 170%;">Increase your team’s efficiency and remove the overhead of heavy design deliverables</li>
+<li style="font-size: 1.1em;line-height: 170%;">Brainstorm ideas for a real-world design project using divergent and convergent approaches</li>
+<li style="font-size: 1.1em;line-height: 170%;">Write your product’s value proposition to immediately get your project on track</li>
+</ul>
+
+2) Establish success criteria for your design projects
+<ul>
+<li style="font-size: 1.1em;line-height: 170%;">Use Objectives and Key Results (OKRs), Key Performance Indicators (KPIs), Jobs-to-be-Done, and other frameworks to align your projects to organizational priorities</li>
+<li style="font-size: 1.1em;line-height: 170%;">Use the KJ Technique, a collaborative prioritization method, to define project goals</li>
+<li style="font-size: 1.1em;line-height: 170%;">Get the design juices flowing using familiar elements of the Design Studio method</li>
+</ul>
+
+3) Assemble, sketch, and code your team’s design approaches
+<ul>
+<li style="font-size: 1.1em;line-height: 170%;">Use the “3Cs” (Create, Collect, and Code) framework for team ideation and collaboration</li>
+<li style="font-size: 1.1em;line-height: 170%;">Create element collages, an assembly of disparate design elements, to communicate ideas</li>
+<li style="font-size: 1.1em;line-height: 170%;">Learn to effectively articulate your design ideas through a mini demo day</li>
+</ul>
+
+4) Iterate and converge on a design solution that addresses a real-world problem
+<ul>
+<li style="font-size: 1.1em;line-height: 170%;">Use Pinterest boards, element collages, and prototypes to present and critique multiple design ideas</li>
+<li style="font-size: 1.1em;line-height: 170%;">Work collaboratively as a team to iterate and refine your design</li>
+<li style="font-size: 1.1em;line-height: 170%;">Sell the power of a collaborative design workflow to the people who matter most in your organization</li>
+</ul>
+
+We want you to spend your effort in the parts of the design process that pack the most punch. We promise you’ll **look at your design process differently** and immediately be able to see ways to trim the fat.
+
+### Who is it for?
+
+This workshop is appropriate for all experience levels. This workshop is for designers, art directors, creative directors, developers, project managers, and anyone else who believes that responsive web design doesn’t have to have a million comps.
+
+### What hardware/software do you need?
+
+Laptop is recommended but not required.
+
+<hr />
+
+### Location
+Historisches Kaufhaus  
+Münsterplatz 24
+79098 Freiburg im Breisgau
+Germany
+(link: https://www.google.de/maps/place/Historisches+Kaufhaus/@47.9952591,7.8510095,17.57z/data=!4m2!3m1!1s0x0000000000000000:0x2a59897493f50c9e text: Google Maps)
+
+### Schedule for Wednesday, Sept 12th
+8:30 – Doors open, Registration
+9:00 – Introduction & Kick-off
+11:00 – Coffee Break
+12:30 – Lunch
+13:30 – Afternoon Session
+15:00 – Coffee Break
+17:00 – The End, Networking
+
+**Save €100** when signing up for the conference and a workshop!
+
+----
+
+Twitter:
+
+@danielmall
+
+----
+
+Link:
+
+http://superfriend.ly/
+
+----
+
+Sold-out: no

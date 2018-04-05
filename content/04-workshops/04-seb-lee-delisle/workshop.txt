@@ -1,0 +1,69 @@
+Title: JavaScript Graphics and Animation
+
+----
+
+Trainer: Seb Lee-Delisle
+
+----
+
+Intro: 
+
+**Full-day workshop &bullet; Sept 12th**
+In this workshop, Seb will demonstrate a variety of beautiful visual effects using **JavaScript and HTML5 canvas.** You will learn animation and graphics techniques that you can use to add a sense of dynamism to your projects.
+
+----
+
+More: 
+
+Seb demystifies programming and explores its artistic possibilities. His presentations and workshops enable artists to overcome their fear of code and encourage programmers of all backgrounds to be more creative and imaginative. 
+
+           
+### What you'll learn:
+<ul>
+<li style="font-size: 1.1em;line-height: 170%;">We’ll start off with a short recap of rendering into canvas, and animating simple objects.</li>
+<li style="font-size: 1.1em;line-height: 170%;">Then learn how to simulate physics without rocket science. And what better way to use physics than to make a particle system with sparks, smoke and explosions?</li>
+<li style="font-size: 1.1em;line-height: 170%;">We’ll draw bitmaps into the canvas, and add sophistication to the imagery by using blend modes <li style="font-size: 1.1em;line-height: 170%;">techniques that professional motion effects artists use.</li>
+<li style="font-size: 1.1em;line-height: 170%;">These advanced animation techniques will give you a deep understanding of how to create movement and visuals with code.</li>
+<li style="font-size: 1.1em;line-height: 170%;">The workshop will finish with a Q&A session and, time allowing, a live online coding demo.</li>
+</ul>
+### What hardware/software do you need?
+A laptop with the latest Chrome/Firefox installed, as well as your favorite text editor.
+          
+### Who is it for?
+This course works equally well for programmers and designers. Whether you’re a coder who is excited about working with visual interactivity, or a designer who’s worked with basic JavaScript you’ll love learning creative code techniques.
+
+<hr />
+
+### Location
+Historisches Kaufhaus  
+Münsterplatz 24
+79098 Freiburg im Breisgau
+Germany
+(link: https://www.google.de/maps/place/Historisches+Kaufhaus/@47.9952591,7.8510095,17.57z/data=!4m2!3m1!1s0x0000000000000000:0x2a59897493f50c9e text: Google Maps)
+
+### Schedule for Wednesday, Sept 12th
+8:30 – Doors open, Registration
+9:00 – Introduction & Kick-off
+11:00 – Coffee Break
+12:30 – Lunch
+13:30 – Afternoon Session
+15:00 – Coffee Break
+17:00 – The End, Networking
+
+**Save €100** when signing up for the conference and a workshop!
+
+----
+
+Twitter:
+
+@seb_ly
+
+----
+
+Link:
+
+http://seb.ly/
+
+----
+
+Sold-out: no

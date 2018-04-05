@@ -142,7 +142,7 @@ h4 {
   padding-bottom: 1.25em;
   border-top: 0.625em solid #e9f4e9;
   color: rgba(0, 0, 0, 0.35);
-  background: url(../images/smashingconf-freiburg-footer.png) no-repeat right bottom, #b9eab9;
+  background: url(../images/smashingconf-freiburg-footer.png) no-repeat right bottom, #f0ead6;
 }
 .f:after {
   content: "";
@@ -258,7 +258,7 @@ h4 {
   margin: 4.125em auto 4.125em -3.75em;
   padding: 4.125em 3.75em 1.375em;
   border-bottom: 0.625em solid #F1F7EF;
-  background: #C7DFB9;
+  background: #f0ead6;
 }
 .ssg h2 {
   color: #329B47;

@@ -4,7 +4,7 @@ Title: Schedule
 
 Intro:
 
-Below you'll find the schedule for our 6th SmashingConf Freiburg. Please note that we changed the timings and the number of breaks. Also, we’ll start slightly later than in the previous years (at 9:30). We hope you’ll enjoy the new format!
+Below you'll find the preliminary schedule for our 7th SmashingConf Freiburg. Please note that we changed the timings and the number of breaks. Also, we’ll start slightly later than in the previous years (at 9:30). We hope you’ll enjoy the new format!
 
 
 ----
@@ -22,37 +22,37 @@ Monday:
       text: Welcome and Intro
 
     - time: 9:55
-      talk: rachel-andrew
+      talk: 
 
     - time: 10:45
       text: Morning Break
 
     - time: 11:00
-      talk: alla-kholmatova
+      talk: 
 
     - time: 11:50
       text: Lunch Break
 
     - time: 13:20
-      talk: michael-riethmuller
+      talk: 
 
     - time: 14:10
       text: Coffee break
 
     - time: 14:25
-      talk: umar-hansa
+      talk: 
 
     - time: 15:15
       text: Afternoon break
 
     - time: 15:30
-      talk: emanuela-matteo
+      talk: 
 
     - time: 16:20
       text: Afternoon break
 
     - time: 16:50
-      talk: mathias-biilman
+      talk: 
 
     - time: 17:40
       text: Closing Remarks
@@ -71,37 +71,37 @@ Tuesday:
       text: Welcome
 
     - time: 9:40
-      talk: the-mystery-speaker
+      talk: 
 
     - time: 10:30
       text: Morning Break
 
     - time: 11:00
-      talk: chris-wright
+      talk: 
 
     - time: 11:50
       text: Lunch Break
 
     - time: 13:25
-      talk: alma-hoffmann
+      talk: 
 
     - time: 14:10
       text: Coffee Break
 
     - time: 14:40
-      talk: scott-helme
+      talk: 
 
     - time: 15:30
       text: Afternoon Break
 
     - time: 15:45
-      talk: barry-munsterteiger
+      talk: 
 
     - time: 16:35
       text: Afternoon Break
 
     - time: 16:50
-      talk: sara-ramos
+      talk: 
       
     - time: 17:40
       text: Closing Remarks
