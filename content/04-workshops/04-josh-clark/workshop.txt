@@ -22,14 +22,14 @@ You’ll learn the tools and techniques for prototyping and launching these new 
 
 ### What you'll learn in this workshop:
 
-<ul>
-<li style="font-size: calc(.9em + .25vw);line-height: 170%;">How should we evaluate new technologies?</li>
-<li style="font-size: calc(.9em + .25vw);line-height: 170%;">What are the emerging design patterns and principles for these new interactions?</li>
-<li style="font-size: calc(.9em + .25vw);line-height: 170%;">What’s the role of user research and prototypes?</li>
-<li style="font-size: calc(.9em + .25vw);line-height: 170%;">How can play and experimentation lead to actual product?</li>
-<li style="font-size: calc(.9em + .25vw);line-height: 170%;">What are designers’ responsibilities when rolling out new tech?</li>
-<li style="font-size: calc(.9em + .25vw);line-height: 170%;">How do you support audiences that haven’t yet adopted the fresh and fancy?</li>
-</ul>
+
+- How should we evaluate new technologies?
+- What are the emerging design patterns and principles for these new interactions?
+- What’s the role of user research and prototypes?
+- How can play and experimentation lead to actual product?
+- What are designers’ responsibilities when rolling out new tech?
+- How do you support audiences that haven’t yet adopted the fresh and fancy?
+
 
 You’ll leave the day inspired to create—and ready for action.
 

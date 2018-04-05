@@ -20,32 +20,32 @@ Building responsive websites is hard! No longer can we get away with churning ou
 ### You’ll learn
 
 1) Introduce a collaborative, team-based design approach
-<ul>
-<li style="font-size: 1.1em;line-height: 170%;">Increase your team’s efficiency and remove the overhead of heavy design deliverables</li>
-<li style="font-size: 1.1em;line-height: 170%;">Brainstorm ideas for a real-world design project using divergent and convergent approaches</li>
-<li style="font-size: 1.1em;line-height: 170%;">Write your product’s value proposition to immediately get your project on track</li>
-</ul>
+
+- Increase your team’s efficiency and remove the overhead of heavy design deliverables
+- Brainstorm ideas for a real-world design project using divergent and convergent approaches
+- Write your product’s value proposition to immediately get your project on track
+
 
 2) Establish success criteria for your design projects
-<ul>
-<li style="font-size: 1.1em;line-height: 170%;">Use Objectives and Key Results (OKRs), Key Performance Indicators (KPIs), Jobs-to-be-Done, and other frameworks to align your projects to organizational priorities</li>
-<li style="font-size: 1.1em;line-height: 170%;">Use the KJ Technique, a collaborative prioritization method, to define project goals</li>
-<li style="font-size: 1.1em;line-height: 170%;">Get the design juices flowing using familiar elements of the Design Studio method</li>
-</ul>
+
+- Use Objectives and Key Results (OKRs), Key Performance Indicators (KPIs), Jobs-to-be-Done, and other frameworks to align your projects to organizational priorities
+- Use the KJ Technique, a collaborative prioritization method, to define project goals
+- Get the design juices flowing using familiar elements of the Design Studio method
+
 
 3) Assemble, sketch, and code your team’s design approaches
-<ul>
-<li style="font-size: 1.1em;line-height: 170%;">Use the “3Cs” (Create, Collect, and Code) framework for team ideation and collaboration</li>
-<li style="font-size: 1.1em;line-height: 170%;">Create element collages, an assembly of disparate design elements, to communicate ideas</li>
-<li style="font-size: 1.1em;line-height: 170%;">Learn to effectively articulate your design ideas through a mini demo day</li>
-</ul>
+
+- Use the “3Cs” (Create, Collect, and Code) framework for team ideation and collaboration
+- Create element collages, an assembly of disparate design elements, to communicate ideas
+- Learn to effectively articulate your design ideas through a mini demo day
+
 
 4) Iterate and converge on a design solution that addresses a real-world problem
-<ul>
-<li style="font-size: 1.1em;line-height: 170%;">Use Pinterest boards, element collages, and prototypes to present and critique multiple design ideas</li>
-<li style="font-size: 1.1em;line-height: 170%;">Work collaboratively as a team to iterate and refine your design</li>
-<li style="font-size: 1.1em;line-height: 170%;">Sell the power of a collaborative design workflow to the people who matter most in your organization</li>
-</ul>
+
+- Use Pinterest boards, element collages, and prototypes to present and critique multiple design ideas
+- Work collaboratively as a team to iterate and refine your design
+- Sell the power of a collaborative design workflow to the people who matter most in your organization
+
 
 We want you to spend your effort in the parts of the design process that pack the most punch. We promise you’ll **look at your design process differently** and immediately be able to see ways to trim the fat.
 

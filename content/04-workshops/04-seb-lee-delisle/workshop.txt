@@ -19,13 +19,13 @@ Seb demystifies programming and explores its artistic possibilities. His present
 
            
 ### What you'll learn:
-<ul>
-<li style="font-size: 1.1em;line-height: 170%;">We’ll start off with a short recap of rendering into canvas, and animating simple objects.</li>
-<li style="font-size: 1.1em;line-height: 170%;">Then learn how to simulate physics without rocket science. And what better way to use physics than to make a particle system with sparks, smoke and explosions?</li>
-<li style="font-size: 1.1em;line-height: 170%;">We’ll draw bitmaps into the canvas, and add sophistication to the imagery by using blend modes <li style="font-size: 1.1em;line-height: 170%;">techniques that professional motion effects artists use.</li>
-<li style="font-size: 1.1em;line-height: 170%;">These advanced animation techniques will give you a deep understanding of how to create movement and visuals with code.</li>
-<li style="font-size: 1.1em;line-height: 170%;">The workshop will finish with a Q&A session and, time allowing, a live online coding demo.</li>
-</ul>
+
+- We’ll start off with a short recap of rendering into canvas, and animating simple objects.
+- Then learn how to simulate physics without rocket science. And what better way to use physics than to make a particle system with sparks, smoke and explosions?
+- We’ll draw bitmaps into the canvas, and add sophistication to the imagery by using blend modes - techniques that professional motion effects artists use.
+- These advanced animation techniques will give you a deep understanding of how to create movement and visuals with code.
+- The workshop will finish with a Q&A session and, time allowing, a live online coding demo.
+
 ### What hardware/software do you need?
 A laptop with the latest Chrome/Firefox installed, as well as your favorite text editor.
           
