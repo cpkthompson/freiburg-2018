@@ -4,7 +4,7 @@ Title: Home
 
 Intro:
 
-<p>A very warm welcome to our SmashingConf Freiburg, taking place on <strong>September 10—11</strong>! It’ll be the 7th edition of our hometown conference here in Freiburg, right at the footsteps of the magic Black Forrest. We’ll have some fantastic speakers in our line-up, and only 250 available seats.</p> 
+<p>A very warm welcome to our SmashingConf Freiburg, taking place on <strong>September 10—11</strong>! It’ll be the 7th edition of our home conference here in Freiburg, right at the footsteps of the magical Black Forrest. We’ll have some fantastic speakers in our line-up, and only 250 seats available.</p> 
 
 The conference is a one track, two-days event, taking place in the Historic Merchants’ Hall, in the lovely old two of Freiburg, Germany. Tickets will go on sale <strong>24th of April 14:00 CET</strong>, and we’ll reserve 50 Early Birds.
 
