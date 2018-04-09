@@ -1,4 +1,4 @@
-Title: New Front-End Adventures in Responsive Design
+Title: Dirty Little Tricks From The Dark Corners of eCommerce
 
 ----
 
@@ -9,42 +9,43 @@ Trainer: Vitaly Friedman
 Intro: 
 
 **Full-day workshop &bullet; Sept 9th**
-With HTTP/2, Service Workers, Responsive Images, Flexbox, CSS Grid, SVG, WAI-ARIA roles and Font Loading API now available in browsers, we all are still trying to figure out just the right strategy for designing and buildings responsive websites efficiently. We want to use all of these technologies and smart processes like atomic design, but how can we use them efficiently, and how do we achieve it within a reasonable amount of time?
+In this workshop, we will use real-life examples as a case study and examine refinements of the interface on spot. I’d like to set up a very clear roadmap on how we can do the right things in the right order to improve conversion and customer experience. That means removing distractions, minimizing friction and avoiding disruptions and dead ends caused by the interface.
 
 ----
 
 More: 
-
-In this workshop, Vitaly Friedman, co-founder of Smashing Magazine, will be looking into a strategy for crafting fast, resilient and flexible responsive design systems by utilizing all of those wonderful shiny web technologies we have available today. We’ll also talk about dealing with legacy browsers and will cover a few dirty little techniques that might ensure that your responsive websites will stay relevant, flexible and accessible in the years to come.
      
-In this workshop, you’ll learn:
+An average abandonment rate in eCommerce is around 65–68%. Often it’s caused by ambiguous buttons, labels or copywriting as well as severe problems related to finding or understanding products as well as slow and painful checkout experience. We can’t bring the abandonment rate to 0, but we can shave off at least 10% with some minor and straightforward optimizations.
                                    
+In the workshop, we’ll be looking into:
 
-- responsive design patterns and innovative approaches to designing "responsive modules" such as <strong>tables, calendars, mega-drop-downs</strong>, dashboards, maps, forms, lightboxes and filters,
-- architecting and building <strong>pattern libraries</strong>, style guides and design systems,
-- content choreography, <strong>internationalization</strong> and localization issues,
-- layout techniques (<strong>Flexbox</strong> and CSS Grid),
-- resolution independence (SVG Gotchas),
-- compressive and responsive images (optimization and techniques),
-- <strong>web font loading strategy</strong> (options, strategy, code snippets),
-- deferring and lazy-loading JavaScript,
-- performance issues/strategy (best practices + HTTP/2 + HTTPS + prefetching techniques), including transition from HTTP to HTTPS,
-- <strong>Service Workers</strong>, how to make use of them and how to keep maintenance sane,
-- maintenance issues (e.g. dealing with legacy browsers),
-- common front-end challenges and solutions,
-- accessibility issues and techniques,
-- gotchas when building responsive HTML email newsletters,
-- tooling (performance, frameworks, testing, quality assurance).
+- **Psychology of eCommerce**
+How do people buy, and when? What role does time, distractions, working hours, interface copy play for buying decisions? How do we streamline the decision making process by helping out customers with thinking and reasoning? We need to understand in which state customers are and what is important to them before we start designing for them.
 
+- **Category Product List + Filtering**
+People can’t buy items that they can’t find or don’t understand. We’ll look into optimal ways to listing items and allowing customers to filter them, on desktop and on mobile. It includes navigation, search, sorting, compatibility, carousels, filters, feature/attribute comparison, zero-results-pages, configurable items and faceted search as well as search hits coming through search engines.  
 
-This workshop is intended for professional front-end designers, developers and everybody else who is dealing with responsive design regularly or wants to better understand responsive design in general. You should at least be familiar with some basics of responsive design, HTML5 and CSS.
+- **Product Page + Shopping Cart page**
+What do we need to communicate on the product page and what should we keep in mind to convince the customer about the value of a product? We’ll look into images, specs, compatibility details, reviews, labelling, categorization, shipping details, availability details, ship-to-store options etc. We’ll also explore how to deal with FAQs, complementary and related products and recently viewed products.
 
-### What hardware/software do you need?
+- **Checkout experience**
+Checkout comes in different flavors. What to choose: multi-step checkout, one-step checkout or accordion-style-checkout? We’ll be spending a significant amount of time looking into all the fine details of shopping cart, account creation, personal information, shipping and store pickup, form labels, error messages, payment flow and methods, delivery times, credit card input, data input in general, smart default, security seals, positive validation, autocomplete lookup and progressive checkout.
 
-To get the most out of the workshop, you’ll need to bring a laptop with your preferred text editor.
+- **Optimizing For Mobile**
+Yes, the conversion on mobile is still much lower than on desktop, but it’s growing rapidly year after year. Most eCommerce websites provide a subpar eCommerce experience and that’s an opportunity for growth. However, mobile is a different beast, and the user behavior there is  different compared to desktop. We’ll look into searching, filtering, listing and labelling items, performance issues and copywriting ambiguity as well as layout and interaction design for the checkout experience.
+
+- **New opportunities**
+The technology doesn’t stand still. To take experience to the next level we can use an (almost) 1-Click-checkout with Payment Request API, third-party payments like Stripe, Apple Pay etc. or use Facebook Messenger chatbots or some sort of conversational interface to sell items and provide assistance. We’ll look into trends and what companies out there are doing to innovate in the eCommerce space.
+
+- **Decreasing Abandonment Rates**
+Tiny details matter. To reduce abandonment, we need to pay close attention to displaying final price up front, paying a lot of attention to details and consistency of thumbnails, eliminate hidden costs, deal with wrong data input, crafting error messages as well as paying attention to return policy and shipping time etc. We’ll set up a holistic strategy for decreasing abandonment — going from the homepage all the way to order confirmation email.
+
+By the end of the day, we'll have a detailed strategy of practical, tangible next steps to improve the interface, ranging from quick wins to long-term strategic changes.
+
+_This workshop is limited to 20 seats_.
 
 ### Location
-**Grünhof Freiburg** (that’s **not** the Historisches Kaufhaus)
+**Grünhof Freiburg** (that’s**not** the Historisches Kaufhaus)
 Belfortstraße 52
 79098 Freiburg im Breisgau
 Germany
