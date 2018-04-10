@@ -41,7 +41,7 @@ Text:
 <tbody>
 
 <tr>
-<td><strong>Workshop:</strong> Vitaly on Frontend Adventures &bullet; (link: workshops/vitaly-friedman text: Details)...</a></td>
+<td><strong>Workshop:</strong> Vitaly on eCommerce Tricks &bullet; (link: workshops/vitaly-friedman text: Details)...</a></td>
 <td class="pc">€399</td>
 <!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
 <td class="cta"><a alt="https://shop.smashingmagazine.com/products/vitaly-ux-design-patterns-freiburg-2018" class="bt sobt" >April 24</a></td>
@@ -70,7 +70,7 @@ Text:
 </tr>
 
 <tr>
-<td><strong>Workshop:</strong> Seb on JS Animations Grid &bullet; (link: workshops/seb-lee-delisle text: Details)...</a></td>
+<td><strong>Workshop:</strong> Seb on JS Animations &bullet; (link: workshops/seb-lee-delisle text: Details)...</a></td>
 <td class="pc">€399</td>
 <!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
 <td class="cta"><a class="bt sobt" >April 24</a></td>
