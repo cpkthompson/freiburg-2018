@@ -243,7 +243,6 @@ h4 {
   box-sizing: border-box;
   width: 100%;
   height: auto;
-  border: 0.625em solid #C7DFB9;
   border-radius: 50%;
   -webkit-transition: border .3s;
           transition: border .3s;
