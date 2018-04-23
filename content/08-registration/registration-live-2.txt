@@ -25,4 +25,4 @@ Text:
 </div>
 
 <!-- Tito Widget JS -->
-<script src='https://js.tito.io/v1' async></script>
+<script src='/freiburg-2018/assets/scripts/tito.js' async></script>
