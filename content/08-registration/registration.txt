@@ -36,31 +36,9 @@ Text:
 </tbody></table>
 <hr />
 
-<h2>Workshop Tickets // Sept. 9th, 2018</h2>
-<table class="cft">
-<tbody>
-
-<tr>
-<td><strong>Workshop:</strong> Vitaly on eCommerce Tricks &bullet; (link: workshops/vitaly-friedman text: Details)...</a></td>
-<td class="pc">€399</td>
-<!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
-<td class="cta"><a alt="https://shop.smashingmagazine.com/products/vitaly-ux-design-patterns-freiburg-2018" class="bt sobt" >April 24</a></td>
-</tr>
-</tbody>
-</table>
-
-<hr />
-
 <h2>Workshop Tickets // Sept. 12th, 2018</h2>
 <table class="cft">
 <tbody>
-
-<tr>
-<td><strong>Workshop:</strong> Dan on Design Workflow &bullet; (link: workshops/dan-mall text: Details)...</a></td>
-<td class="pc">€399</td>
-<!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
-<td class="cta"><a class="bt sobt" >April 24</a></td>
-</tr>
 
 <tr>
 <td><strong>Workshop:</strong> Josh on Mobile Design &bullet; (link: workshops/josh-clark text: Details)...</a></td>
@@ -74,6 +52,13 @@ Text:
 <td class="pc">€399</td>
 <!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
 <td class="cta"><a class="bt sobt" >April 24</a></td>
+</tr>
+
+<tr>
+<td><strong>Workshop:</strong> Vitaly on eCommerce Tricks &bullet; (link: workshops/vitaly-friedman text: Details)...</a></td>
+<td class="pc">€399</td>
+<!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
+<td class="cta"><a alt="https://shop.smashingmagazine.com/products/vitaly-ux-design-patterns-freiburg-2018" class="bt sobt" >April 24</a></td>
 </tr>
 
 </tbody>

@@ -1,0 +1,28 @@
+Title: Get your ticket!
+----
+Intro:
+<div class="cls" markdown="1">
+We have only 260 available seats, so please don’t wait too long to secure your ticket. If you need help convincing your company, you can download our (link: http://smashingconf.com/pdf/convince-your-boss-sf.pdf text: Convince-Your-Boss PDF) (0.2MB). We’d love to have you. ❤️  <br /><br />
+
+Your Conference Pass includes admission to all sessions at the two-day conference, snacks and lunch on both days, access to all social events, and schwag. We reserved 10 tickets for small startups and students — just send us an email to &#109;&#097;&#114;&#107;&#117;&#115;&#064;&#115;&#109;&#097;&#115;&#104;&#105;&#110;&#103;&#099;&#111;&#110;&#102;&#046;&#099;&#111;&#109; and we’ll get back to you ASAP!
+
+</div>
+----
+Text:
+<div class="text">
+<h2>Conference Tickets // September 10-11</h2>
+<tito-widget event="smashingmagazine/smashingconf-freiburg-2018" releases="zb60y3mx-wy,wdoyi1d1b4s,jxxlkemwvvw"></tito-widget>
+
+<p style="font-size: 1em;padding-left: 1.5em;"><em>Please don’t forget to let us know the attendee details after filling out your payment details!</em></p>
+
+<hr />
+
+<h2>Workshop Tickets // September 12th</h2>
+
+<tito-widget event="smashingmagazine/smashingconf-freiburg-2018" releases="sprryhxctc0,e4yi02pqyia,r22eve1uko4"></tito-widget>
+
+<hr />
+</div>
+
+<!-- Tito Widget JS -->
+<script src='https://js.tito.io/v1' async></script>
