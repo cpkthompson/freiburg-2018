@@ -8,7 +8,7 @@ Trainer: Vitaly Friedman
 
 Intro: 
 
-**Full-day workshop &bullet; Sept 9th**
+**Full-day workshop &bullet;Wednesday 12th**
 In this workshop, we will use real-life examples as a case study and examine refinements of the interface on spot. I’d like to set up a very clear roadmap on how we can do the right things in the right order to improve conversion and customer experience. That means removing distractions, minimizing friction and avoiding disruptions and dead ends caused by the interface.
 
 ----
@@ -42,7 +42,7 @@ Tiny details matter. To reduce abandonment, we need to pay close attention to di
 
 By the end of the day, we'll have a detailed strategy of practical, tangible next steps to improve the interface, ranging from quick wins to long-term strategic changes.
 
-_This workshop is limited to 20 seats_.
+_This workshop is limited to 40 seats_.
 
 ### Location
 **Grünhof Freiburg** (that’s**not** the Historisches Kaufhaus)
@@ -51,7 +51,7 @@ Belfortstraße 52
 Germany
 (link: https://www.google.de/maps/place/Gr%C3%BCnhof+Freiburg/@47.9940488,7.8399227,15z/data=!4m2!3m1!1s0x0:0x3e139e522dd39d38?sa=X&ved=0ahUKEwiVodue3OTSAhVFhiwKHcAnA_4Q_BIIlAEwDg text: Google Maps)
 
-### Schedule for Sunday, Sept 9th
+### Schedule for Wednesday, Sept 12th
 8:30 – Doors open, Registration
 9:00 – Introduction & Kick-off
 11:00 – Coffee Break
