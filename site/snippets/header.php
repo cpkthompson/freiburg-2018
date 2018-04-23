@@ -12,6 +12,7 @@
   <script>(function () {"use strict";var css_href = '//smashingconf.com/assets/styles/web-fonts.css';function on(el, ev, callback) {if (el.addEventListener) {el.addEventListener(ev, callback, false);} else if (el.attachEvent) {el.attachEvent("on" + ev, callback);}}if ((window.localStorage && localStorage.font_css_cache) || document.cookie.indexOf('font_css_cache') > -1){injectFontsStylesheet();} else {on(window, "load", injectFontsStylesheet);}function fileIsCached(href) {return window.localStorage && localStorage.font_css_cache && (localStorage.font_css_cache_file === href);}function injectFontsStylesheet() {if (!window.localStorage || !window.XMLHttpRequest) {var stylesheet = document.createElement('link');stylesheet.href = css_href;stylesheet.rel = 'stylesheet';stylesheet.type = 'text/css';document.getElementsByTagName('head')[0].appendChild(stylesheet);document.cookie = "font_css_cache";} else {if (fileIsCached(css_href)) {injectRawStyle(localStorage.font_css_cache);} else {var xhr = new XMLHttpRequest();xhr.open("GET", css_href, true);on(xhr, 'load', function () {if (xhr.readyState === 4) {injectRawStyle(xhr.responseText);localStorage.font_css_cache = xhr.responseText;localStorage.font_css_cache_file = css_href;}});xhr.send();}}}function injectRawStyle(text){var style = document.createElement('style');style.innerHTML = text;document.getElementsByTagName('head')[0].appendChild(style);}}());</script>
   <link rel="preload" href="/freiburg-2018/assets/styles/fr18.css" as="style" onload="this.rel='stylesheet'" />
   <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <link rel="preload" href="<?php echo url('assets/styles/ticket-widget.css') ?>" as="style" onload="this.rel='stylesheet'" />
   <noscript><link rel="stylesheet" href="/freiburg-2018/assets/styles/fr18.css" /></noscript>
   <meta name="author" content="<?php echo html($site->author()) ?>" />
   <meta name="robots" content="index,follow" />
@@ -39,16 +40,16 @@
         <span class="rbt">Freiburg <img src="<?php echo url('assets/images/german-flag.png') ?>" width="26" height="26" alt="SmashingConf Germany" /> </span>
         <span class="date">10<sup>th</sup>–11<sup>th</sup> of September 2018</span>
         <ul class="ddu">
-            <li>
-              <a href="https://smashingconf.com/sf-2018">
-              <span class="rbt">San Francisco <img src="<?php echo url('assets/images/usa-flag.png') ?>" width="26" height="26" alt="SmashingConf San Francisco" /> </span>
-              <span class="date">17<sup>th</sup>–18<sup>th</sup> of April 2018</span>
+          <li>
+              <a href="//smashingconf.com/">
+              <span class="rbt">Toronto <img src="<?php echo url('assets/images/canada-flag.png') ?>" width="26" height="26" alt="SmashingConf Toronto 2018" /> </span>
+              <span class="date">26<sup>th</sup>–27<sup>th</sup> of June 2018</span>
               </a>
           </li>
           <li>
-              <a href="//smashingconf.com/toronto-2018/">
-              <span class="rbt">Toronto <img src="<?php echo url('assets/images/canada-flag.png') ?>" width="26" height="26" alt="SmashingConf Toronto 2018" /> </span>
-              <span class="date">26<sup>th</sup>–27<sup>th</sup> of June 2018</span>
+              <a href="https://smashingconf.com/sf-2018">
+              <span class="rbt">San Francisco <img src="<?php echo url('assets/images/usa-flag.png') ?>" width="26" height="26" alt="SmashingConf San Francisco" /> </span>
+              <span class="date">17<sup>th</sup>–18<sup>th</sup> of April 2018</span>
               </a>
           </li>
         </ul>
