@@ -1,0 +1,15 @@
+Title: Confwall
+
+----
+
+Text: Confwall is a quick and easy way to create your own conference wall with a schedule, tweets and custom content.
+
+We are very happy to use Confwall during our SmashingConf shows globally!
+
+----
+
+Link: http://confwall.com/
+
+----
+
+Twitter: @confwall
