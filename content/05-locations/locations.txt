@@ -2,9 +2,7 @@ Title: Locations
 ----
 Intro:
 
-At SmashingConf, we always strive to host events in the most memorable of venues. In Freiburg, our home will be the magnificent “Kaufhaus” – a stunning, historical venue that blows our audience away every year. 
-
-The Kaufhaus will also be home to our (link: workshops text: workshops on Wednesday), while the **Grünhof Freiburg** will be the venue on Sunday for (link: workshops/vitaly-friedman text: Vitaly’s Frontend workshop) and the warm-up party before the conference.
+At SmashingConf, we always strive to host events in the most memorable of venues. In Freiburg, our home will be the magnificent “Kaufhaus” – a stunning, historical venue that blows our audience away every year. The Kaufhaus will also be home to our (link: workshops text: workshops on Wednesday).
 
 ### Conference and Workshop Venue from Sept. 10 to 12
 
@@ -13,8 +11,10 @@ Münsterplatz 24
 79098 Freiburg
 <a href="https://www.google.de/maps/preview?ie=UTF-8&q=historisches+kaufhaus&fb=1&gl=de&hq=historisches+kaufhaus&hnear=0x47911b26560bd665:0x41f6bb7a5df57b0,Freiburg&cid=3051621356311743646&ei=7MYSVNGCMYPXyQP0voC4Ag&ved=0CC8QrwswAA">Google Maps</a></p>
 
-### Workshop and Warm-up Party Venue on Sunday, Sept. 9
-**Grünhof Freiburg**
+***
+
+**Warm-up Party Venue on Sunday, Sept. 9**
+Grünhof Freiburg
 Belfortstraße 52
 79098 Freiburg im Breisgau
 Germany
