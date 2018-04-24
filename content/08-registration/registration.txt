@@ -18,19 +18,19 @@ Text:
 <td>Conference Ticket <span style="color: #858585;">&bullet; Early bird</span></td>
 <td class="pc">€399</td>
 <!--<td class="pc">Join the (email: waitinglist@smashingconf.com text: waiting list)</td>-->
-<td class="cta"><a class="bt sobt" >2.5h left</a></td>
+<td class="cta"><a class="bt sobt" >1h left</a></td>
 </tr>
 
 <tr>
 <td>Conference Ticket <span style="color: #858585;">&bullet; Regular Ticket</span></td>
 <td class="pc">€499</td>
-<td class="cta"><a class="bt sobt">2.5h left</a></td>
+<td class="cta"><a class="bt sobt">1h left</a></td>
 </tr>
 
 <tr>
 <td>Conference + Workshop Ticket</td>
 <td class="pc">Save €100</td>
-<td class="cta"><a class="bt sobt">2.5h left</a></td>
+<td class="cta"><a class="bt sobt">1h left</a></td>
 </tr>
 
 </tbody></table>
@@ -44,21 +44,21 @@ Text:
 <td><strong>Workshop:</strong> Josh on Mobile Design &bullet; (link: workshops/josh-clark text: Details)...</a></td>
 <td class="pc">€399</td>
 <!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
-<td class="cta"><a class="bt sobt" >2.5h left</a></td>
+<td class="cta"><a class="bt sobt" >1h left</a></td>
 </tr>
 
 <tr>
 <td><strong>Workshop:</strong> Seb on JS Animations &bullet; (link: workshops/seb-lee-delisle text: Details)...</a></td>
 <td class="pc">€399</td>
 <!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
-<td class="cta"><a class="bt sobt" >2.5h left</a></td>
+<td class="cta"><a class="bt sobt" >1h left</a></td>
 </tr>
 
 <tr>
 <td><strong>Workshop:</strong> Vitaly on eCommerce Tricks &bullet; (link: workshops/vitaly-friedman text: Details)...</a></td>
 <td class="pc">€399</td>
 <!--<td class="pc">(email: waitinglist@smashingconf.com text: Join the waiting list)</td>-->
-<td class="cta"><a alt="https://shop.smashingmagazine.com/products/vitaly-ux-design-patterns-freiburg-2018" class="bt sobt" >2.5h left</a></td>
+<td class="cta"><a alt="https://shop.smashingmagazine.com/products/vitaly-ux-design-patterns-freiburg-2018" class="bt sobt" >1h left</a></td>
 </tr>
 
 </tbody>

@@ -483,13 +483,13 @@ h4 {
 .ss li:focus .si.Craig {
   background-image: url(../images/speakers/craig-hov.png);
 }
-.si.Dan {
-  background-image: url(../images/speakers/dan.png);
+.si.Hannah {
+  background-image: url(../images/speakers/hannah.png);
 }
-.ss li:hover .si.Dan,
-.ss li:active .si.Dan,
-.ss li:focus .si.Dan {
-  background-image: url(../images/speakers/dan-hov.png);
+.ss li:hover .si.Hannah,
+.ss li:active .si.Hannah,
+.ss li:focus .si.Hannah {
+  background-image: url(../images/speakers/hannah-hov.png);
 }
 .si.Josh {
   background-image: url(../images/speakers/josh.png);
@@ -532,7 +532,7 @@ h4 {
   background-image: url(../images/speakers/msh.png);
 }
 .ss::after {
-  background: url(../images/speakers/aarron-hov.png), url(../images/speakers/josh-hov.png), url(../images/speakers/seb-hov.png), url(../images/speakers/morten-hov.png), url(../images/speakers/craig-hov.png), url(../images/speakers/chuichui-hov.png), url(../images/speakers/andrea-hov.png), url(../images/speakers/msh.png);
+  background: url(../images/speakers/aarron-hov.png), url(../images/speakers/hannah-hov.png), url(../images/speakers/josh-hov.png), url(../images/speakers/seb-hov.png), url(../images/speakers/morten-hov.png), url(../images/speakers/craig-hov.png), url(../images/speakers/chuichui-hov.png), url(../images/speakers/andrea-hov.png), url(../images/speakers/msh.png);
   visibility: hidden;
   height: 0;
   content: " ";

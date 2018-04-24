@@ -1,0 +1,29 @@
+Title: Tammy Everts
+
+----
+
+Bio:
+
+Tammy Everts has spent the past two decades working in the user experience space, studying the impact of design, usability, and web performance on end users. For the past several years, her research has focused on the technical, business, and human sides of web/application performance.
+
+Tammy currently serves as senior researcher and evangelist at SOASTA, where she manages the web performance blog The Performance Beacon. She is writing book – “Time Is Money: The Business Value of Web Performance” – for O'Reilly Media.
+
+----
+
+Talk: The Small Things That Add Up: How to Find What Design Factors Influence Conversion Rates
+
+----
+
+Description:
+
+How do you know what consumers expect from your site? Every shopper is different and every shopping visit is different. Industry stats tell only part of the story. You need to crack the hood and analyze your own real user data.
+
+Tammy will outline how and why to gather real user data, extract action-oriented insights, create a better shopper experience, and improve business metrics.
+
+----
+
+Link: https://tammyeverts.wordpress.com/
+
+----
+
+Twitter: @tameverts
