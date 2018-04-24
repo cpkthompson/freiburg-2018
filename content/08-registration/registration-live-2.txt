@@ -11,7 +11,7 @@ Your Conference Pass includes admission to all sessions at the two-day conferenc
 Text:
 <div class="text">
 <h2>Conference Tickets // September 10-11</h2>
-<tito-widget event="smashingmagazine/smashingconf-freiburg-2018/" releases="zb60y3mx-wy,wdoyi1d1b4s,jxxlkemwvvw"></tito-widget>
+<tito-widget event="smashingmagazine/smashingconf-freiburg" releases="zb60y3mx-wy,wdoyi1d1b4s,jxxlkemwvvw"></tito-widget>
 
 <p style="font-size: 1em;padding-left: 1.5em;"><em>Please don’t forget to let us know the attendee details after filling out your payment details!</em></p>
 
@@ -19,10 +19,10 @@ Text:
 
 <h2>Workshop Tickets // September 12th</h2>
 
-<tito-widget event="smashingmagazine/smashingconf-freiburg-2018/" releases="sprryhxctc0,e4yi02pqyia,r22eve1uko4"></tito-widget>
+<tito-widget event="smashingmagazine/smashingconf-freiburg" releases="sprryhxctc0,e4yi02pqyia,r22eve1uko4"></tito-widget>
 
 <hr />
 </div>
 
 <!-- Tito Widget JS -->
-<script src='/freiburg-2018/assets/scripts/tito.js' async></script>
+<script src='https://js.tito.io/v1' async></script>
