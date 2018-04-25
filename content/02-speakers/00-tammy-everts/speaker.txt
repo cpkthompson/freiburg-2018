@@ -4,9 +4,7 @@ Title: Tammy Everts
 
 Bio:
 
-Tammy Everts has spent the past two decades working in the user experience space, studying the impact of design, usability, and web performance on end users. For the past several years, her research has focused on the technical, business, and human sides of web/application performance.
-
-Tammy currently serves as senior researcher and evangelist at SOASTA, where she manages the web performance blog The Performance Beacon. She is writing book – “Time Is Money: The Business Value of Web Performance” – for O'Reilly Media.
+Tammy is Chief Experience Officer at (link: https://speedcurve.com/ text: SpeedCurve), where she helps companies understand how visitors use their websites. Tammy has spent the past two decades studying how people use the web. Since 2009, she’s focused on the intersection between web performance, user experience, and business metrics. Her book, (link: http://shop.oreilly.com/product/0636920041450.do text: Time Is Money: The Business Value of Web Performance), is a distillation of much of this research. She also co-curates WPO Stats, a collection of performance case studies.
 
 ----
 
