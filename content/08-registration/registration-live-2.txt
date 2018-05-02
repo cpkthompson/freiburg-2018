@@ -25,4 +25,4 @@ Text:
 </div>
 
 <!-- Tito Widget JS -->
-<script src='https://js.tito.io/v1' async></script>
+<script src='https://smashingconf.com/assets/styles/tito.js' async></script>
