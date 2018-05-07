@@ -47,9 +47,9 @@
               </a>
           </li>
           <li>
-              <a href="https://smashingconf.com/sf-2018">
-              <span class="rbt">San Francisco <img src="<?php echo url('assets/images/usa-flag.png') ?>" width="26" height="26" alt="SmashingConf San Francisco" /> </span>
-              <span class="date">17<sup>th</sup>–18<sup>th</sup> of April 2018</span>
+              <a href="https://smashingconf.com/ny-2018">
+              <span class="rbt">New York <img src="<?php echo url('assets/images/usa-flag.png') ?>" width="26" height="26" alt="SmashingConf New York" /> </span>
+              <span class="date">23<sup>rd</sup>–24<sup>th</sup> of October 2018</span>
               </a>
           </li>
         </ul>
