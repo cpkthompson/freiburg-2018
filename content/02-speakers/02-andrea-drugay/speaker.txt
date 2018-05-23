@@ -8,17 +8,15 @@ Andrea Drugay is a UX Writing Manager at Dropbox. She’s spent many years writi
 
 ----
 
-Talk: Ethics in UX Writing
+Talk: A Word to the Wise: Writing product copy to transform your user experience
 
 ----
 
 Description: 
 
-Whether or not you have a UX writer on your team, you interact with UX copy every day. UX writers are the ones who put the copy in your products, from microcopy to onboarding flows. We agonize over granular details and word choices. But it’s not just about whether an error message sounds all right, or if there’s a way to create delight in empty state copy.
+Getting the right words into your product is a process that’s akin to designing with words. Great UX writing isn't a fill-in-the-blanks approach, but a strategy and creative process, just like design and product development. 
 
-Dark patterns and user privacy are major concerns in web design, while trickery abounds, from confirmshaming to misleading user flows and accessibility issues. Writers and designers have a responsibility to provide their users with transparency and a smooth experience.
-
-In this talk, Andrea will be sharing personal experiences that highlight struggles and solutions to ethics in UX writing. You’ll learn to recognize, revise, and resolve dark patterns and misleading copy in your own products. She’ll share top tips and best practices, so you and your writers and designers can recognize, revise, and resolve on your own. 
+In this talk, Andrea will be sharing top tips and best practices for making sure your product copy is clear, concise, and consistent. You’ll learn to avoid misleading or confusing wording, write error messages that don’t frustrate your users, and even create delight where and when possible. She'll also share tips on process, organization, and flow, so your design team can create copy that helps your users have the best possible experience. You’ll come away from the talk with ideas and inspiration to create and manage all the copy in your products, from microcopy to onboarding flows.
 
 ----
 
