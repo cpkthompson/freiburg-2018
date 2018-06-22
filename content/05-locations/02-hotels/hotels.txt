@@ -2,6 +2,4 @@ Title: Hotels
 ----
 Text: 
 
-We have arranged special room rates for Smashingconf attendees at a variety of hotels close to the Smashing Conference venue in Freiburg — please have a look at the list below where we've marked the number of rooms that have been reserved for the attendees of the conference. 
-
-You may want to call the hotel of your choice and request the _"SmashingConf"_ rate. Once you have bought your ticket, please do not wait too long and book your room as soon as possible, since many hotels are already fully booked. Also consider using (link: http://smashed.by/bkngcm text: online hotel booking services), who have plenty of nice hotels in their lists.
+While Freiburg is a small town - there are still a few hotels to choose from. Below are some of our favorites near the conference venue. Once you have bought your ticket, please do not wait too long to book your room since hotels tend to sell out quickly. Also consider using (link: http://smashed.by/bkngcm text: our search on booking.com), who have plenty of nice hotels in their lists.
