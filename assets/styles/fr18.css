@@ -26,9 +26,6 @@ blockquote:before,
 blockquote:after {
   content: '';
 }
-a:hover {
-  border-bottom: 0.08em solid #2685a5;
-}
 h4,
 .sc,
 .wsd {
@@ -626,8 +623,6 @@ h4 {
   .s .spnf {
     width: auto;
   }
-  .m a:hover,
-  .m a.active,
   .v {
     border-bottom: 0.08em solid #eee;
   }

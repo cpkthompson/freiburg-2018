@@ -11,7 +11,7 @@ Münsterplatz 24
 79098 Freiburg
 <a href="https://www.google.de/maps/preview?ie=UTF-8&q=historisches+kaufhaus&fb=1&gl=de&hq=historisches+kaufhaus&hnear=0x47911b26560bd665:0x41f6bb7a5df57b0,Freiburg&cid=3051621356311743646&ei=7MYSVNGCMYPXyQP0voC4Ag&ved=0CC8QrwswAA">Google Maps</a></p>
 
-***
+<!-- ***
 
 **Warm-up Party Venue on Sunday, Sept. 9**
 Grünhof Freiburg
@@ -19,6 +19,7 @@ Belfortstraße 52
 79098 Freiburg im Breisgau
 Germany
 (link: https://www.google.de/maps/place/Gr%C3%BCnhof+Freiburg/@47.9940488,7.8399227,15z/data=!4m2!3m1!1s0x0:0x3e139e522dd39d38?sa=X&ved=0ahUKEwiVodue3OTSAhVFhiwKHcAnA_4Q_BIIlAEwDg text: Google Maps)
+-->
 
 ***
 
