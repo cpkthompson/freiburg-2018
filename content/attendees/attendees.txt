@@ -10,7 +10,7 @@ Intro:
 
 
 
-Networking is a crucial part of a good conference experience. That's why we've prepared an overview of all attendees who have registered for the SmashingConf Freiburg 2018. Perhaps you could **travel to Freiburg together**, or perhaps you'll find friends and colleagues among attendees, or maybe you'd get prepared for an airplane pre-warm party and meet new people? After all, this is what the conference is all about.
+Networking is a crucial part of a good conference experience. That’s why we’ve prepared an overview of all attendees who have registered for the SmashingConf Freiburg 2018. Perhaps you could **travel to Freiburg together**, or perhaps you’ll find friends and colleagues among attendees, or maybe you’d get prepared for an airplane pre-warm party and meet new people? After all, this is what the conference is all about.
 
 
 
@@ -92,53 +92,68 @@ Text:
 
 </tr>
 
+
 <tr>
-<td>Alessandro Carrara</td> 
-<td>ESTECO SpA</td> 
-<td></td> 
-<td>Italy</td> 
+<td>Adrian Hönig</td>
+<td>nova GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Alexander Ehmann</td> 
-<td>ERGO Direkt Lebensversicherung AG</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Adrian Kozma</td>
+<td>WONDROUS LTD</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Alexander Hitzler</td> 
-<td></td> 
-<td></td> 
-<td>Germany</td> 
+<td>Adriana Luchian</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Alexander Mykhailenko</td> 
-<td>BIG PICTURE GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Albert Hausmann</td>
+<td>diconium digital solutions GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Alexander Phlippen</td> 
-<td>Studitemps GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Alexander Jakob</td>
+<td>Electronic Minds GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Alexandre Polise</td> 
-<td>MOO Print Limited</td> 
-<td></td> 
-<td>UK</td> 
+<td>Alexander Nickel</td>
+<td>Flagbit GmbH & Co. KG</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Alexandru Boamfa</td> 
-<td>1&1 Internet Development</td> 
-<td></td> 
-<td>Romania</td> 
+<td>Alexander Zimmer</td>
+<td>nova GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Alexandra Hefter</td>
+<td>Printus GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Alexey Ivanizki</td>
+<td>Reservix GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -149,93 +164,67 @@ Text:
 </tr>
 
 <tr>
-<td>Andi Keller</td> 
-<td>4eyes GmbH</td> 
-<td></td> 
-<td>Switzerland</td> 
+<td>Andi Keller</td>
+<td>4eyes GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Andre Lex</td> 
-<td>Eskamed AG</td> 
-<td></td> 
-<td>Switzerland</td> 
+<td>Andre Bellmann</td>
+<td>Habermaass GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Andrea Wilczek</td> 
-<td>Pluswerk Puls GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>André Lex</td>
+<td>Eskamedia AG</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Andreas Herold</td> 
-<td>dotSource GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
-<tr>
-<td>Andreas Mohr</td> 
-<td>ORT Interacitve</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Andres Dediego</td>
+<td>Reservix GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Andreas Nusser</td> 
-<td>JoussenKarliczek GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Anna Tsvetanova</td>
+<td>Pegasystems</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Andreas Retzbach</td> 
-<td>Signum communication GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Annika Brinkmann</td>
+<td>absichtbar.de</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Andreas Winter</td> 
-<td>Onedrop GmbH & Co KG</td> 
-<td>@wolvdev</td> 
-<td>Germany</td> 
+<td>Anton Staroverov</td>
+<td>WONDROUS LTD</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Anita Stamova</td> 
-<td>BG LEADS Ltd.</td> 
-<td>@ani</td> 
-<td>Bulgaria</td> 
+<td>Arne Maier</td>
+<td>inovex GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Anna Skwarczynska</td> 
-<td>SAP Polska Spółka z o.o.</td> 
-<td></td> 
-<td>Poland</td> 
+<td>Artur Ledwig</td>
+<td>Netzbewegung GmbH</td>
+<td></td>
+<td></td>
 </tr>
-
-<tr>
-<td>Anna-Lena Becker</td> 
-<td>juni.com GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Annika Brinkmann</td> 
-<td>absichtbar.de</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
-
-
 
 
 <tr class="nwl">
@@ -244,108 +233,61 @@ Text:
 
 </tr>
 
-
 <tr>
-<td>Bas van de Weerdt</td> 
-<td>APG</td> 
-<td></td> 
-<td>Netherlands</td> 
+<td>Benedikt Scherer</td>
+<td>22CONNECT AG</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Ben Cowley</td> 
-<td>DoneDeal</td> 
-<td></td> 
-<td>Ireland</td> 
+<td>Bernd Bäumer</td>
+<td>1&1 Mail&Media GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Benjamin Messmer</td> 
-<td>Communiacs GmbH & Co.KG</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Bert Coenen</td>
+<td>KU Leuven - ICTS</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Benjamin Schneider</td> 
-<td>ARTE GEIE</td> 
-<td></td> 
-<td>France</td> 
+<td>Björn Roddeck</td>
+<td>ePages GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Benjamin Weber</td> 
-<td>elementare teilchen GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Boris Stiner</td>
+<td>elfnullfünf</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Benoît Henry</td>   
-<td></td> 
-<td>@bhenbe</td> 
-<td>Belgium</td> 
+<td>Boris Tschernach</td>
+<td>d-SIRE GmbH & Co. KG</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Bernd Baeumer</td> 
-<td>1&1 Mail&Media GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Bram Doppen</td>
+<td>Perplex internetmarketing B.V.</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Björn Asal</td> 
-<td>Nero EMEA Sales GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Brendan Foley</td>
+<td>8 West</td>
+<td></td>
+<td></td>
 </tr>
-
-<tr>
-<td>Bogdan Strecker</td> 
-<td>Sinnoptics - Bodemeyer Eismann Lau GbR</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Boris Bojic</td> 
-<td>21TORR GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Boris Stiner</td> 
-<td>[1105] elfnullfuenf</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Boryana Dimitrova</td> 
-<td>BG LEADS Ltd.</td> 
-<td>@botzy</td> 
-<td>Bulgaria</td> 
-</tr>
-
-<tr>
-<td>Brian McClure</td> 
-<td>ADITION technologies AG</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Brian Ramirez</td> 
-<td>REWE Digital GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
-
-
 
 <tr class="nwl">
 
@@ -354,110 +296,96 @@ Text:
 </tr>
 
 <tr>
-<td>Carina Lebherz</td> 
-<td>HC Solutions GesmbH</td> 
-<td></td> 
-<td>Austria</td> 
+<td>Carina Lebherz</td>
+<td>HC Solutions GesmbH - Dipl.-Ing. Rudolf Huber</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Chiara Ficano</td> 
-<td>BridgingIT</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Caroline Knoch</td>
+<td>nova GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Christian Aderhold</td> 
-<td>qu-int.gmbh</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Carsten Dietrich</td>
+<td>UDG Rhein-Main GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Christian Albert</td> 
-<td>Studitemps GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Christian Burkhart</td>
+<td>University of Freiburg / Department of Educational Science</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Christian Falk</td> 
-<td>avenit AG</td> 
-<td>@christianfalk</td> 
-<td>Germany</td> 
-</tr>
-
-
-<tr>
-<td>Christian Janz</td> 
-<td>BridgingIT</td> 
-<td>@c_janz</td> 
-<td>Germany</td> 
-</tr>
-
-
-<tr>
-<td>Christian Simeoni</td> 
-<td>empiriecom GmbH & Co. KG</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
-<tr>
-<td>Christian Sharaf</td> 
-<td>Haufe-Lexware GmbH & Co KG</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
-<tr>
-<td>Christopher Canisius</td> 
-<td>Electronic Minds GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
-<tr>
-<td>Christoph Friedl</td> 
-<td>TUI Austria Holding GmbH</td> 
-<td>@Trullus</td> 
-<td>UK</td> 
-</tr>
-
-
-<tr>
-<td>Christopher Fries</td> 
-<td>SAP SE</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
-<tr>
-<td>Christopher Hodges</td> 
-<td></td> 
-<td>@cjfh1990</td> 
-<td>UK</td> 
+<td>Christian Häringer</td>
+<td>Project A Services</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Christopher Kuhrt</td> 
-<td>Reservix GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Christian Oestreich</td>
+<td>d-SIRE GmbH & Co. KG</td>
+<td></td>
+<td></td>
 </tr>
-
 
 <tr>
-<td>Corinna Lins</td> 
-<td>BridgingIT</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Christian Wingels</td>
+<td>22CONNECT AG</td>
+<td></td>
+<td></td>
 </tr>
+
+<tr>
+<td>Christoph Freund</td>
+<td>Netzbewegung GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Christopher Canisius</td>
+<td>Electronic Minds GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Christopher Kuhrt</td>
+<td>Reservix GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Christos Keramitsis</td>
+<td>Pluswerk Puls GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Ciaran Brohan</td>
+<td>8 West Consulting</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Clara Peters</td>
+<td>22CONNECT AG</td>
+<td></td>
+<td></td>
+</tr>
+
 
 
 <tr class="nwl">
@@ -468,107 +396,74 @@ Text:
 
 
 <tr>
-<td>Diana Zubova</td> 
-<td>Autoscout24 GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
-<tr>
-<td>Daniel Bard</td> 
-<td>BSSM Werbeagentur</td> 
-<td></td> 
-<td>Switzerland</td> 
-</tr>
-
-<tr>
-<td>Daniel Ehniss</td>    
-<td></td> 
-<td>@depone</td>
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Daniel Eikenberg</td>    
-<td>empiriecom GmbH & Co. KG </td> 
+<td>Daniel Eckelt</td>
+<td>inovex GmbH</td>
 <td></td>
-<td>Germany</td> 
+<td></td>
 </tr>
 
 <tr>
-<td>Daniel Wentsch</td> 
-<td>NIMIUS</td> 
-<td>@klickreflex</td> 
-<td>Germany</td> 
+<td>Daniel Herstedt</td>
+<td>Just Digital Network Sweden AB</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Dave Spengeler</td> 
-<td>Mesch GmbH</td> 
-<td>@theyve</td> 
-<td>Switzerland</td> 
+<td>Daniel Mateblowski</td>
+<td>21TORR GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>David Roessli</td> 
-<td>Cybermedia Concepts</td> 
-<td>@roessli</td> 
-<td>Switzerland</td> 
+<td>Daniel Wagner</td>
+<td>Printus GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>David Slacalek</td> 
-<td>Prague Bistro Digital, s.r.o.</td> 
-<td></td> 
-<td>Czech Republic</td> 
+<td>Dennis Schmidt</td>
+<td>HDNET GmbH & Co. KG</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Davide Donetto</td> 
-<td>Haufe-Lexware GmbH & Co KG</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Dirk Höntzsch</td>
+<td>Verlag Der Tagesspiegel GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Debbie Rouleau</td> 
-<td>Plank</td> 
-<td>‪@SekhmetDesign‬</td> 
-<td>Canada</td> 
+<td>Dirk Scharrenbach</td>
+<td>jobtv medienwerkstatt</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Dharma Ferrari</td> 
-<td>Basilico Srl </td> 
-<td>@dharmastyle</td> 
-<td>Italy</td> 
+<td>Dom Huxley</td>
+<td>Huxley Digital</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Dolinde van Beek</td>
-<td></td>  
-<td>@Dop12</td> 
-<td>Netherlands</td> 
+<td>Dominic Rico Gómez</td>
+<td>VISIONSBOX GmbH & Co. KG</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Dominik Hornung</td> 
-<td>Studitemps GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Doris Janssen</td>
+<td>Norddeutscher Rundfunk</td>
+<td></td>
+<td></td>
 </tr>
-
-
-<tr>
-<td>Dominik Laube</td> 
-<td>Electronic Minds GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
-
 
 
 <tr class="nwl">
@@ -578,50 +473,34 @@ Text:
 </tr>
 
 
+
 <tr>
-<td>Eelco de Vries</td> 
-<td>Mendix Technology BV</td> 
-<td></td> 
-<td>Netherlands</td> 
+<td>Elena Schmidt</td>
+<td>SICK AG </td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Elizabeth Dunphy</td> 
-<td>Onedrop GmbH & Co KG</td> 
-<td>@caora_bhreagha</td> 
-<td>Germany</td> 
+<td>Emanuel Imhof</td>
+<td>Sahli & Partner AG</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Emma Seifried</td> 
-<td>kultwerk GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Emma Seifried</td>
+<td>kultwerk GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Enzo Marchioni</td> 
-<td></td> 
-<td></td> 
-<td>Canada</td> 
+<td>Evelyne Wauters</td>
+<td>Realdolmen</td>
+<td></td>
+<td></td>
 </tr>
-
-<tr>
-<td>Eric Smerling</td> 
-<td>Coremedia AG</td> 
-<td>@semmel</td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Erika Zammit</td> 
-<td>Blexr Limited</td> 
-<td></td> 
-<td>Malta</td> 
-</tr>
-
-
-
 
 <tr class="nwl">
 
@@ -630,85 +509,40 @@ Text:
 </tr>
 
 
-
 <tr>
-<td>Fabian Christen</td> 
-<td>Pixmill – Büro für Web</td> 
-<td></td> 
-<td>Switzerland</td> 
-</tr>
-
-
-<tr>
-<td>Fabian Hauss</td> 
-<td>Printus GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Fabian Kunde</td>
+<td>VISIONSBOX GmbH & Co. KG</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Fabian Koenig</td> 
-<td>UDG Karlsruhe GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
-<tr>
-<td>Florian Barndt</td> 
-<td>s.Oliver Bernd Freier GmbH & Co.KG</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Felix Klippe</td>
+<td>GWD Gensert Werbung und Design GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Florian Schlittenbauer</td> 
-<td>Onedrop GmbH & Co KG</td> 
-<td>@schliflo</td> 
-<td>Germany</td> 
-</tr>
-
-
-<tr>
-<td>Florian Seidel</td> 
-<td>HUK-Coburg</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
-<tr>
-<td>Frantisek Ivanko</td> 
-<td>WONDROUS LLC</td> 
-<td></td> 
-<td>Switzerland</td> 
+<td>Felix Sauer</td>
+<td>diconium digital solutions GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Frantisek Prochazka</td> 
-<td>Prague Bistro Digital, s.r.o.</td> 
-<td></td> 
-<td>Czech Republic</td> 
+<td>Filipe Santos Correa</td>
+<td>inovex GmbH</td>
+<td></td>
+<td></td>
 </tr>
-
 
 <tr>
-<td>Frederic Heitmann-Andre </td> 
-<td>Acando</td> 
-<td></td> 
-<td>Norway</td> 
+<td>Francesco Benanti</td>
+<td>Pigmento</td>
+<td></td>
+<td></td>
 </tr>
-
-
-<tr>
-<td>Frederik Rahimpur </td> 
-<td>norisk GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
-
 
 <tr class="nwl">
 
@@ -717,27 +551,20 @@ Text:
 </tr>
 
 
+
 <tr>
-<td>Giorgio Finulli</td> 
-<td>Basilico Srl</td> 
-<td>@gfnool</td> 
-<td>Italy</td> 
+<td>Gielen Gunter</td>
+<td>Cegeka</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Greetje Jongen</td> 
-<td>UC Leuven Limburg</td> 
-<td></td> 
-<td>Belgium</td> 
+<td>Greet Peirelinck</td>
+<td>Webenzo</td>
+<td></td>
+<td></td>
 </tr>
-
-<tr>
-<td>Gregorio Levano</td> 
-<td>Haufe-Lexware GmbH & Co KG</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
 
 
 <tr class="nwl">
@@ -748,49 +575,18 @@ Text:
 
 
 <tr>
-<td>Hans Hoechtl</td> 
-<td>Onedrop GmbH & Co KG</td> 
-<td>@hhoechtl</td> 
-<td>Germany</td> 
+<td>Hendrik Mondelaers</td>
+<td>Realdolmen nv</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Heather Houston</td> 
-<td>trnd international GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Henry Bäumle</td>
+<td>HDNET GmbH & Co. KG</td>
+<td></td>
+<td></td>
 </tr>
-
-<tr>
-<td>Hendrik Kuijs</td> 
-<td>Hochschule Furtwangen University - HFU</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Hendrik Mondelaers</td> 
-<td>Realdolmen</td> 
-<td></td> 
-<td>Belgium</td> 
-</tr>
-
-<tr>
-<td>Hugo Villegas </td>   
-<td>MRM McCann GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Hynek Zatloukal</td> 
-<td>Prague Bistro Digital, s.r.o.</td> 
-<td></td> 
-<td>Czech Republic</td> 
-</tr>
-
-
-
 
 <tr class="nwl">
 
@@ -799,39 +595,16 @@ Text:
 </tr>
 
 <tr>
-<td>Ib Johansen</td> 
-<td>Acando</td> 
-<td></td> 
-<td>Norway</td> 
+<td>Inga Vehling</td>
+<td>sum.cumo GmbH</td>
+<td></td>
+<td></td>
 </tr>
-
-<tr>
-<td>Indre Skaburskyte</td> 
-<td>Reservix GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Isabel Varela Grundmann</td> 
-<td>SinnerSchrader Deutschland GmbH</td> 
-<td>@fallera</td> 
-<td>Germany</td> 
-</tr>
-
-
 
 <tr class="nwl">
 
 <td colspan="4">J<a id="j"></a></td>
 
-</tr>
-
-<tr>
-<td>Jakob Härter</td> 
-<td></td> 
-<td></td>
-<td>Germany</td>
 </tr>
 
 <tr>
@@ -841,170 +614,131 @@ Text:
 <td>Germany</td>
 </tr>
 
-
 <tr>
-<td>Jan Kohlhaas</td> 
-<td>DB Vertrieb GmbH</td> 
-<td>@schlensen</td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Jan Lukes</td> 
-<td>Digital Media Publishing s.r.o</td> 
-<td></td> 
-<td>Czech Republic</td> 
-</tr>
-
-<tr>
-<td>Jan Petersen</td> 
-<td>UDG Karlsruhe GmbH</td> 
+<td>Jan Garcia</td>
+<td>Verlag Der Tagesspiegel GmbH</td>
 <td></td>
-<td>Germany</td>
+<td></td>
 </tr>
 
 <tr>
-<td>Jan Vondrous</td> 
-<td>Digital Media Publishing s.r.o</td> 
-<td></td> 
-<td>Czech Republic</td> 
+<td>Jan-Michael Loew</td>
+<td>punkt.de GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Janice Noack</td> 
-<td>Pluswerk Puls GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Jan Peschek</td>
+<td>Haufe Group</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Jens Elfering</td> 
-<td>Sinnoptics - Bodemeyer Eismann Lau GbR</td> 
-<td>@jelfe</td> 
-<td>Germany</td> 
+<td>Jan Petersen</td>
+<td>UDG Rhein-Main GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Jesse Bakels</td> 
-<td>Exitable</td> 
-<td></td> 
-<td>Netherlands</td> 
+<td>Jean-Sébastien Ordonneau</td>
+<td>POINT LIGNE PLAN</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Joerg Farin</td> 
-<td>Wiha Werkzeuge</td> 
-<td>@farinho6</td> 
-<td>Germany</td> 
+<td>Jens Forstreuter</td>
+<td>diconium digital solutions GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Joerg Gehring</td> 
-<td>[1105] elfnullfuenf</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Jesper Persson</td>
+<td>24HR Malmö AB</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Joerg Hambuch</td>
-<td></td>   
-<td>@joerghambuch</td> 
-<td>Germany</td> 
+<td>Jessica Zier</td>
+<td>raphael GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Joerg Naumann</td> 
-<td>medicalweb</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Jim Morrison</td>
+<td>Huxley Digital</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Joerg-Holger Fritz</td>
-<td></td>  
-<td>@jhf1967</td> 
-<td>Germany</td> 
+<td>John Goudzwaard</td>
+<td>Syntess Software B.V.</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Joergen Nilsson</td> 
-<td>A&R Digital Agency</td> 
-<td>@coffeepunk</td> 
-<td>Sweden</td> 
+<td>Jonas Leonhardt</td>
+<td>Flagbit GmbH & Co. KG</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Joke De Winter</td>
-<td></td>  
-<td>@jokedewinter</td> 
-<td>UK</td> 
+<td>Jonathan Reisdorf</td>
+<td>Project A Services</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Jonathan David</td> 
-<td>kuehlhaus AG</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Jörg Farin</td>
+<td>Wiha Werkzeuge</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>José Corachan</td> 
-<td>NT-ware Systemprogrammierungs GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Jörg Gehring</td>
+<td>elfnullfünf</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Jose-Luis Almagro</td> 
-<td>Exitable</td> 
-<td></td> 
-<td>Netherlands</td> 
+<td>Josué Zarzosa</td>
+<td>eSailors Ltd.</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Josué Zarzosa</td> 
-<td>eSailors Ltd.</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Juan Pablo Denis</td>
+<td>Project A Services</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Julia Schweiger</td> 
-<td>Printus GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Judith Lichtmeß</td>
+<td>SinnerSchrader Deutschland GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Julian Forster</td> 
-<td>Haufe-Lexware GmbH & Co KG</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Julian Thiel</td>
+<td>Reservix GmbH</td>
+<td></td>
+<td></td>
 </tr>
-
-<tr>
-<td>Julius Pataky</td> 
-<td>Prague Bistro Digital, s.r.o.</td> 
-<td></td> 
-<td>Czech Republic</td> 
-</tr>
-
-<tr>
-<td>Jure Trtnik</td> 
-<td>Studio Moderna</td> 
-<td></td> 
-<td>Slovenia</td> 
-</tr>
-
-
-<tr>
-<td>Jürgen Schröder</td> 
-<td>HUK-Coburg</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
 
 
 <tr class="nwl">
@@ -1014,66 +748,41 @@ Text:
 </tr>
 
 
-<tr>
-<td>Kari Selovuo</td> 
-<td>Corellia Helsinki Oy</td> 
-<td>@KariSelovuo</td> 
-<td>Finland</td> 
-</tr>
-
 
 <tr>
-<td>Karina Hinkelthein</td> 
-<td>dotSource GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Kai Thomas</td>
+<td>Haufe-Lexware</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Karolin Nagel</td> 
-<td>jameda GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Katherine Steffen</td>
+<td>plan.one ccs GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Katharina Beckenhaub</td> 
-<td>DB Vertrieb GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
-<tr>
-<td>Katharina Konopik</td> 
-<td>Onedrop GmbH & Co KG</td> 
-<td>@righthandedless</td> 
-<td>Germany</td> 
+<td>Katrin Geiss</td>
+<td>Printus GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Kathleen Peschke</td> 
-<td>internezzo ag</td> 
-<td></td> 
-<td>Switzerland</td> 
+<td>Kristinn Sigmundsson</td>
+<td>Sigmundsson Consulting AB</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Katrin Kaufleitner</td> 
-<td>pixelart GmbH</td> 
-<td></td> 
-<td>Austria</td> 
+<td>kultwerk GmbH</td>
+<td>kultwerk GmbH</td>
+<td></td>
+<td></td>
 </tr>
-
-<tr>
-<td>Konstantin Tieber</td> 
-<td>webfactory GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
-
 
 <tr class="nwl">
 
@@ -1083,54 +792,53 @@ Text:
 
 
 <tr>
-<td>Lars Kemnah</td> 
-<td>Werbewind GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Lars Kemnah</td>
+<td>Werbewind GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Lars Toepner</td> 
-<td>SinnerSchrader Deutschland GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Lasse JENSEN</td>
+<td>ERNI SUISSE SA</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Laure Castiblanco</td> 
-<td>Printus GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Lindsey Kuester</td>
+<td>TRUSTYOU GMBH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Lennart Hennigs</td> 
-<td>Miele & Cie. KG</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Lionel Egger</td>
+<td>ISO</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Leslie Kästner Schuler</td> 
-<td>TUI Austria Holding GmbH</td> 
-<td>@leslindividualism</td> 
-<td>Germany</td> 
+<td>Luca Dalessandro</td>
+<td>Pigmento</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Lisa Eckhardt</td> 
-<td>Artirigo AG</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Luigi Principi</td>
+<td>ISO</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Luke Sideris</td> 
-<td>Bitsight Technologies</td> 
-<td>@lukesideris</td> 
-<td>USA</td> 
+<td>Luuk Pijpers</td>
+<td>Perplex internetmarketing B.V.</td>
+<td></td>
+<td></td>
 </tr>
-
 
 <tr class="nwl">
 
@@ -1140,46 +848,73 @@ Text:
 
 
 <tr>
-<td>Mamoun Hamra</td> 
-<td>Active Agent AG</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Magdalena Buska</td>
+<td>Inspire Technologies GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Manuel Eckstein</td>   
-<td>Printus GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
-<tr>
-<td>Manuel Heibel</td> 
-<td>SAP SE</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Maicol Zenatti</td>
+<td>Pigmento Snc</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Manuel Matuzovic</td>   
-<td></td> 
-<td>@mmatuzo</td> 
-<td>Austria</td> 
+<td>Maksim Frese</td>
+<td>plan.one ccs GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Manuel Schulz</td>   
-<td>Peakwork AG</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Manuel Haller Polo</td>
+<td>WONDROUS LTD</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Marc Kiessling</td> 
-<td>FTI Touristik GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Manuel Lenhart</td>
+<td>UEBERBIT GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Marc Blatt</td>
+<td>SICK AG </td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Marc Buse</td>
+<td>1&1 Mail&Media GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Marc Haß</td>
+<td>UDG Rhein-Main GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Marc Hilditch</td>
+<td>Moneysupermarket Group</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Marc Hüser</td>
+<td>Norddeutscher Rundfunk</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -1190,59 +925,24 @@ Text:
 </tr>
 
 <tr>
-<td>Marcel Miedzianowski</td> 
-<td>Active Agent AG</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Mariana Wolfschoon</td>
+<td>elementare teilchen GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Marco Hengstenberg</td>
-<td>NIMIUS</td>   
-<td>@nice2meatu</td> 
-<td>Germany</td> 
+<td>Marianne Hellebø Aarø</td>
+<td>LEGO Systems A/S</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Marco Stephan</td>
-<td>Namics AG</td>   
-<td></td> 
-<td>Switzerland</td> 
-</tr>
-
-<tr>
-<td>Mariana Wolfschoon</td> 
-<td>elementare teilchen GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Mariandi Stylianou</td> 
-<td>MOO Print Limited</td> 
-<td></td> 
-<td>UK</td> 
-</tr>
-
-<tr>
-<td>Marielle Vetter</td> 
-<td>G+J Digital Products GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Mario Schmidt</td> 
-<td>Heinrich Heine GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Marion Le Pontois</td> 
-<td>Acando</td> 
-<td></td> 
-<td>Norway</td> 
+<td>Mario Schmidt</td>
+<td>Printus GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -1253,10 +953,17 @@ Text:
 </tr>
 
 <tr>
-<td>Markus Angermeier</td>
+<td>Maris Torga</td>
+<td>Codeborne OÜ</td>
 <td></td>
-<td>@kosmar</td>
-<td>Germany</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Mark Friedrich</td>
+<td>meinestadt.de GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -1267,191 +974,95 @@ Text:
 </tr>
 
 <tr>
-<td>Markus Voss</td> 
-<td>Acando</td> 
-<td></td> 
-<td>Norway</td> 
-</tr>
-
-<tr>
-<td>Markus Woessner</td> 
-<td>ADITION technologies AG</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Martin R. Krause</td>   
-<td></td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Martin Vollenweider</td>   
-<td></td> 
-<td></td> 
-<td>Switzerland</td> 
-</tr>
-
-<tr>
-<td>Martina Nedyalkova</td>   
-<td>BG LEADS Ltd.</td> 
-<td></td> 
-<td>Bulgaria</td> 
-</tr>
-
-<tr>
-<td>Mary Vokicic</td> 
-<td>arvato eCommerce</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Matteo Miotto</td> 
-<td>ESTECO SpA</td> 
-<td></td> 
-<td>Italy</td> 
-</tr>
-
-<tr>
-<td>Matthias Ihle</td>    
+<td>Markus Spallek</td>
+<td>HDNET GmbH & Co. KG</td>
 <td></td>
-<td></td>  
-<td>Germany</td> 
+<td></td>
 </tr>
 
 <tr>
-<td>Matthias Lück</td>    
-<td>Volkswagen Financial Services AG</td>
-<td></td>  
-<td>Germany</td> 
+<td>Martin Alker</td>
+<td>Flagbit GmbH & Co. KG</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Matthias Rossbach</td>    
-<td>BIG PICTURE GmbH</td>
-<td></td>  
-<td>Germany</td> 
+<td>Martin Stettler</td>
+<td>dieweberei.ch</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Max Mai</td>    
-<td></td>  
-<td>@maxinteractive</td> 
-<td>Germany</td> 
+<td>Martin Thurau</td>
+<td>eSailors Ltd.</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Max Wendt</td>    
-<td>re-lounge GmbH</td>  
-<td></td> 
-<td>Germany</td> 
+<td>Marvin Hübner</td>
+<td>BERGWERK Werbeagentur GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Melanie Stuchlik</td> 
-<td>dpa-infocom GmbH</td> 
-<td>@MelStuch</td> 
-<td>Germany</td> 
+<td>Mary Vokicic</td>
+<td>Star Finanz GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Michael Ewers</td> 
-<td>REWE Digital GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Micaela Rava</td>
+<td>Project A Services</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Michael Fest</td> 
-<td>NFQ | Digital Creatives</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Michael Hoder</td>
+<td>QNC GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Michael Grosch</td> 
-<td>migrosch - Web Development</td> 
-<td>@migrosch</td> 
-<td>Germany</td> 
+<td>Michael Jacobi</td>
+<td>Habermaass GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Michael Haefliger</td> 
-<td>Mesch GmbH</td> 
-<td>@haeflimi</td> 
-<td>Switzerland</td> 
+<td>Michael Wallner</td>
+<td>netzstrategen GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Michael Haenel</td> 
-<td>TWT Interactive</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Michal Pokorák</td>
+<td>Digital Media Publishing s.r.o.</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Michael Riehemann</td> 
-<td>Coremedia AG</td> 
-<td>@pitgrap</td> 
-<td>Germany</td> 
-</tr>
-
-
-<tr>
-<td>Michael Worm</td> 
-<td>Electronic Minds GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Mirjam Bornschein</td>
+<td>punkt.de GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Michal Pokorak</td> 
-<td>Digital Media Publishing s.r.o</td> 
-<td></td> 
-<td>Czech Republic</td> 
+<td>Misa Kaspar</td>
+<td>WONDROUS LTD</td>
+<td></td>
+<td></td>
 </tr>
-
-<tr>
-<td>Michel Janssen</td> 
-<td>Exitable</td> 
-<td></td> 
-<td>Netherlands</td> 
-</tr>
-
-<tr>
-<td>Mikko Suominen</td> 
-<td>Ambientia</td> 
-<td></td> 
-<td>Finland</td> 
-</tr>
-
-<tr>
-<td>Milosz Daiczak</td> 
-<td>Shopgate</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Mina Harvey</td>
-<td></td>   
-<td></td> 
-<td>Egypt</td> 
-</tr>
-
-<tr>
-<td>Miryam Remedios Flores Vergara</td>
-<td>Casa de Agua</td>   
-<td></td> 
-<td>Mexico</td> 
-</tr>
-
-
-
-
 
 
 <tr class="nwl">
@@ -1461,100 +1072,46 @@ Text:
 </tr>
 
 <tr>
-<td>Nadezhda Serafimova</td> 
-<td>BG LEADS Ltd.</td> 
-<td></td> 
-<td>Bulgaria</td> 
-</tr>
-
-
-<tr>
-<td>Nela Treuchtlinger</td> 
-<td>TechDivision GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Natalia Justicia</td>
+<td>OXID eSales AG</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Nele Rabus</td>
-<td>Namics AG</td>   
-<td></td> 
-<td>Switzerland</td> 
+<td>Nelly Arndt</td>
+<td>mediaman GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Nepomuk Gasteiger</td> 
-<td></td> 
-<td></td> 
-<td>Germany</td> 
+<td>Nicolae Buhnevici</td>
+<td>Chemonics International INC</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Nicolas Gehlert</td> 
-<td>Active Agent AG</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Nico Prananta</td>
+<td>Swift Management AG</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Nicole Adelt</td> 
-<td></td> 
-<td></td> 
-<td>Germany</td> 
+<td>Nicole Krienke</td>
+<td>XOM Materials GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Nicole Bosshard</td> 
-<td>internezzo ag</td> 
-<td></td> 
-<td>Switzerland</td> 
+<td>Nils Mielke</td>
+<td>FEUERWASSER</td>
+<td></td>
+<td></td>
 </tr>
-
-<tr>
-<td>Nicole Hochleiter</td> 
-<td>SEITENBAU GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Nikita Helm</td> 
-<td>SinnerSchrader Deutschl. GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Niklas Maier</td> 
-<td>SYZYGY Deutschland GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Nikolai Horvat</td> 
-<td>empiriecom GmbH & Co. KG</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Nils Binder</td> 
-<td>9elements GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Nils Mielke</td> 
-<td>FEUERWASSER</td> 
-<td>@nilsmielke</td> 
-<td>Germany</td> 
-</tr>
-
-
-
-
 
 <tr class="nwl">
 
@@ -1562,22 +1119,34 @@ Text:
 
 </tr>
 
-<tr>
-<td>Olaf Tietze</td> 
-<td>eSailors Ltd.</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
 
 <tr>
-<td>Oskar Borek</td>
-<td></td>   
-<td>@web_ozz</td> 
-<td>Germany</td> 
+<td>Olaf Tietze</td>
+<td>eSailors Ltd.</td>
+<td></td>
+<td></td>
 </tr>
 
+<tr>
+<td>Oliver Schneider</td>
+<td>nova GmbH</td>
+<td></td>
+<td></td>
+</tr>
 
+<tr>
+<td>Olivia Honan</td>
+<td>8 West Consulting</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Owen Farrugia</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 
 <tr class="nwl">
 
@@ -1585,43 +1154,54 @@ Text:
 
 </tr>
 
-
 <tr>
-<td>Pascal Kuster</td> 
-<td>Calydo AG</td> 
-<td>@kuschti</td> 
-<td>Switzerland</td> 
+<td>Pablo Sanchez Delgado</td>
+<td>Flagbit GmbH & Co. KG</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Peter Reiter</td> 
-<td>norisk GmbH </td> 
-<td></td> 
-<td>Germany</td> 
+<td>Pascal Waeber</td>
+<td>University of Lausanne</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Philip Kuban</td> 
-<td></td> 
-<td></td> 
-<td>Germany</td> 
+<td>Patrick Kunzke</td>
+<td>22CONNECT AG</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Philipp Wehmeier</td>	
-<td>Pixelpark Bielefeld GmbH</td>	
-<td></td>	
-<td>Germany</td>
+<td>Patrick Marx</td>
+<td>ID.on GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Po-Wei Chen</td> 
-<td>Acer Inc.</td> 
-<td></td> 
-<td>Taiwan</td> 
+<td>Paul Bellemans</td>
+<td>DEV@WORK</td>
+<td></td>
+<td></td>
 </tr>
 
+<tr>
+<td>Peter Wimmer</td>
+<td>elementare teilchen GmbH</td>
+<td></td>
+<td></td>
+</tr>
 
+<tr>
+<td>Philipp Gilbert</td>
+<td>oxaion gmbh</td>
+<td></td>
+<td></td>
+</tr>
 
 
 
@@ -1633,11 +1213,6 @@ Text:
 
 
 
-
-
-
-
-
 <tr class="nwl">
 
 <td colspan="4">R<a id="r"></a></td>
@@ -1645,144 +1220,83 @@ Text:
 </tr>
 
 
-<tr>
-<td>Radu Luchian</td> 
-<td>TrustYou GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
 
 <tr>
-<td>Raf Van Suetendael</td> 
-<td>Impuls bvba</td> 
-<td></td> 
-<td>Belgium</td> 
-</tr>
-
-
-<tr>
-<td>Ralf Hortt</td> 
-<td></td> 
-<td>@horttcore</td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Raphael Pietsch</td> 
-<td>qu-int.gmbh</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Rebecca Sturm</td> 
-<td>SYZYGY Deutschland GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
-<tr>
-<td>Reem Akuz</td> 
-<td>Shopgate</td> 
-<td>@reemakuz</td> 
-<td>Germany</td> 
-</tr>
-
-
-<tr>
-<td>Rene Bach</td> 
-<td>coliquio GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Reto Eller</td> 
-<td>Pixmill – Büro für Web</td> 
-<td>@pixmilltweet</td> 
-<td>Switzerland</td> 
-</tr>
-
-<tr>
-<td>Richard Weltman</td> 
-<td>picturesforpress</td> 
-<td>@j3610</td> 
-<td>UK</td> 
-</tr>
-
-
-<tr>
-<td>Riona Kuthe</td> 
-<td>jweiland.net - Jochen Weiland</td> 
-<td>@mixedpixel</td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Robert van de Linde</td> 
-<td></td> 
-<td></td> 
-<td>Netherlands</td> 
-</tr>
-
-<tr>
-<td>Robert Zierhofer</td> 
-<td>Onedrop GmbH & Co KG</td> 
-<td>@rzierhofer</td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Robin Klärck</td> 
-<td>insign gmbh</td> 
-<td></td> 
-<td>Switzerland</td> 
-</tr>
-
-<tr>
-<td>Robin Valins</td> 
-<td>Active Agent AG</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Roland Jegorovs</td> 
-<td>Evolution Latvia SIA</td> 
-<td></td> 
-<td>Latvia</td> 
-</tr>
-
-<tr>
-<td>Romero Steinhauser</td>   
+<td>Radimir Bitsov</td>
+<td>Project A Services</td>
 <td></td>
-<td></td> 
-<td>Germany</td> 
+<td></td>
 </tr>
 
 <tr>
-<td>Ronald The</td> 
-<td>infotectures GmbH</td> 
-<td>@infotectures</td> 
-<td>Germany</td> 
+<td>Radu Luchian</td>
+<td>TRUSTYOU GMBH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Rouven Rieker</td> 
-<td>JoussenKarliczek GmbH</td> 
-<td>@therouv</td> 
-<td>Germany</td> 
+<td>Ralf Casamassa</td>
+<td>d-SIRE GmbH & Co. KG</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Runsu Deng</td> 
-<td>trnd international GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Ralf Sandig</td>
+<td>Netzbewegung GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
+<tr>
+<td>Rebecca O’Sullivan</td>
+<td>8 West</td>
+<td></td>
+<td></td>
+</tr>
 
+<tr>
+<td>Regina Serrambana</td>
+<td>Brighton Agency</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Renate Rohrbacher</td>
+<td>Trivago</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Richard Weltman</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Robert Marsland</td>
+<td>DigiBee Ltd</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Robert Mikuljan</td>
+<td>Netzbewegung GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Ryan Thurmer</td>
+<td>22CONNECT AG</td>
+<td></td>
+<td></td>
+</tr>
 
 
 
@@ -1793,204 +1307,168 @@ Text:
 </tr>
 
 
-<tr>
-<td>Samuel Snopko</td> 
-<td>WONDROUS LLC</td> 
-<td>@samuelsnopko</td> 
-<td>Switzerland</td> 
-</tr>
+
 
 <tr>
-<td>Sandi Elezovic</td> 
-<td>Calydo AG</td> 
-<td></td> 
-<td>Switzerland</td> 
-</tr>
-
-<tr>
-<td>Sara Ferlin</td> 
-<td>Studio Moderna</td> 
-<td></td> 
-<td>Slovenia</td> 
-</tr>
-
-<tr>
-<td>Sascha Matern</td> 
-<td>1&1 Mail&Media GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Sascha Urbanek</td> 
-<td>Humbaur GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Sebastian Fritsch</td> 
-<td>Medienwürfel GbR</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Sebastian Mueller</td> 
-<td>elementare teilchen GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Sebastian Schellenberger</td> 
-<td>infotectures GmbH</td> 
-<td>@SebSchell</td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Simon Göger</td> 
-<td>ARTE GEIE</td> 
-<td></td> 
-<td>France</td> 
-</tr>
-
-<tr>
-<td>Simon Schaufelberger</td>   
+<td>Sabrina Handt</td>
+<td>E.M.P. Merchandising Handelsgesellschaft mbH</td>
 <td></td>
-<td></td> 
-<td>Germany</td> 
+<td></td>
 </tr>
 
 <tr>
-<td>Simone Füllgraf</td> 
-<td>Pluswerk Puls GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Samuel Snopko</td>
+<td>WONDROUS LTD</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Sina Burow</td> 
-<td>SinnerSchrader Deutschl. GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Sarah Ganter</td>
+<td>akquinet tech@spree GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Soeren Birkemeyer</td> 
-<td>webfactory GmbH</td> 
-<td>@polarbirke</td> 
-<td>Germany</td> 
+<td>Sarah Hofmann</td>
+<td>diconium digital solutions GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Sonja Scharfenberg</td> 
-<td>Goethe-Institut e.V.</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Sarah Noll</td>
+<td>21TORR GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Stefan Drehmann</td> 
-<td>IronShark GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Sascha Immig</td>
+<td>TÜV Rheinland Akademie GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Stefan Hilger</td> 
-<td>webfactory GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Sascha Lach</td>
+<td>22CONNECT AG</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Stefan Kraus</td> 
-<td>21TORR GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Sascha Schnetz</td>
+<td>Printus GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Stefan Oury</td>
-<td></td>    
-<td>@stefanoury</td>
-<td>Belgium</td> 
+<td>Sascha Urbanek</td>
+<td>Humbaur GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Stefan Reichert</td> 
-<td>qu-int.gmbh</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Sascha Woebb</td>
+<td>Star Finanz GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Stefan Sommer</td> 
-<td>Kleemann + Grosch GbR</td> 
-<td>@roadkill</td> 
-<td>Germany</td> 
+<td>Sebastian Müller</td>
+<td>nova GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Stefan Vomstein</td> 
-<td>kultwerk GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
-<tr>
-<td>Steffen Knöller</td> 
-<td>SAP SE</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
-<tr>
-<td>Stephan Steigenberger</td> 
-<td></td> 
-<td></td> 
-<td>Germany</td> 
+<td>Sebastian Richter</td>
+<td>raphael GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Sumit Kumar</td> 
-<td>car2go group GmbH</td> 
-<td>@tweetsofsumit</td> 
-<td>Germany</td> 
+<td>Sergey Fetiskin</td>
+<td>Akelius GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Susanna Schneider</td> 
-<td>21TORR GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Silke Gander</td>
+<td>STRATO AG</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Sven Nußbaum</td> 
-<td>avenit AG</td> 
-<td>@snusson</td> 
-<td>Germany</td> 
+<td>Sonja Roßbach</td>
+<td>halberschmidt.com</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Sven Wolf</td> 
-<td>EOD GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Sonja Steinkühler</td>
+<td>HDNET GmbH & Co. KG</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Szymon Nowicki</td> 
-<td>Shopgate</td> 
-<td>@sznowicki</td> 
-<td>Germany</td> 
+<td>Stefan Hoene</td>
+<td>ERNI Consulting AG</td>
+<td></td>
+<td></td>
 </tr>
 
+<tr>
+<td>Stefan Reichert</td>
+<td>SICK AG </td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Susanna Schneider</td>
+<td>21TORR GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Sven Kaiser</td>
+<td>real.Digital Payment and Technology Services GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Sven Lindauer</td>
+<td>inovex GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Svenja Buchholz</td>
+<td>E.M.P. Merchandising Handelsgesellschaft GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Szymon Nowicki</td>
+<td>Shopgate</td>
+<td></td>
+<td></td>
+</tr>
 
 
 
@@ -2002,124 +1480,115 @@ Text:
 
 
 <tr>
-<td>Tanja Oberst</td> 
-<td>DB Systel GmbH</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
-<tr>
-<td>Theo Pantazi</td> 
-<td>Blexr Limited</td> 
-<td></td> 
-<td>Malta</td> 
+<td>Tanja Adam</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Thierry Lewyllie</td> 
-<td>CTA</td> 
-<td>@LewyllieT</td> 
-<td>Netherlands</td> 
+<td>Tassilo Gröper</td>
+<td>WONDROUS LTD</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Thomas Betz</td> 
-<td>SEITENBAU GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Thilo Kochanowski</td>
+<td>PAYBACK GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Thomas Heilmann</td> 
-<td>mindscreen GmbH</td> 
-<td>@theilm_muc</td> 
-<td>Germany</td> 
+<td>Thimo Britsch</td>
+<td>nova GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Thomas Keller</td> 
-<td>Hochschule Furtwangen University - HFU</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Thomas Buck</td>
+<td>Haufe Group</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Thomas Kraus</td> 
-<td>develop4edu GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Thomas Eberl</td>
+<td>Check24</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Thomas Krawczuk</td> 
-<td>TechDivision GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Thomas Hertog</td>
+<td>Realdolmen</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Thomas May</td>
-<td>Namics AG</td>   
-<td></td> 
-<td>Switzerland</td> 
+<td>Thomas Kraus</td>
+<td>develop4edu</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Thomas Rahlf</td>
-<td></td>   
-<td></td> 
-<td>Germany</td> 
+<td>Thomas Nohl</td>
+<td>sum.cumo GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Till Schweneker</td> 
-<td>melting elements gmbh</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Thorsten Berberich</td>
+<td>PAYBACK GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Till Wollong</td> 
-<td></td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-
-<tr>
-<td>Tim Christmann</td> 
-<td>ORT Interacitve</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Till Schweneker</td>
+<td>melting elements</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Timo Motte</td>    
-<td>Volkswagen Financial Services AG</td>
-<td></td>  
-<td>Germany</td> 
+<td>Tobias Poehlsen</td>
+<td>STRATO AG</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Timo Sauer</td> 
-<td>21TORR GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Tobias Ziegener</td>
+<td>Netzbewegung GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Timon Kreis</td> 
-<td>juni.com GmbH</td> 
-<td></td> 
-<td>Germany</td> 
+<td>Tom Hare</td>
+<td>netzstrategen GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Tom Devos</td> 
-<td></td>  
-<td>@devostom</td> 
-<td>Belgium</td> 
+<td>Tom Rothe</td>
+<td>PAYBACK GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Toshi Stewart</td>
+<td>Reservix GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
 
@@ -2133,8 +1602,12 @@ Text:
 
 
 
-
-
+<tr>
+<td>Urs Beyeler</td>
+<td>superspace</td>
+<td></td>
+<td></td>
+</tr>
 
 
 
@@ -2144,12 +1617,11 @@ Text:
 
 </tr>
 
-
 <tr>
-<td>Vajra Niemeyer</td> 
-<td>Etage 11 - Werbeagentur</td> 
-<td>@4011</td> 
-<td>Germany</td> 
+<td>Vanessa Grunz</td>
+<td>Flagbit GmbH & Co. KG</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -2160,19 +1632,11 @@ Text:
 </tr>
 
 <tr>
-<td>Vivian Avery Lim</td>	
-<td>Titelmedia GmbH </td>	
-<td></td>	
-<td>Germany</td>
+<td>Verena Tesar</td>
+<td>UDG Rhein-Main GmbH</td>
+<td></td>
+<td></td>
 </tr>
-
-<tr>
-<td>Volker Rose</td>	
-<td>Pixelpark Bielefeld GmbH</td>	
-<td></td>	
-<td>Germany</td>
-</tr>
-
 
 
 
@@ -2182,29 +1646,12 @@ Text:
 
 </tr>
 
-
-
 <tr>
-<td>Willem Gorisse</td> 
-<td>Mendix Technology BV</td> 
-<td></td> 
-<td>Netherlands</td> 
+<td>Wiebke Petzold</td>
+<td>meinestadt.de GmbH</td>
+<td></td>
+<td></td>
 </tr>
-
-<tr>
-<td>Wojta Prandell</td> 
-<td>empiriecom GmbH & Co. KG</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
-<tr>
-<td>Wollfgang Freund</td> 
-<td>Communiacs GmbH & Co.KG</td> 
-<td></td> 
-<td>Germany</td> 
-</tr>
-
 
 
 
@@ -2215,15 +1662,6 @@ Text:
 
 </tr>
 
-<tr>
-<td>Xaver Maierhofer</td> 
-<td>Onedrop GmbH & Co KG</td> 
-<td>@__xaver</td> 
-<td>Germany</td> 
-</tr>
-
-
-
 
 
 <tr class="nwl">
@@ -2233,13 +1671,25 @@ Text:
 </tr>
 
 <tr>
-<td>Yannick Milanetto</td> 
-<td>ALTRAN</td> 
-<td>@ymilanetto</td> 
-<td>France</td> 
+<td>Yasin Eksi</td>
+<td>plan.one ccs GmbH</td>
+<td></td>
+<td></td>
 </tr>
 
+<tr>
+<td>Yoram Blumenberg</td>
+<td>akquinet tech@spree GmbH</td>
+<td></td>
+<td></td>
+</tr>
 
+<tr>
+<td>Yun Bai</td>
+<td>Unterschied & Macher GmbH</td>
+<td></td>
+<td></td>
+</tr>
 
 
 
@@ -2249,6 +1699,14 @@ Text:
 <td colspan="4">Z<a id="z"></a></td>
 
 </tr>
+
+<tr>
+<td>Zlatko Mićić</td>
+<td>Eskamedia AG</td>
+<td></td>
+<td></td>
+</tr>
+
 
 
 
