@@ -6,14 +6,14 @@ Trainer: Josh Clark
 
 ----
 
-Intro: 
+Intro:
 
-**Full-day workshop &bullet; Sept 12th**
-Spend a day exploring the web’s emerging interactions and how you can put them to work today. Your guide is designer Josh Clark, author of Designing for Touch and ambassador of the near future.                            
+**Full-day workshop &bullet; Wednesday September 12th**
+Spend a day exploring the web’s emerging interactions and how you can put them to work today. Your guide is designer Josh Clark, author of Designing for Touch and ambassador of the near future.
 
 ----
 
-More: 
+More:
 
 The day begins with a survey of familiar platforms—desktop and mobile—to uncover the new solutions that are replacing yesterday’s best practices. From there, we’ll move into newer design tools—speech, bots, physical interfaces, artificial intelligence, and more—to see how these fresh-from-the-future technologies fit into your everyday products and processes.
 

@@ -6,18 +6,18 @@ Trainer: Seb Lee-Delisle
 
 ----
 
-Intro: 
+Intro:
 
-**Full-day workshop &bullet; Sept 12th**
+**Full-day workshop &bullet; Wednesday September 12th**
 In this workshop, Seb will demonstrate a variety of beautiful visual effects using **JavaScript and HTML5 canvas.** You will learn animation and graphics techniques that you can use to add a sense of dynamism to your projects.
 
 ----
 
-More: 
+More:
 
-Seb demystifies programming and explores its artistic possibilities. His presentations and workshops enable artists to overcome their fear of code and encourage programmers of all backgrounds to be more creative and imaginative. 
+Seb demystifies programming and explores its artistic possibilities. His presentations and workshops enable artists to overcome their fear of code and encourage programmers of all backgrounds to be more creative and imaginative.
 
-           
+
 ### What you'll learn:
 
 - We’ll start off with a short recap of rendering into canvas, and animating simple objects.
@@ -28,7 +28,7 @@ Seb demystifies programming and explores its artistic possibilities. His present
 
 ### What hardware/software do you need?
 A laptop with the latest Chrome/Firefox installed, as well as your favorite text editor.
-          
+
 ### Who is it for?
 This course works equally well for programmers and designers. Whether you’re a coder who is excited about working with visual interactivity, or a designer who’s worked with basic JavaScript you’ll love learning creative code techniques.
 

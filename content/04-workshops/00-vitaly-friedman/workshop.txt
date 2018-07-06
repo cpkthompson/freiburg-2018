@@ -6,24 +6,24 @@ Trainer: Vitaly Friedman
 
 ----
 
-Intro: 
+Intro:
 
-**Full-day workshop &bullet;Wednesday 12th**
+**Full-day workshop &bullet; Wednesday September 12th**
 In this workshop, we will use real-life examples as a case study and examine refinements of the interface on spot. I’d like to set up a very clear roadmap on how we can do the right things in the right order to improve conversion and customer experience. That means removing distractions, minimizing friction and avoiding disruptions and dead ends caused by the interface.
 
 ----
 
-More: 
-     
+More:
+
 An average abandonment rate in eCommerce is around 65–68%. Often it’s caused by ambiguous buttons, labels or copywriting as well as severe problems related to finding or understanding products as well as slow and painful checkout experience. We can’t bring the abandonment rate to 0, but we can shave off at least 10% with some minor and straightforward optimizations.
-                                   
+
 In the workshop, we’ll be looking into:
 
 - **Psychology of eCommerce**
 How do people buy, and when? What role does time, distractions, working hours, interface copy play for buying decisions? How do we streamline the decision making process by helping out customers with thinking and reasoning? We need to understand in which state customers are and what is important to them before we start designing for them.
 
 - **Category Product List + Filtering**
-People can’t buy items that they can’t find or don’t understand. We’ll look into optimal ways to listing items and allowing customers to filter them, on desktop and on mobile. It includes navigation, search, sorting, compatibility, carousels, filters, feature/attribute comparison, zero-results-pages, configurable items and faceted search as well as search hits coming through search engines.  
+People can’t buy items that they can’t find or don’t understand. We’ll look into optimal ways to listing items and allowing customers to filter them, on desktop and on mobile. It includes navigation, search, sorting, compatibility, carousels, filters, feature/attribute comparison, zero-results-pages, configurable items and faceted search as well as search hits coming through search engines.
 
 - **Product Page + Shopping Cart page**
 What do we need to communicate on the product page and what should we keep in mind to convince the customer about the value of a product? We’ll look into images, specs, compatibility details, reviews, labelling, categorization, shipping details, availability details, ship-to-store options etc. We’ll also explore how to deal with FAQs, complementary and related products and recently viewed products.
