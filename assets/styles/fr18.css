@@ -464,12 +464,12 @@ h4 {
 .ss li:focus .si.Andrea {
   background-image: url(../images/speakers/andrea-hov.png);
 }
-.si.ChuiChui {
+.si.Chui {
   background-image: url(../images/speakers/chuichui.png);
 }
-.ss li:hover .si.ChuiChui,
-.ss li:active .si.ChuiChui,
-.ss li:focus .si.ChuiChui {
+.ss li:hover .si.Chui,
+.ss li:active .si.Chui,
+.ss li:focus .si.Chui {
   background-image: url(../images/speakers/chuichui-hov.png);
 }
 .si.Craig {
