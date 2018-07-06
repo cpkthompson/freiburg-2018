@@ -2,9 +2,9 @@ Title: ChuiChui Tan
 
 ----
 
-Bio: 
+Bio:
 
-Chui Chui is the Founder and Director of Beyō Global, where she helps businesses grow their global markets, build products and services that ‘work’ for each market. Her clients include Marriott, BBC, Google, Clarks and Asana. Chui Chui is also the author of the book International User Research, the UX Design editor at Smashing since 2013 and an international speaker. 
+Chui Chui started her UX career more than a decade ago, working with organisations such as Spotify, Marriott, BBC, Google and Clarks, from initial research to design to develop multi-channel international strategies. She has founded Beyō Global, a consultancy which helps companies use market, user behavioural and cultural insights to design a better product and service for their customers (domestic and internationally). Chui Chui is also the author of the book International User Research, the editor at Smashing Magazine and a regular international speaker.
 
 ----
 
@@ -12,11 +12,13 @@ Talk: Designing For Global Audiences
 
 ----
 
-Description: 
+Description:
 
-Going global is often in most companies’ current or future business development plans. Even if your products do not have a presence yet outside your home market, they are no doubt being used by audiences from different parts of the world. Design and build a product with a global audience in mind is important.
+Whether or not the product you’re creating is currently only being sold in one country, it’s always crucial to design and build it with global audiences in mind.
 
-Even big companies do not always get it right. It is not because they do not have a good product or the right operation setup, but it often boils down to one thing: They do not properly understand the ecosystem of the market, what local audiences really want and need, the experience they are after, and most importantly what influencing and driving those behaviours and needs.
+Many businesses are convinced that designing for other markets means copying their successful business model in the home country. They believe that localisation is about translation. They design their products without properly understand what changes are needed and why they are needed. Even big companies do not always get it right.
+
+In this talk, Chui Chui will discuss how these inaccurate perceptions can lead to make flawed business and decision decisions, and explore why and how to understand and design for users in different markets.
 
 ----
 

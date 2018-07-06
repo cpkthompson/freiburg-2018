@@ -8,13 +8,15 @@ Hannah Pileggi is the experience research lead at Airbnb.
 
 ----
 
-Talk: TBA
+Talk: The Future of Travel: How mixed method research helped shape Airbnb Experiences
 
 ----
 
 Description:
 
-Coming soon!
+Hannah will show us a case study of how she utilised user research to improve business and design decisions on a brand new product – Airbnb Trips.
+
+For the past 10 years, Airbnb has changed the way people think about where they’ll stay for their next vacation. But accommodations were never the full vision. When Airbnb decided to expand to offering Experiences, Hannah Pileggi adapted many of the basic methods in the UX research toolkit in order to creatively capture community insight that would help ground more than a year's worth of rapid product development. This talk will highlight examples of applied research—both scrappy and traditional—behind the scenes of Airbnb Experiences.
 
 ----
 
