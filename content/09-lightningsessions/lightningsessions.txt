@@ -1,0 +1,31 @@
+Title: Lightning talks
+----
+Intro:
+
+Just after lunch, on day two of the Smashing Conference, we are hosting 8 lightning talks on the Smashing stage. And we are looking for speakers!
+
+----
+Text:
+
+Have you build something cool recently? Or learned a new technique? Are you an unexperienced speaker? We would like to hear from you too! We are looking for talks on design, content, frontend, javascript and anything else that will help make you build better websites.
+You get four minutes on stage to share your story or challenge. Your crowd consist of 260 people friendly people who design, develop or otherwise work with the web. What are you waiting for?
+
+Please submit your Lightning Talk before August 15. Eight talk will be picked, we will inform you on August 27.
+If you have any questions or if you need some guidance, don't hesitate to let us know too.
+
+Link to the form:
+Name 
+E-mail
+Username on Twitter
+Talk title
+Talk summary
+Comments or questions
+
+<h3>Guidelines</h3>
+<ul>
+  <li>Only attendees of the Smashing Conference Freiburg are allowed to submit a talk proposal.</li>
+  <li>Travel and accommodation costs will not be covered.</li>
+  <li>If you have been selected we would like to recieve your slides in PDF one week in advance.</li>
+  <li>Make sure your talk is not longer than 4 minutes. We will be capping your talk.</li>
+  <li>Must not solicit any company or product.</li>
+</ul>
