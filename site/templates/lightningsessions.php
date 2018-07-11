@@ -3,7 +3,7 @@
 <section class="c default">
   <h1><?php echo html($page->title()) ?></h1>
   <?php if ($page->intro() != ''): ?>
-    <div class="io bb">
+    <div class="io">
       <?php echo kirbytext($page->intro()) ?>
     </div>
   <?php endif ?>
@@ -19,7 +19,7 @@
 
   <!-- <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css"> -->
   <style type="text/css">
-
+  /* nl = newsletter */
   .nl {
     background: #329b47;
     color: #FFF;
@@ -46,6 +46,7 @@
     background: transparent;
     margin-top: 1em;
     border: 3px solid #fff;
+
   }
 
   .nlw {
@@ -67,6 +68,7 @@
       background: #FFF;
       border: 0;
       border-left: 1px solid #ddd;
+      margin-left: -5px;
     }
 
     .nl input {
@@ -90,6 +92,7 @@
     width: 100%;
   }
 
+  /* sct = smashingcat */
   .sct img {
     min-width: 250px;
     max-width: 280px;
@@ -99,12 +102,6 @@
     margin: 0 auto;
   }
 
-  @media screen and (min-width: 27.25em) {
-    .nl .mc-field-group {
-      display: inline-flex;
-    }
-  }
-
   .nl h2 {
     margin-bottom: 0.69em;
   }
@@ -112,6 +109,11 @@
   .nl input::placeholder {
     font-style: italic;
     color: #777777;
+  }
+
+  div#mc_embed_signup div.mce_inline_error {
+    background: none;
+    color: #ffbcbc;
   }
 
   </style>
