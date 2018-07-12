@@ -1,19 +1,19 @@
 Title: Impressum
 ----
-Intro: 
+Intro:
 
-The Smashing Conference is an event brought to you by (link: http://www.smashingmagazine.com/impressum/ text: Smashing Media AG). 
+The Smashing Conference is an event brought to you by (link: http://www.smashingmagazine.com/about/ text: Smashing Media AG).
 
 ----
 
-Text: 
+Text:
 
 ## Contact Us
 
 Smashing Media AG
 Werthmannstr. 15
 79098 Freiburg
-Germany 
+Germany
 
 Amtsgericht Freiburg: HRB 710339
 &#104;&#101;&#108;&#108;&#111;&#064;&#115;&#109;&#097;&#115;&#104;&#105;&#110;&#103;&#099;&#111;&#110;&#102;&#046;&#099;&#111;&#109;
