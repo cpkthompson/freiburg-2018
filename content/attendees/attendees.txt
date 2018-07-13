@@ -199,6 +199,13 @@ Text:
 </tr>
 
 <tr>
+<td>Anne Schüßler</td>
+<td>forcont business technology gmbh</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
 <td>Annika Brinkmann</td>
 <td>absichtbar.de</td>
 <td></td>
@@ -312,6 +319,13 @@ Text:
 <tr>
 <td>Carsten Dietrich</td>
 <td>UDG Rhein-Main GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Catalina Montecinos</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -757,6 +771,13 @@ Text:
 </tr>
 
 <tr>
+<td>Katharina Wagner</td>
+<td>s.Oliver Bernd Freier GmbH & Co. KG</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
 <td>Katherine Steffen</td>
 <td>plan.one ccs GmbH</td>
 <td></td>
@@ -869,6 +890,13 @@ Text:
 </tr>
 
 <tr>
+<td>Mamoun Hamra</td>
+<td>Active Agent AG</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
 <td>Manuel Haller Polo</td>
 <td>WONDROUS LTD</td>
 <td></td>
@@ -922,6 +950,13 @@ Text:
 <td>Beyond Tellerrand</td>
 <td>@marcthiele</td>
 <td>Germany</td>
+</tr>
+
+<tr>
+<td>Marcel Hoegel</td>
+<td>Active Agent AG</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -1100,6 +1135,13 @@ Text:
 </tr>
 
 <tr>
+<td>Nicolas Gehlert</td>
+<td>Active Agent AG</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
 <td>Nicole Krienke</td>
 <td>XOM Materials GmbH</td>
 <td></td>
@@ -1157,6 +1199,13 @@ Text:
 <tr>
 <td>Pablo Sanchez Delgado</td>
 <td>Flagbit GmbH & Co. KG</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Paolo Mioni</td>
+<td>HCE SRL</td>
 <td></td>
 <td></td>
 </tr>
@@ -1431,6 +1480,13 @@ Text:
 <tr>
 <td>Stefan Reichert</td>
 <td>SICK AG </td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Steffen Paasch</td>
+<td>forcont business technology gmbh</td>
 <td></td>
 <td></td>
 </tr>
