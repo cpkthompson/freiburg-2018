@@ -1,4 +1,4 @@
-Title: Lightning talks
+Title: Lightning sessions
 ----
 Intro:
 <div class="vs">
