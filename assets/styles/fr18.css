@@ -864,7 +864,7 @@ h4 {
 .nl {
   background: #59aadb;
   color: #fff;
-  padding-bottom: calc(1em + 3vh);
+  padding-bottom: calc(.5em + 3vh);
   text-align: center;
   display: flex;
   -webkit-font-smoothing: antialiased;
