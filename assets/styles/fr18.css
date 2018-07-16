@@ -862,11 +862,15 @@ h4 {
 }
 /* newsletter */
 .nl {
-  background: #329b47;
+  background: #59aadb;
   color: #fff;
   padding-bottom: calc(1em + 3vh);
   text-align: center;
   display: flex;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: -.5px;
+  font-size: 1.15em;
 }
 
 .nl input,
