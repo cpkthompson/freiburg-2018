@@ -871,6 +871,8 @@ h4 {
   -moz-osx-font-smoothing: grayscale;
   letter-spacing: -.5px;
   font-size: 1.15em;
+  border-bottom: 8px solid #58b7db;
+  border-top: 8px solid #58b7db;
 }
 
 .nl input,
