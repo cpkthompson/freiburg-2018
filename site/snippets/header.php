@@ -41,12 +41,6 @@
         <span class="date">10<sup>th</sup>–11<sup>th</sup> of September 2018</span>
         <ul class="ddu">
           <li>
-              <a href="//smashingconf.com/toronto-2018/">
-              <span class="rbt">Toronto <img src="<?php echo url('assets/images/canada-flag.png') ?>" width="26" height="26" alt="SmashingConf Toronto 2018" /> </span>
-              <span class="date">26<sup>th</sup>–27<sup>th</sup> of June 2018</span>
-              </a>
-          </li>
-          <li>
               <a href="https://smashingconf.com/ny-2018">
               <span class="rbt">New York <img src="<?php echo url('assets/images/usa-flag.png') ?>" width="26" height="26" alt="SmashingConf New York" /> </span>
               <span class="date">23<sup>rd</sup>–24<sup>th</sup> of October 2018</span>
