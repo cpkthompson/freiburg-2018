@@ -136,6 +136,13 @@ Text:
 </tr>
 
 <tr>
+<td>Alexander Phlippen</td>
+<td>Studitemps GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
 <td>Alexander Zimmer</td>
 <td>nova GmbH</td>
 <td></td>
@@ -222,6 +229,13 @@ Text:
 <tr>
 <td>Arne Maier</td>
 <td>inovex GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Aron Webering</td>
+<td>avenit AG</td>
 <td></td>
 <td></td>
 </tr>
@@ -531,6 +545,20 @@ Text:
 </tr>
 
 <tr>
+<td>Fabian Schöner</td>
+<td>avenit AG</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Felipe Wieman</td>
+<td>Interhyp AG</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
 <td>Felix Klippe</td>
 <td>GWD Gensert Werbung und Design GmbH</td>
 <td></td>
@@ -598,6 +626,13 @@ Text:
 <tr>
 <td>Henry Bäumle</td>
 <td>HDNET GmbH & Co. KG</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Hermann Ibragimow</td>
+<td>Studitemps GmbH</td>
 <td></td>
 <td></td>
 </tr>
@@ -799,6 +834,13 @@ Text:
 </tr>
 
 <tr>
+<td>Ksenia Gorjatseva</td>
+<td>Codeborne OÜ</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
 <td>kultwerk GmbH</td>
 <td>kultwerk GmbH</td>
 <td></td>
@@ -960,6 +1002,20 @@ Text:
 </tr>
 
 <tr>
+<td>Marco Kühbauch</td>
+<td>jameda</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Mareike Haug</td>
+<td>Interhyp AG</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
 <td>Mariana Wolfschoon</td>
 <td>elementare teilchen GmbH</td>
 <td></td>
@@ -969,6 +1025,13 @@ Text:
 <tr>
 <td>Marianne Hellebø Aarø</td>
 <td>LEGO Systems A/S</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Mario Obendorfer</td>
+<td>Interhyp AG</td>
 <td></td>
 <td></td>
 </tr>
@@ -985,13 +1048,6 @@ Text:
 <td>Smashing Media AG </td>
 <td>@mariondita</td>
 <td>Germany</td>
-</tr>
-
-<tr>
-<td>Maris Torga</td>
-<td>Codeborne OÜ</td>
-<td></td>
-<td></td>
 </tr>
 
 <tr>
@@ -1067,6 +1123,13 @@ Text:
 <tr>
 <td>Michael Jacobi</td>
 <td>Habermaass GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Michael Krah</td>
+<td>Interhyp AG</td>
 <td></td>
 <td></td>
 </tr>
@@ -1248,6 +1311,13 @@ Text:
 <tr>
 <td>Philipp Gilbert</td>
 <td>oxaion gmbh</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Polona Jenčič</td>
+<td>Creatim Rzisnik Perc d.o.o.</td>
 <td></td>
 <td></td>
 </tr>
@@ -1508,6 +1578,13 @@ Text:
 <tr>
 <td>Sven Lindauer</td>
 <td>inovex GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Sven Nußbaum</td>
+<td>avenit AG</td>
 <td></td>
 <td></td>
 </tr>
