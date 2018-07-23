@@ -4,30 +4,25 @@ Intro:
 <div class="vs">
   <div class="v">
     <p>
-      We are hosting 8 lightning talks on the Smashing stage, on Day Two of the Smashing Conference, just after lunch. And we are looking for speakers! <br><br>
-      Have you build something cool recently? Or learned a new technique? Whether you are you an experienced speaker or not at all, we would love to hear from you!
+      We are hosting 8 lightning talks on the Smashing stage, on Day One of the Smashing Conference, just after lunch. And we are looking for speakers! <br><br>
+      Have you built something cool recently? Or learned a new technique? Whether you are you an experienced speaker or not at all, we would love to hear from you!
     </p>
   </div>
-  <div class="v">
+  <div class="v l">
     <img src="https://smashingconf.com/content/09-lightningsessions/monica-freiburg2016.jpg" alt="Monica Dinculescu at the Smashing Conference 2016">
   </div>
 </div>
 
 ----
 Text:
-We are looking for talks on Design, Content, Frontend, JavaScript and anything else that will help others to better websites. You get 4 minutes on stage to share your story or challenge. Your crowd consist of 260 friendly people who design, develop or otherwise work with the web. What are you waiting for?
+We are looking for talks on Design, Content, Frontend, JavaScript and anything else that will help others to make better websites. You get 4 minutes on stage to share your story or challenge. Your crowd consist of 260 friendly people who design, develop or otherwise work with the web. What are you waiting for?
 
-Please submit your Lightning Talk before August 15. We will pick eight talks and will inform you on August 27.
-If you have any questions or if you need some guidance, don't hesitate to let us know.
+Please submit your lightning talk before August 15. We will pick eight talks and will inform you on August 27.
+If you have any questions or if you need some guidance, don't hesitate to let us know too. We love to help!
 
-Link to the form with the following fields:
-<em>Name
-E-mail
-Username on Twitter
-Talk title
-Talk summary
-Comments or questions</em>
+<p class="ttt"><a href="https://goo.gl/forms/QgXo2mCHu0LOeMY52">Submit your talk →</a></p>
 
+<hr>
 <h3>Guidelines</h3>
 <ul>
   <li>Only attendees of the Smashing Conference Freiburg are allowed to submit a talk proposal.</li>
