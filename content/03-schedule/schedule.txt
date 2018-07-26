@@ -21,37 +21,37 @@ Monday:
       text: Welcome and Intro
 
     - time: 9:55
-      talk: Craig Mod
+      talk: craig-mod
 
     - time: 10:40
       text: Morning Break
 
     - time: 11:00
-      talk: Tammy Everts
+      talk: tammy-everts
 
     - time: 11:50
       text: Coffee Break
 
     - time: 12:10
-      talk: Ian Feather
+      talk: ian-feather
 
     - time: 13:00
       text: Lunch break
 
     - time: 14:30
-      talk: Lightning Sessions
+      talk: lightning-sessions
 
     - time: 15:20
       text: Afternoon break
 
     - time: 15:40
-      talk: Chui Chui Tan
+      talk: chuichui-tan
 
     - time: 16:30
       text: Afternoon break
 
     - time: 16:50
-      talk: Morten Rand-Hendrik
+      talk: morten-rand-hendriksen
 
     - time: 17:40
       text: Closing Remarks
@@ -60,7 +60,7 @@ Monday:
       text: Party at the Kaufhaus + Evening Session
 
     - time: 21:00
-      talk: Seb Lee-Delisle
+      talk: seb-lee-delisle
 
 Tuesday:
   Headline: Tuesday, 12th
@@ -73,31 +73,31 @@ Tuesday:
       text: Welcome
 
     - time: 9:40
-      talk: Mystery Speaker
+      talk: the-mystery-speaker
 
     - time: 11:00
       text: Morning Break
 
     - time: 11:20
-      talk: Hannah Pileggi
+      talk: hannah-pileggi
 
     - time: 12:10
       text: Lunch Break
 
     - time: 13:40
-      talk: Yoav Weiss
+      talk: yoav-weiss
 
     - time: 14:30
       text: Afternoon Break
 
     - time: 14:50
-      talk: Andrea Drugay
+      talk: andrea-drugay
 
     - time: 15:40
       text: Afternoon Break
 
     - time: 15:55
-      talk: Josh Clarke
+      talk: josh-clark
 
     - time: 16:45
       text: Closing Remarks

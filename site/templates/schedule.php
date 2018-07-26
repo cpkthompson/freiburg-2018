@@ -8,12 +8,11 @@ $schedule = $schedule[str::ucfirst(str::lower($day))];
 ?>
 
 <section class="c schedule">
-<!-- comment start when schedule is live -->
-<h1><?php echo html($page->title()) ?></h1><p>We’ll announce the schedule throughout the next few weeks — please stay tuned!</p> <!-- comment end when schedule is live -->
+<!-- comment start when schedule is live
+<h1><?php echo html($page->title()) ?></h1><p>We’ll announce the schedule throughout the next few weeks — please stay tuned!</p> comment end when schedule is live -->
 <hr>
 
-<!--
-  <h1><?php echo html($page->title()) ?></h1>
+<h1><?php echo html($page->title()) ?></h1>
   <?php if($page->intro() != ''): ?>
   <div class="io">
     <?php echo kirbytext($page->intro()) ?>
@@ -54,6 +53,5 @@ $schedule = $schedule[str::ucfirst(str::lower($day))];
     <?php endif ?>
     <?php endforeach ?>
   </table>
--->
 </section>
 <?php snippet('footer') ?>
