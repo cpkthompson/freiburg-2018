@@ -345,6 +345,13 @@ Text:
 </tr>
 
 <tr>
+<td>Christian Albert</td>
+<td>Studitemps GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
 <td>Christian Burkhart</td>
 <td>University of Freiburg / Department of Educational Science</td>
 <td></td>
@@ -487,6 +494,13 @@ Text:
 </tr>
 
 <tr>
+<td>Dominik Hornung</td>
+<td>Studitemps GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
 <td>Doris Janssen</td>
 <td>Norddeutscher Rundfunk</td>
 <td></td>
@@ -500,11 +514,16 @@ Text:
 
 </tr>
 
-
-
 <tr>
 <td>Elena Schmidt</td>
 <td>SICK AG </td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Elizabeth Dunphy</td>
+<td>Onedrop GmbH & Co KG</td>
 <td></td>
 <td></td>
 </tr>
@@ -592,7 +611,12 @@ Text:
 
 </tr>
 
-
+<tr>
+<td>Gerd Zschaler</td>
+<td>TNG Technology Consulting GmbH</td>
+<td></td>
+<td></td>
+</tr>
 
 <tr>
 <td>Gielen Gunter</td>
@@ -615,6 +639,12 @@ Text:
 
 </tr>
 
+<tr>
+<td>Hans Höchtl</td>
+<td>Onedrop GmbH & Co KG</td>
+<td></td>
+<td></td>
+</tr>
 
 <tr>
 <td>Hendrik Mondelaers</td>
@@ -1149,6 +1179,13 @@ Text:
 </tr>
 
 <tr>
+<td>Michiel Slot</td>
+<td>Title Media GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
 <td>Mirjam Bornschein</td>
 <td>punkt.de GmbH</td>
 <td></td>
@@ -1406,6 +1443,13 @@ Text:
 <tr>
 <td>Robert Mikuljan</td>
 <td>Netzbewegung GmbH</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Robert Zierhofer</td>
+<td>Onedrop GmbH & Co KG</td>
 <td></td>
 <td></td>
 </tr>
@@ -1685,6 +1729,13 @@ Text:
 <tr>
 <td>Till Schweneker</td>
 <td>melting elements</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Tobias Baier</td>
+<td>Onedrop GmbH & Co KG</td>
 <td></td>
 <td></td>
 </tr>
