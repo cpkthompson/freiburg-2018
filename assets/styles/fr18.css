@@ -477,6 +477,22 @@ h4 {
 .ss li:focus .si.Chui {
   background-image: url(../images/speakers/chuichui-hov.png);
 }
+.si.Ian {
+  background-image: url(../images/speakers/ian.png);
+}
+.ss li:hover .si.Ian,
+.ss li:active .si.Ian,
+.ss li:focus .si.Ian {
+  background-image: url(../images/speakers/ian-hov.png);
+}
+.si.Yoav {
+  background-image: url(../images/speakers/yoav.png);
+}
+.ss li:hover .si.Yoav,
+.ss li:active .si.Yoav,
+.ss li:focus .si.Yoav {
+  background-image: url(../images/speakers/yoav-hov.png);
+}
 .si.Craig {
   background-image: url(../images/speakers/craig.png);
 }
@@ -533,13 +549,28 @@ h4 {
 .ss li:focus .si.Mystery {
   background-image: url(../images/speakers/msh.png);
 }
+.si.Lightning {
+  background-image: url(../images/speakers/lightning.png);
+}
+.ss li:hover .si.Lightning,
+.ss li:active .si.Lightning,
+.ss li:focus .si.Lightning {
+  background-image: url(../images/speakers/lightning-hov.png);
+}
 .ss::after {
-  background: url(../images/speakers/aarron-hov.png),
-    url(../images/speakers/hannah-hov.png), url(../images/speakers/josh-hov.png),
-    url(../images/speakers/seb-hov.png), url(../images/speakers/morten-hov.png),
+  background: 
+    url(../images/speakers/hannah-hov.png), 
+    url(../images/speakers/josh-hov.png),
+    url(../images/speakers/seb-hov.png), 
+    url(../images/speakers/morten-hov.png),
     url(../images/speakers/craig-hov.png),
     url(../images/speakers/chuichui-hov.png),
-    url(../images/speakers/andrea-hov.png), url(../images/speakers/msh.png);
+    url(../images/speakers/andrea-hov.png), 
+    url(../images/speakers/tammy-hov.png),
+    url(../images/speakers/msh-hov.png),
+    url(../images/speakers/lightning-hov.png),
+    url(../images/speakers/ian-hov.png),
+    url(../images/speakers/yoav-hov.png);
   visibility: hidden;
   height: 0;
   content: " ";

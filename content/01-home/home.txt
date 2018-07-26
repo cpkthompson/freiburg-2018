@@ -8,7 +8,10 @@ Intro:
 
 SmashingConf Freiburg is a one track, two-days event, taking place in the Historic Merchants’ Hall, in the lovely old town of Freiburg, Germany. Need to convince your boss? Check the [Convince Your Boss PDF](http://smashingconf.com/pdf/convince-your-boss-freiburg.pdf) (349&nbsp;kb).
 
+On day one of the Smashing Conference, we are hosting 8 lightning talks on the Smashing stage. <br>And we are <a href="/lightningsessions">looking for speakers</a>! 
+
 <p class="hsh"><strong><a href="https://twitter.com/smashingconf">@smashingconf</a></strong></p>
+
 
 <p class="ttt">(link: registration text: Tickets are now available →)</p>
 

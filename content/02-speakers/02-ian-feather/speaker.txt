@@ -1,0 +1,29 @@
+Title: Ian Feather
+
+----
+
+Bio:
+
+Ian leads the front end infrastructure team at BuzzFeed working on performance, testing, automation and resilience. He is particularly fond of working on problems relating to scale: both of sites and of teams.
+
+His background is in Front End Web Development and it’s only in recent years that he has stepped away from feature development to focus on Front End Infrastructure. He is a big fan of continuous delivery and creating a safe environment to push code quickly and easily. Prior to BuzzFeed he worked for Schibsted Media, Lonely Planet and Burberry.
+
+----
+
+Talk: Building Resilient Frontend Systems
+
+----
+
+Description:
+
+It’s time to accept that system and network failures are inevitable and to start designing our systems to withstand them. Accomplishing this isn’t easy but we’ve learnt a few tricks along the way which we would love to share!
+
+I’ll explain the principles behind our approach as well as detailing some of the solutions we have put in place: covering areas of automation, instrumentation and continuous testing in production. Come and learn 19 ways BuzzFeed designs their frontend to be resilient to failure!
+
+----
+
+Link: https://www.ianfeather.co.uk/
+
+----
+
+Twitter: @ianfeather
