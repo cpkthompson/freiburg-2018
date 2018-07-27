@@ -1,27 +1,32 @@
-Title: Hannah Pileggi
+Title: Yoav Weiss
 
 ----
 
 Bio:
 
-Hannah Pileggi is the experience research lead at Airbnb.
+Yoav Weiss is a principal architect at Akamai, where he focuses on making the web platform faster by adding performance-related features to browsers as well as to Akamai’s CDN. Yoav has been working on mobile web performance for longer than he cares to admit.
+
+He takes image bloat on the web as a personal insult, which is why he joined the Responsive Image community group and implemented the various responsive images features in Blink and WebKit.
+
+When he’s not writing code, he’s probably slapping his bass, mowing the lawn in the French countryside, or playing board games with his family.
 
 ----
 
-Talk: The Future of Travel: How mixed method research helped shape Airbnb Experiences
+Talk: Taking back control over third-party content
 
 ----
 
 Description:
 
-Hannah will show us a case study of how she utilised user research to improve business and design decisions on a brand new product – Airbnb Trips.
+We have a complex love-hate relationship with the third-party content on our sites, and it has taken a turn for the worse. On the one hand, third-party content often pays the bills. On the other hand, recent developments have increased its “cost.” HTTP/2 means third-party content is even more of a performance burden than before; the weight of that content is taking up an ever larger percentage of our site’s overall bytesize; ad-blockers mean users have had enough; and projects like Google AMP and Facebook Instant Articles mean that embedders feel the same.
+Our lack of control over what third parties are doing on our sites is showing. How can we gain it back?
 
-For the past 10 years, Airbnb has changed the way people think about where they’ll stay for their next vacation. But accommodations were never the full vision. When Airbnb decided to expand to offering Experiences, Hannah Pileggi adapted many of the basic methods in the UX research toolkit in order to creatively capture community insight that would help ground more than a year's worth of rapid product development. This talk will highlight examples of applied research—both scrappy and traditional—behind the scenes of Airbnb Experiences.
-
-----
-
-Link: http://www.hannahpileggi.com/
+Yoav Weiss explores mitigation tactics as well as a long-term plan to restore sanity to the ecosystem, arguing that we need mechanisms that put developers back in the driver’s seat as well as smarter ad blockers so that responsible third parties can remain a source of income.
 
 ----
 
-Twitter: @achpea
+Link: https://blog.yoav.ws/
+
+----
+
+Twitter: @yoavweiss
