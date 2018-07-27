@@ -72,7 +72,7 @@ Tuesday:
     - time: 10:00
       text: Welcome
 
-    - time: 9:40
+    - time: 10:10
       talk: the-mystery-speaker
 
     - time: 11:00
@@ -82,22 +82,28 @@ Tuesday:
       talk: hannah-pileggi
 
     - time: 12:10
-      text: Lunch Break
+      text: Coffee break
 
-    - time: 13:40
-      talk: yoav-weiss
+    - time: 12:30
+      talk: trine-falbe
 
-    - time: 14:30
-      text: Afternoon Break
+    - time: 13:20
+      text: Lunch break
 
     - time: 14:50
-      talk: andrea-drugay
+      talk: yoav-weiss
 
-    - time: 15:40
+    - time: 14:50
       text: Afternoon Break
 
-    - time: 15:55
+    - time: 16:00
+      talk: andrea-drugay
+
+    - time: 16:50
+      text: Afternoon Break
+
+    - time: 17:10
       talk: josh-clark
 
-    - time: 16:45
+    - time: 18:00
       text: Closing Remarks
