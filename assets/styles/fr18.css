@@ -517,6 +517,14 @@ h4 {
 .ss li:focus .si.Josh {
   background-image: url(../images/speakers/josh-hov.png);
 }
+.si.Trine {
+  background-image: url(../images/speakers/trine.png);
+}
+.ss li:hover .si.Trine,
+.ss li:active .si.Trine,
+.ss li:focus .si.Trine {
+  background-image: url(../images/speakers/trine-hov.png);
+}
 .si.Morten {
   background-image: url(../images/speakers/morten.png);
 }
@@ -570,7 +578,8 @@ h4 {
     url(../images/speakers/msh-hov.png),
     url(../images/speakers/lightning-hov.png),
     url(../images/speakers/ian-hov.png),
-    url(../images/speakers/yoav-hov.png);
+    url(../images/speakers/yoav-hov.png),
+    url(../images/speakers/trine-hov.png);
   visibility: hidden;
   height: 0;
   content: " ";
