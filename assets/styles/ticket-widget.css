@@ -185,16 +185,24 @@ li:nth-child(even) {
 .tito-ticket.waitlist {
   background-color: #f5f5f5;
 }
-.sold-out {
+.tito-ticket-name .label.sold-out {
   color: #e95c33;
   font-family: "Proxima Nova Bold","Helvetica Neue",Arial,Helvetica,sans-serif;
   font-style: normal;
   font-weight: 700;
+<<<<<<< Updated upstream
   left: calc(300px + 5vw);
 
   @media all and (max-width: 1000px) {
         left: 1px;
     }
+=======
+  left: 0;
+  margin-top: 56px;
+  width: 100px;
+  margin-left: calc(100vw - 165px);
+  position: absolute!important;
+>>>>>>> Stashed changes
 }
 
 /*
