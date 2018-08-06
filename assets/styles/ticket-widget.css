@@ -5,8 +5,6 @@
 }
 
 ul.tito-ticket-list {
-  width: 100%;
-  display: table;
   list-style-type: none;
   margin: 0;
 }
@@ -27,44 +25,35 @@ li:nth-child(even) {
 
 .tito-ticket-name-wrapper {
   padding: .75em 1.25em 0;
+  flex: 0 1 70%;
 }
 
 .tito-ticket-price-quantity-wrapper,
 .tito-ticket-status,
 .tito-ticket-status-sold-out {
   padding: .5em 1.25em .75em;
+  flex: 1 0 auto;
+  justify-content: flex-end;
   text-align: right;
 }
 
 @media screen and (min-width:26.25em) {
   .tito-ticket {
-    display: table-row;
+    display: flex;
+    justify-content: space-between;
   }
 
   .tito-ticket-name-wrapper {
-    width: 70%;
     padding: 1em 1.5em;
-    display: table-cell;
-    vertical-align: middle;
   }
 
   .tito-ticket-price-quantity-wrapper,
   .tito-ticket-status,
   .tito-ticket-status-sold-out {
-    position: relative;
-    display: table-cell;
-    vertical-align: middle;
+    align-items: center;
+    display: flex;
     padding-right: 1.5em;
   }
-}
-
-/* .tito-wrapper li:nth-child(even) {
-  background: #f5f5f5;
-} */
-
-.tito-ticket-name,
-.tito-ticket-name .label.label-default {
-  position: relative;
 }
 
 .tito-ticket-price,
@@ -184,47 +173,26 @@ li:nth-child(even) {
 
 .tito-ticket.waitlist {
   background-color: #f5f5f5;
+  position: relative;
 }
-.tito-ticket-name .label.sold-out {
+.sold-out {
   color: #e95c33;
   font-family: "Proxima Nova Bold","Helvetica Neue",Arial,Helvetica,sans-serif;
   font-style: normal;
   font-weight: 700;
-<<<<<<< Updated upstream
-  left: calc(300px + 5vw);
-
-  @media all and (max-width: 1000px) {
-        left: 1px;
-    }
-=======
-  left: 0;
-  margin-top: 56px;
-  width: 100px;
-  margin-left: calc(100vw - 165px);
-  position: absolute!important;
->>>>>>> Stashed changes
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: .5em 1.25em .75em;
 }
 
-/*
-#tito-tito-smashingmagazine-smashingconf-sf-1-releases {
-  border-bottom: 3px solid #cbcbcb;
-}
-
-#tito-ticket-sy5teswbice {
-  background: #d9f0f9;
-}
-
-#tito-ticket-v4mrultrgpi,
-#tito-ticket-wjkeyxg2iaa,
-#tito-ticket-2ousspwgw34,
-#tito-ticket-ydcszaqjkle {
-  background: #fefefe;
-}
-
-#tito-ticket-6kluc5bin3g,
-#tito-ticket-0vlip6tqx4i,
-#tito-ticket-obiwclklku8,
-#tito-ticket-ukonpk4e5t8 {
-  background: #f1f1f2;
-  border-top: 3px solid #cbcbcb;
+@media screen and (min-width:26.25em) { 
+  .sold-out {
+    width: 133px;
+    display: flex;
+    height: 100%;
+    padding: 0 1.25em 0;
+    align-items: center;
+    justify-content: flex-end;
+  }
 }

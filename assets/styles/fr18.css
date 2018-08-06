@@ -968,6 +968,7 @@ h4 {
     border-top-right-radius: 0;
     border-bottom-right-radius: 0;
   }
+  
   .nl .mc-field-group {
     display: flex;
   }
@@ -978,6 +979,7 @@ h4 {
     display: flex;
     justify-content: center;
   }
+
   .sct, .nlw {
     padding: 0 .5em;
   }
