@@ -2,7 +2,7 @@
  *  service-worker.js
  *
  *  Author  | Marco Hengstenberg
- *  Version | 0.0.9 (Freiburg 2018 Site – Live & Root)
+ *  Version | 0.0.92 (Freiburg 2018 Site – Live & Root)
  *
  *  Purpose | The Service Worker makes smashingconf.com available offline. I've been following the tutorial at http://www.html5rocks.com/en/tutorials/service-worker/introduction/ by Matt Gaunt
  *  License | There is no license, no copyright, no warranty, no guarantee and no support for the code provided. Handle with care though!

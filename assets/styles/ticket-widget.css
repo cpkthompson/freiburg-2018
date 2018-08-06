@@ -190,6 +190,11 @@ li:nth-child(even) {
   font-family: "Proxima Nova Bold","Helvetica Neue",Arial,Helvetica,sans-serif;
   font-style: normal;
   font-weight: 700;
+  left: calc(300px + 5vw);
+
+  @media all and (max-width: 1000px) {
+        left: 1px;
+    }
 }
 
 /*
