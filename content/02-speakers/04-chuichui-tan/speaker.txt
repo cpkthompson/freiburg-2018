@@ -18,7 +18,7 @@ Whether or not the product you’re creating is currently only being sold in one
 
 Many businesses are convinced that designing for other markets means copying their successful business model in the home country. They believe that localisation is about translation. They design their products without properly understand what changes are needed and why they are needed. Even big companies do not always get it right.
 
-In this talk, Chui Chui will discuss how these inaccurate perceptions can lead to make flawed business and decision decisions, and explore why and how to understand and design for users in different markets.
+In this talk, Chui Chui will discuss how these inaccurate perceptions can lead to flawed businesses and decisions, and explore why and how to understand and design for users in different markets.
 
 ----
 
