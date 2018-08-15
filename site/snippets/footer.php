@@ -11,7 +11,7 @@
         <li><a href="<?php echo url('about') ?>">About</a></li>
         <li><a href="<?php echo url('about#prevconf') ?>">Archive</a></li>
         <li><a href="<?php echo url('contact') ?>">Contact us</a></li>
-        <li><a href="<?php echo url('accessibilty') ?>">Accessibilty Statement</a></li>
+        <li><a href="<?php echo url('accessibility') ?>">Accessibility Statement</a></li>
         <li><a href="<?php echo url('terms') ?>">Terms</a></li>
         <li><a href="<?php echo url('imprint') ?>">Impressum</a></li>
         <li class="k"><a href="//getkirby.com">Made with Kirby and &hearts;</a></li>
