@@ -20,7 +20,7 @@ Monday:
     - time: 9:30
       text: Welcome and Intro
 
-    - time: 9:55
+    - time: 9:50
       talk: craig-mod
 
     - time: 10:40
