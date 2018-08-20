@@ -93,7 +93,7 @@ Tuesday:
     - time: 14:50
       talk: yoav-weiss
 
-    - time: 14:50
+    - time: 15:40
       text: Afternoon Break
 
     - time: 16:00
