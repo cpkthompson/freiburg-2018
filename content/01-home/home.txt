@@ -8,8 +8,6 @@ Intro:
 
 <p>We pour our heart into creating friendly,   inclusive events that are focused on real-world problems and solutions. Our focus is on <strong>front-end and UX</strong> but we cover everything web, be it UI design or machine learning. The Freiburg edition is of course no exception.</p>
 
-<p>We invite attendees to fill one of the <strong>8 lightning talks</strong> presented on the Smashing stage on day 1. Share a technique you discovered or a tool you found, or a lesson you learned, or anything in-between: <a href="/lightningsessions">reserve a lightning talk spot!</a></p> 
-
 <p class="hsh"><strong><a href="https://twitter.com/smashingconf">@smashingconf</a></strong></p>
 
 <p class="ttt">(link: registration text: Get the last few tickets →)</p>

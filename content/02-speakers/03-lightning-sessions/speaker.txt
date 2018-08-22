@@ -8,7 +8,7 @@ Bio:
 
 ----
 
-Talk: Your name could be here ;-)
+Talk: Eight Talks, Lightning Fast!
 
 ----
 
@@ -16,7 +16,7 @@ Description:
 
 Always wanted to shine on the Smashing stage? Now you can! We are hosting 8 lightning talks and we are looking for speakers! We are looking for talks on Design, Content, Frontend, JavaScript and anything else that will help others to make better websites. You get 4 minutes on stage to share your story or challenge. 
 
-[Please submit your lightning talk](/lightningsessions) before August 22.
+Registration is closed. We will be anouncing the speakers soon.
 
 
 ----

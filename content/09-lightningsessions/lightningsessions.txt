@@ -20,7 +20,7 @@ We are looking for talks on Design, Content, Frontend, JavaScript and anything e
 Please submit your lightning talk before August 22. We will pick eight talks and will inform you on August 27.
 If you have any questions or if you need some guidance, don't hesitate to let us know too. We love to help!
 
-<p class="ttt"><a href="https://smashingmagazine.typeform.com/to/Ny856T">Submit your talk →</a></p>
+<em>The registration is closed.</em>
 
 <hr>
 <h3>Guidelines</h3>
