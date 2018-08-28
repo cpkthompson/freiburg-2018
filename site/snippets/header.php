@@ -46,7 +46,7 @@
   <link rel="preload" href="/assets/styles/ticket-widget.css" as="style" onload="this.rel='stylesheet'" />
   <link rel="manifest" href="<?php echo url('manifest.json') ?>" />
 </head>
-<body class="ny">
+<body class="freiburg">
 <a href="#main-content" class="skip-main">Skip to main content</a>
 <div class="pg">
 
