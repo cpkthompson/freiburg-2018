@@ -7,8 +7,8 @@ c::set('license', 'smashingconf');
 
 
 /* Local Development */
-#c::set('url', 'http://fr17.kirby');
-#c::set('subfolder', 'fr-2018');
+c::set('url', 'http://localhost:8888');
+c::set('subfolder', 'false');
 
 /* Server Development */
 #c::set('url', 'https://smashingconf.com/dev');
@@ -68,7 +68,7 @@ c::set('url', 'https://yourdomain.com');
 
 */
 
-c::set('ssl', true);
+c::set('ssl', false);
 
 
 /*

@@ -39,6 +39,7 @@
         </div>
       </div>
     </li>
+    <hr />
     <?php endforeach ?>
   </ul>
 </section>

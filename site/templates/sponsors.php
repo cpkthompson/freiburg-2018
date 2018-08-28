@@ -28,13 +28,14 @@
             <div class="mt">
               <dl>
                 <dt>On the web<dt>
-                <dd><?php echo str::link($sponsor->link()) ?></dd>
+                <dd><a href="<?php echo $sponsor->link() ?>"><?php echo $sponsor->link() ?></a></dd>
                 <dt>On Twitter<dt>
                 <dd><?php echo twitter($sponsor->twitter()) ?></dd>
               </dl>
             </div>
           </div>
         </li>
+        <hr />
         <?php endforeach ?>
       </ul>
     </li>
