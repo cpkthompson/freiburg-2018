@@ -11,7 +11,7 @@ Below you'll find the schedule for our 7th SmashingConf Freiburg. We’ll keep t
 Schedule:
 
 Monday:
-  Headline: Monday, 10th
+  Headline: Monday, 11th
   Track:
 
     - time: 08:30
