@@ -3,23 +3,25 @@ Title: Home
 ----
 
 Intro:
+<p><strong>Update (Wednesday, September 12th)</strong>: The conference is over but the memories remain! This has been an amazing few days and we are humbled, honored, and grateful to have you at our conference. We sincerely thank you for coming, and we hope you were able to learn something new, meet some old and new friends, and that you’ve had a good time after all. Thank you.</p>
 
-<p><em>Home, sweet home!</em> The 7th <strong>SmashingConf Freiburg</strong> — in our lovely hometown in Germany — will be taking place in the <a href="https://smashingconf.com/locations">Historic Merchants’ Hall</a> on <strong>September 10-11</strong>. With one track, two days, 14 speakers and 260 attendees, expect  actionable insights for your work — right at the footsteps of the magical Black Forest. <a href="http://smashingconf.com/pdf/convince-your-boss-freiburg.pdf">Convince Your Boss PDF</a> (349&nbsp;kb).</p> 
+<p>We will be publishing the slides and videos as soon as we have them all in. Want to stay updated? <a href="https://www.twitter.com/smashingconf">Follow on Twitter</a>.</p>
 
-<p>We pour our heart into creating friendly,   inclusive events that are focused on real-world problems and solutions. Our focus is on <strong>front-end and UX</strong> but we cover everything web, be it UI design or machine learning. The Freiburg edition is of course no exception.</p>
+We will be back in 2019 on September 9–10. 
+<strong><a href="https://smashingconf.com/freiburg-2019/registration">50 Super Early Bird tickets are now available  ↬</a></strong>
+<hr>
 
-<p class="hsh"><strong><a href="https://twitter.com/smashingconf">@smashingconf</a></strong></p>
+<h3>Your feedback for speakers</h3>
+We value your feedback on our speakers for <a href="https://www.smashed.by/feedback1">day 1</a> and <a href="https://www.smashed.by/feedback2">day 2</a>.</p>
 
-<p class="ttt">(link: registration text: Get the last few tickets →)</p>
+<h3>And other helpful Resources</h3>
+<ul>
+<li><a href="http://smashed.by/day02">Collaborative Google Doc: Day 2</a></li>
+<li><a href="http://smashed.by/day01">Collaborative Google Doc: Day 1</a></li>
+<li><a href="https://paper.dropbox.com/doc/SmashingConf-Freiburg-2018-Attendee-Handbook-TcVDH4oXylK0pimuld0WR">Attendee Pack PDF</a></li>
+<li><a href="https://smashingconf.com/attendees/">Attendee List</a></li>
+<li><a href="https://smashingconf.herokuapp.com/">SmashingConf Slack Channel</a></li>
+<li><a href="https://twitter.com/hashtag/smashingconf?f=tweets&vertical=default&src=hash">#smashingconf on Twitter</a></li>
+</ul>
 
-----
-
-Updates:
-
-## Interested in sponsoring?
-
-<div class="cls" markdown="1">
-We pour our heart and soul into creating a friendly, memorable and inspiring community event for everybody involved. We keep the ticket prices as affordable as possible, and we’d be happy to <strong>welcome dear sponsors</strong> to make the event <em>smashing</em> in every possible way. Please (email: hello[@]smashingconf.com text: contact Mariona) and let’s make it happen!
-
-You can get all the latest updates about the event on this website, but why not let the news come to you? Feel free to (link: https://www.smashingmagazine.com/the-smashing-conference-list-join-in/ text: subscribe to our mailing list), (twitter: smashingconf text: follow us on Twitter) or search for the hashtag (link: https://twitter.com/smashingconf text: @smashingconf) to stay updated. We won’t spam you, and we’ll make sure our tweets are worth your time.
-</div>
+<p><strong>Finally</strong>, please respect our <a href="http://smashingconf.com/codeofconduct">Code of Conduct</a>.</p>

@@ -1,0 +1,27 @@
+<p><strong>Update (Tuesday, September 12th)</strong>: It has been an amazing conference but the fun doesn’t have to end! Time for a beverage and networking with a view! Meet us at <a href="https://www.google.de/maps/place/Kastaniengarten+Biergarten/@47.992789,7.855567,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipP_ijkZOOMZCixCpP4SbFn0w69xxCA92U16_U1P!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP_ijkZOOMZCixCpP4SbFn0w69xxCA92U16_U1P%3Dw152-h86-k-no!7i4032!8i2268!4m8!1m2!2m1!1sbiergarten+greifenegg!3m4!1s0x0:0xb879f13ea1bb3fba!8m2!3d47.9926789!4d7.8554982?hl=en">Kastaniengarten Biergarten</a>!</p>
+
+<h2 style="font-size: 1.5em;">The Schedule At A Glance</h2>
+
+<h3>Tuesday, September 12th</h3>
+SmashingConf SmashingConf Ghost Tour & Photo Walk: we’ll meet in front of Historical Merchants’ Hall right after the conference ends (at around 6:00PM)
+
+<hr />
+
+<h3>Wednesday, September 12th</h3>
+We kick of the workshops at 9 AM. Doors open at 8:30 AM. Get some coffee on arrival. Lunch is included. We finish the day at 5 PM with some networking. We still have a few seats available for [Josh Clark's workshop](https://smashingconf.com/workshops/josh-clark). 
+
+<hr />
+
+<h3>Transportation from Basel Airport to Freiburg</h3>
+<p>You can take the <a href="https://shop.flixbus.com/search?route=Basel+EuroAirport-Freiburg+%28i.Br.%29&rideDate=09.09.2018&adults=1&children=0&bikes=0&_locale=en&departureCity=8148&departureStation=&arrivalCity=92&arrivalStation=&currency=EUR">Airport Bus</a> from Basel Airport to Freiburg and back, for €20 for one trip. The bus departs once in an hour (check the <a href="https://shop.flixbus.com/search?route=Basel+EuroAirport-Freiburg+%28i.Br.%29&rideDate=09.09.2018&adults=1&children=0&bikes=0&_locale=en&departureCity=8148&departureStation=&arrivalCity=92&arrivalStation=&currency=EUR">time table</a>). The bus driver won’t accept credit cards, so please make sure to have <strong>€20 in cash </strong> with you or <a href="https://shop.flixbus.com/search?route=Basel+EuroAirport-Freiburg+%28i.Br.%29&rideDate=09.09.2018&adults=1&children=0&bikes=0&_locale=en&departureCity=8148&departureStation=&arrivalCity=92&arrivalStation=&currency=EUR">book your ticket</a> ahead of your trip.</p> 
+<p>A <strong>taxi</strong> will be quite pricey (€107) and needs to be <strong>pre-booked</strong> via phone (+49-761-555555) &mdash; make sure to have your Credit Card ready. Might be a good option if you’re traveling with friends or colleagues.</p>
+
+<h3>Helpful Resources</h3>
+<ul>
+<li><a href="https://paper.dropbox.com/doc/SmashingConf-Freiburg-2018-Attendee-Handbook--AMYLPnjuSfuBdz6yBdFOXljOAg-TcVDH4oXylK0pimuld0WR">Attendee Pack PDF</a></li>
+<li><a href="https://smashingconf.com/attendees/">Attendee List</a></li>
+<li><a href="https://smashingconf.herokuapp.com/">SmashingConf Slack Channel</a></li>
+<li><a href="https://twitter.com/hashtag/smashingconf?f=tweets&vertical=default&src=hash">#smashingconf on Twitter</a></li>
+</ul>
+
+<p><strong>Finally</strong>, please mind our <a href="http://smashingconf.com/codeofconduct">Code of Conduct</a>. We are looking forward to seeing you in Freiburg — it’s going to be smashing! ;-)</p>

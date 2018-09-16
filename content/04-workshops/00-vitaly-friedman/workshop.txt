@@ -42,14 +42,13 @@ Tiny details matter. To reduce abandonment, we need to pay close attention to di
 
 By the end of the day, we'll have a detailed strategy of practical, tangible next steps to improve the interface, ranging from quick wins to long-term strategic changes.
 
-_This workshop is limited to 40 seats_.
+_This workshop is limited to 20 seats_.
 
 ### Location
-**Grünhof Freiburg** (that’s**not** the Historisches Kaufhaus)
-Belfortstraße 52
-79098 Freiburg im Breisgau
+**Historisches Kaufhaus**
+Münsterplatz 24<br />79098 Freiburg im Breisgau, Germany
 Germany
-(link: https://www.google.de/maps/place/Gr%C3%BCnhof+Freiburg/@47.9940488,7.8399227,15z/data=!4m2!3m1!1s0x0:0x3e139e522dd39d38?sa=X&ved=0ahUKEwiVodue3OTSAhVFhiwKHcAnA_4Q_BIIlAEwDg text: Google Maps)
+(link: https://www.google.lt/maps/place/Historical+Merchants'+Hall/@47.994953,7.8527399,15z/data=!4m2!3m1!1s0x0:0x2a59897493f50c9e?sa=X&ved=2ahUKEwiQzOfKvobdAhVGiSwKHWMiBiYQ_BIwDnoECAgQCw text: Google Maps)
 
 ### Schedule for Wednesday, Sept 12th
 8:30 – Doors open, Registration
@@ -74,4 +73,4 @@ http://smashingmagazine.com
 
 ----
 
-Sold-out: no
+Sold-out: yes

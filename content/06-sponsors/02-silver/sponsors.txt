@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Title: Silver 
-=======
 Title: Silver Sponsor
->>>>>>> origin/master

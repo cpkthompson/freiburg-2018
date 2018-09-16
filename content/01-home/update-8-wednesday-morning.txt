@@ -1,0 +1,18 @@
+<p><strong>Update (Wednesday, September 12th)</strong>: It’s workshops time! Start at 9AM. Doors open at 8:30AM, at (link: locations text: Historical Merchants’ Hall). Coffee will be waiting for you on arrival!</p>
+
+
+<hr />
+
+<h3>Transportation from Basel Airport to Freiburg</h3>
+<p>You can take the <a href="https://shop.flixbus.com/search?route=Basel+EuroAirport-Freiburg+%28i.Br.%29&rideDate=09.09.2018&adults=1&children=0&bikes=0&_locale=en&departureCity=8148&departureStation=&arrivalCity=92&arrivalStation=&currency=EUR">Airport Bus</a> from Basel Airport to Freiburg and back, for €20 for one trip. The bus departs once in an hour (check the <a href="https://shop.flixbus.com/search?route=Basel+EuroAirport-Freiburg+%28i.Br.%29&rideDate=09.09.2018&adults=1&children=0&bikes=0&_locale=en&departureCity=8148&departureStation=&arrivalCity=92&arrivalStation=&currency=EUR">time table</a>). The bus driver won’t accept credit cards, so please make sure to have <strong>€20 in cash </strong> with you or <a href="https://shop.flixbus.com/search?route=Basel+EuroAirport-Freiburg+%28i.Br.%29&rideDate=09.09.2018&adults=1&children=0&bikes=0&_locale=en&departureCity=8148&departureStation=&arrivalCity=92&arrivalStation=&currency=EUR">book your ticket</a> ahead of your trip.</p> 
+<p>A <strong>taxi</strong> will be quite pricey (€107) and needs to be <strong>pre-booked</strong> via phone (+49-761-555555) &mdash; make sure to have your Credit Card ready. Might be a good option if you’re traveling with friends or colleagues.</p>
+
+<h3>Helpful Resources</h3>
+<ul>
+<li><a href="https://paper.dropbox.com/doc/SmashingConf-Freiburg-2018-Attendee-Handbook--AMYLPnjuSfuBdz6yBdFOXljOAg-TcVDH4oXylK0pimuld0WR">Attendee Pack PDF</a></li>
+<li><a href="https://smashingconf.com/attendees/">Attendee List</a></li>
+<li><a href="https://smashingconf.herokuapp.com/">SmashingConf Slack Channel</a></li>
+<li><a href="https://twitter.com/hashtag/smashingconf?f=tweets&vertical=default&src=hash">#smashingconf on Twitter</a></li>
+</ul>
+
+<p><strong>Finally</strong>, please mind our <a href="http://smashingconf.com/codeofconduct">Code of Conduct</a>. We are looking forward to seeing you in Freiburg — it’s going to be smashing! ;-)</p>

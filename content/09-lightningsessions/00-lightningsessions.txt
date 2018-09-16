@@ -1,0 +1,19 @@
+Title: Lightning sessions
+----
+Intro:
+<div class="vs">
+  <div class="v">
+    <p>
+      We are hosting 7 lightning talks on the Smashing stage, on Day One of the Smashing Conference, just after lunch. <br><br>
+      Only four minutes, one topic, lightning fast. Meet our <a href="/speakers/lightning-sessions">Lightning Session speakers</a> and give them a warm round of applause!
+
+    </p>
+  </div>
+  <div class="v l">
+    <img src="https://smashingconf.com/content/09-lightningsessions/monica-freiburg2016.jpg" alt="Monica Dinculescu at the Smashing Conference 2016">
+  </div>
+</div>
+
+
+----
+Text:

@@ -2,8 +2,7 @@ Title: Lightning Sessions
 
 ----
 
-Bio:
-
+Bio: Eight lightning talks, just after lunch. Only four minutes, one topic, lightning fast. Meet our Lightning Session speakers and give them a warm round of applause!
 
 
 ----
@@ -14,14 +13,65 @@ Talk: Eight Talks, Lightning Fast!
 
 Description:
 
-Always wanted to shine on the Smashing stage? Now you can! We are hosting 8 lightning talks and we are looking for speakers! We are looking for talks on Design, Content, Frontend, JavaScript and anything else that will help others to make better websites. You get 4 minutes on stage to share your story or challenge. 
+### A Sneak Peak of Alva
+####Tilman Frick - [@tilmx](https://www.twitter.com/tilmx)
 
-Registration is closed. We will be anouncing the speakers soon.
+
+Even with the latest tools, design artefacts are still a product of waste. Alva enables designers to work directly together with developers and coded elements to create prototypes that work like the final product. We'll give you a sneak peak of Alva in just 4 minutes.
+<hr>
+
+### Educational Technologies - Design and Usability Challenges
+####Tanja Adam
+
+A teacher's perspective: teachers are encouraged to use modern technologies for their teaching. What tools can I use in order to combine pedagogical needs and design at the same time? Open source learning management platforms such as Moodle are the industry standard. They have a huge potential. 
+
+Design matters if we want students to be engaged with educational technologies. What if I cannot code? Where can I find tools and plugins that help me re-design to meet my didactical claims? We need to face it, teaching and studying needs good and modern design and engaging colors to be successful!
+<hr>
+
+### Understand Data-streams with Marble-diagrams
+####Sjoerd Valk - [@sjoerdus](https://www.twitter.com/sjoerdus) 
+
+Websites and applications are becoming more and more based on datastreams and asynchronous behaviour. Frameworks and best practices are moving to a reactive way of handling these data-streams. Understanding data-streams can be hard, to test them can even harder. With marble-diagrams we can understand and test our data-streams and observables.
+<hr>
+
+### Internationalized Domain Name - Wonderful World of Inconsistency 
+####Szymon Nowicki - [@sz_nowicki](https://www.twitter.com/sz_nowicki) 
+
+IDN gains importance since web is more and more international. Whether you focus on Asian markets, or wish to have an emoji domain for your homepage, you will stumble upon many issues when using or supporting IDN. Some are expected, some not. This short talk would give you an overview on the subject and show some common problems with suggested solutions.
+<hr>
+
+### The 6-weeker – from idea to lead generating prototype
+####Frederick Hofmann - [@fredho02](https://www.twitter.com/fredho02) 
+
+How can you manage to find a product idea, code 70 screens, create 150 learning videos and inspire companies to want this product in just 6 weeks?
+
+We’ll give a glimpse of the methods & tools that helped us to build a prototype called DLX for Haufe. 
+<hr>
+
+### Canvas Your Life
+####Nicolas Gehlert - [@gehlertn](https://www.twitter.com/gehlertn) 
+
+In HTML5 the `<canvas>` Element was introduced and it can draw and manipulate graphics via JavaScript.
+For a lot of people it is just something libraries use under the hood but it is actually pretty easy to have some fun with it. 
+So in this talk I will give a couple of examples how to get started with canvas and how I rebuild one of my favorite childhood DOS games with it.
+<hr>
+
+### A little accessibility goes a long way
+####James Hall - [@horlix](https://www.twitter.com/horlix) 
+
+We are all building dynamic and engaging websites but we are ignoring 1 in 5 of the population that have a disability. We will show you why this is important and some of the biggest issues along with a range of quick fixes
+<hr>
+
+### Smooth transition from Atom to VS Code
+#### Samuell Snopko - [@SamuelSnopko](https://www.twitter.com/SamuelSnopko) 
+
+I like to change my editor once an year and just recently I switched from Atom to VS Code. The transition was smoother as I expected, so I want to share few tips & tricks to save your time.
+<hr>
 
 
 ----
 
-Link: https://smashingconf.com/lightningsessions
+Link: 
 
 ----
 
