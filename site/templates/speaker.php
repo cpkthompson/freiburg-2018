@@ -42,4 +42,5 @@ foreach($schedule as $key => $day) {
   </div>
   <?php snippet('speakers', array('headline' => 'All Speakers & Trainers')) ?>
 </section>
+<?php if($page->uid() != 'sponsors') snippet('sponsors') ?>
 <?php snippet('footer') ?>

@@ -32,7 +32,7 @@ $schedule = $schedule[str::ucfirst(str::lower($day))];
     <?php if(isset($slot['talk'])): ?>
     <?php $speaker = $pages->find('speakers/' . $slot['talk']) ?>
     <tr class="spk" id="<?php echo $speaker->uid() ?>">
-      <th><?php echo html($slot['time']) ?></th>
+      <th class="small-caps"><?php echo html($slot['time']) ?></th>
       <td>
         <div class="tnf">
           <h3><?php echo html($speaker->talk()) ?></h3>
@@ -46,11 +46,12 @@ $schedule = $schedule[str::ucfirst(str::lower($day))];
     </tr>
     <?php else: ?>
     <tr class="tx">
-      <th><?php echo html($slot['time']) ?></th>
+      <th class="small-caps"><?php echo html($slot['time']) ?></th>
       <td><?php echo html($slot['text']) ?></td>
     </tr>
     <?php endif ?>
     <?php endforeach ?>
   </table>
 </section>
+<?php if($page->uid() != 'sponsors') snippet('sponsors') ?>
 <?php snippet('footer') ?>

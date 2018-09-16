@@ -6,15 +6,11 @@
       </div>
       <div class="nlw">
         <h2>Smashing Conference Newsletter</h2>
-        <p>Want to stay updated? <br>Set a reminder for our next conferences!</p>
+        <label for="mce-EMAIL"><p>Want to stay updated?<br />Set a reminder for our next conferences!</p></label>
         <div id="mc_embed_signup_scroll">
           <div class="mc-field-group">
             <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Your email">
             <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-          </div>
-          <div id="mce-responses" class="clear">
-            <div class="response" id="mce-error-response" style="display:none"></div>
-            <div class="response" id="mce-success-response" style="display:none"></div>
           </div>
           <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_16b832d9ad4b28edf261f34df_2415c284b8" tabindex="-1" value=""></div>
         </div>

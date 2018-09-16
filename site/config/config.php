@@ -7,20 +7,20 @@ c::set('license', 'smashingconf');
 
 
 /* Local Development */
-c::set('url', 'http://localhost:8888');
-c::set('subfolder', 'false');
+#c::set('url', 'http://ba16.kirby');
+#c::set('subfolder', 'toronto-2018');
 
 /* Server Development */
-#c::set('url', 'https://smashingconf.com/dev');
-#c::set('subfolder', 'dev');
+#c::set('url', 'https://smashingconf.com/2015');
+#c::set('subfolder', '2015');
 
 /* Directory Install - Live */
-c::set('url', 'https://smashingconf.com/freiburg-2018');
-c::set('subfolder', 'freiburg-2018');
+#c::set('url', 'https://smashingconf.com/toronto-2018');
+#c::set('subfolder', 'toronto-2018');
 
 /* Root Install - Live */
-#c::set('url', 'https://smashingconf.com');
-#c::set('subfolder', false);
+c::set('url', 'https://smashingconf.com');
+c::set('subfolder', false);
 
 /*
 
@@ -68,7 +68,7 @@ c::set('url', 'https://yourdomain.com');
 
 */
 
-c::set('ssl', false);
+c::set('ssl', true);
 
 
 /*

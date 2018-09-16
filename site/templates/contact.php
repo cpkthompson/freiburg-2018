@@ -14,4 +14,6 @@
   </div>
   <?php endif ?>
 </section>
+<?php if($page->uid() != 'sponsors') snippet('sponsors') ?>
+<?php snippet('newsletter') ?>
 <?php snippet('footer') ?>

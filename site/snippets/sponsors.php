@@ -1,6 +1,6 @@
 <?php
 $sponsorsPage = $pages->find('sponsors');
-$sponsorsCats = $sponsorsPage->children()->visible()->find('platinum', 'wifi-lounge', 'gold', 'speaker-dinner-host', 'silver', 'bronze', 'coffee-sponsor', 'workshops-sponsor', 'party', 'jamsession', 'virtual');
+$sponsorsCats = $sponsorsPage->children()->visible()->find('platinum', 'gold', 'speaker-dinner-host', 'silver', 'bronze', 'workshops-sponsor', 'wifi-lounge', 'party', 'virtual', 'jamsession', 'coffee');
 $sponsors     = ($sponsorsCats) ? $sponsorsCats->children()->visible() : array();
 ?>
 <section class="spg">

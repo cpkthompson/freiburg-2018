@@ -50,4 +50,5 @@ $schedule = $schedule[str::ucfirst(str::lower($day))];
     <#?php endforeach ?>
   </table>-->
 </section>
+<?php if($page->uid() != 'sponsors') snippet('sponsors') ?>
 <?php snippet('footer') ?>

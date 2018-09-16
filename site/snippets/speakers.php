@@ -1,5 +1,7 @@
+<!--
 <div class="x">
 </div>
+-->
 <div class="ssg">
   <?php if(isset($headline)): ?>
   <h2><?php echo html($headline) ?></h2>
