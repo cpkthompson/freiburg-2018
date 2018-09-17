@@ -23,7 +23,7 @@
   </div>
   <?php endif ?>
   <?php
-    snippet('speakers', array('headline' => 'Speakers'))
+    snippet('speakers', array('headline' => 'First confirmed speakers:'))
   ?>
   <div class="bb">
     <?php echo kirbytext($page->updates()) ?>

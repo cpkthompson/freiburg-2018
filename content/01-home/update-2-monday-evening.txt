@@ -4,7 +4,7 @@ Title: Home
 
 Intro:
 
-<p><strong>Update (Monday, September 11th)</strong>: We hope you enjoyed the first day of the conference! Now - we hope you will join us back at the the <a href="https://www.google.de/maps/preview?ie=UTF-8&q=historisches+kaufhaus&fb=1&gl=de&hq=historisches+kaufhaus&hnear=0x47911b26560bd665:0x41f6bb7a5df57b0,Freiburg&cid=3051621356311743646&ei=7MYSVNGCMYPXyQP0voC4Ag&ved=0CC8QrwswAA">Historisches Kaufhaus</a> for the SmashingConf Party! Starting at 8:00PM, <strong>be sure to bring your badge to get in!</strong></p>
+<p><strong>Update (Monday, September 10th)</strong>: We hope you enjoyed the first day of the conference! Now - we hope you will join us back at the the <a href="https://www.google.de/maps/preview?ie=UTF-8&q=historisches+kaufhaus&fb=1&gl=de&hq=historisches+kaufhaus&hnear=0x47911b26560bd665:0x41f6bb7a5df57b0,Freiburg&cid=3051621356311743646&ei=7MYSVNGCMYPXyQP0voC4Ag&ved=0CC8QrwswAA">Historisches Kaufhaus</a> for the SmashingConf Party! Starting at 8:00PM, <strong>be sure to bring your badge to get in!</strong></p>
 
 <h2 style="font-size: 1.5em;">The Schedule At A Glance</h2>
 
@@ -19,7 +19,8 @@ We hope to see you back at 8 PM for the SmashingConf Party at <a href="http://sm
 Today we kick off at 10:00 PM, doors are open from 9:15 AM. This is the <a href="https://smashingconf.com/schedule/day:tuesday">schedule for day 2.</a>
 
 Snacks and coffee provided throughout the day.
-SmashingConf <a href="https://www.google.de/maps/place/Kastaniengarten+Biergarten/@47.992789,7.855567,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipP_ijkZOOMZCixCpP4SbFn0w69xxCA92U16_U1P!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP_ijkZOOMZCixCpP4SbFn0w69xxCA92U16_U1P%3Dw152-h86-k-no!7i4032!8i2268!4m8!1m2!2m1!1sbiergarten+greifenegg!3m4!1s0x0:0xb879f13ea1bb3fba!8m2!3d47.9926789!4d7.8554982?hl=en"><strong>Kastaniengarten Biergarten Networking event</strong></a>: we’ll meet in front of Historical Merchants’ Hall right after the conference ends (at around 6 PM)
+
+If you have signed up for the Ghost Walk, we will meet in front of the venue at 6:30 PM. The walk will take about an hour and a bit, and we may find us a place to sit for a beverage after and chat to some new friends!
 
 <hr />
 
@@ -31,12 +32,6 @@ We kick of the workshops at 9 AM. Doors open at 8:30 AM. Get some coffee on arri
 <li>Umar Hansa on <a href="https://smashingconf.com/workshops/umar-hansa">The Modern Front-End Workflow</a></li>
 <li>Rachel Andrew on <a href="https://smashingconf.com/workshops/rachel-andrew">Advanced CSS Layouts with Flexbox and CSS Grid</a></li>
 </ul>
-
-<hr />
-
-<h3>Transportation from Basel Airport to Freiburg</h3>
-<p>You can take the <a href="https://shop.flixbus.com/search?route=Basel+EuroAirport-Freiburg+%28i.Br.%29&rideDate=09.09.2018&adults=1&children=0&bikes=0&_locale=en&departureCity=8148&departureStation=&arrivalCity=92&arrivalStation=&currency=EUR">Airport Bus</a> from Basel Airport to Freiburg and back, for €20 for one trip. The bus departs once in an hour (check the <a href="https://shop.flixbus.com/search?route=Basel+EuroAirport-Freiburg+%28i.Br.%29&rideDate=09.09.2018&adults=1&children=0&bikes=0&_locale=en&departureCity=8148&departureStation=&arrivalCity=92&arrivalStation=&currency=EUR">time table</a>). The bus driver won’t accept credit cards, so please make sure to have <strong>€20 in cash </strong> with you or <a href="https://shop.flixbus.com/search?route=Basel+EuroAirport-Freiburg+%28i.Br.%29&rideDate=09.09.2018&adults=1&children=0&bikes=0&_locale=en&departureCity=8148&departureStation=&arrivalCity=92&arrivalStation=&currency=EUR">book your ticket</a> ahead of your trip.</p> 
-<p>A <strong>taxi</strong> will be quite pricey (€107) and needs to be <strong>pre-booked</strong> via phone (+49-761-555555) &mdash; make sure to have your Credit Card ready. Might be a good option if you’re traveling with friends or colleagues.</p>
 
 <hr />
 

@@ -1,0 +1,38 @@
+Title: Home
+
+----
+
+Intro:
+
+<p><strong>Update (Tuesday, September 11th)</strong>: It has been an amazing conference, have a safe trip home and thank you so much ! ❤️</p>
+
+We will be back in 2019 on September 9–10. 
+<strong><a href="https://smashingconf.com/freiburg-2019/registration">50 Super Early Bird tickets are now available  ↬</a></strong>
+
+<hr>
+
+<h3>Ghost Walking Tour 👻</h3>
+If you have signed up for the Ghost Walk, we will meet in front of the venue at 6:30 PM. The walk will take about an hour and a bit, and we may find us a place to sit for a beverage after and chat to some new friends!
+<hr />
+<h3>Helpful Resources</h3>
+<ul>
+    <li><a href="http://smashed.by/day01">Collaborative Google Doc - Day One</a></li>
+    <li><a href="http://smashed.by/day01">Collaborative Google Doc - Day Two</a></li>
+    <li><a href="https://www.smashed.by/feedback1">Feedback for Day 1</a></li>
+    <li><a href="https://www.smashed.by/feedback1">Feedback for Day 2</a></li>
+<li><a href="https://paper.dropbox.com/doc/SmashingConf-Freiburg-2018-Attendee-Handbook-TcVDH4oXylK0pimuld0WR">Attendee Pack PDF</a></li>
+<li><a href="https://smashingconf.com/attendees/">Attendee List</a></li>
+<li><a href="https://smashingconf.herokuapp.com/">SmashingConf Slack Channel</a></li>
+
+<li><a href="https://twitter.com/hashtag/smashingconf?f=tweets&vertical=default&src=hash">#smashingconf on Twitter</a></li>
+</ul>
+
+<!-- 
+<p><strong>Google Doc</strong>: <br />
+  <a href="http://smashed.by/day02">Collaborative Google Doc: Day 2</a><br /><a href="http://smashed.by/day01">Collaborative Google Doc: Day 1</a></p>
+  
+  <p><strong>Your feedback for speakers</strong>:<br />
+  <a href="https://www.smashed.by/feedback1">Feedback for Day 1</a><br />
+  <a href="https://www.smashed.by/feedback1">Feedback for Day 2</a></p> -->
+
+<p><strong>Finally</strong>, please respect our <a href="http://smashingconf.com/codeofconduct">Code of Conduct</a>.</p>

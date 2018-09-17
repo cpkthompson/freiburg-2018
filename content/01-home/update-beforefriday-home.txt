@@ -1,0 +1,37 @@
+Title: Home
+
+----
+
+Intro:
+
+<p><em>Home, sweet home!</em> The 7th <strong>SmashingConf Freiburg</strong> — in our lovely hometown in Germany — will be taking place in the <a href="https://smashingconf.com/locations">Historic Merchants’ Hall</a> on <strong>September 10-11</strong>. With one track, two days, 14 speakers and 260 attendees, expect  actionable insights for your work — right at the footsteps of the magical Black Forest.</p> 
+
+<p>We pour our heart into creating friendly,   inclusive events that are focused on real-world problems and solutions. Our focus is on <strong>front-end and UX</strong> but we cover everything web, be it UI design or machine learning. The Freiburg edition is of course no exception.</p>
+
+<p class="ttt">(link: registration text: Get the last few tickets →)</p>
+
+----
+
+<hr />
+
+<h3>Helpful Resources</h3>
+<ul>
+<li><a href="https://paper.dropbox.com/doc/SmashingConf-Freiburg-2018-Attendee-Handbook--AMYLPnjuSfuBdz6yBdFOXljOAg-TcVDH4oXylK0pimuld0WR">Attendee Pack PDF</a></li>
+<li><a href="https://smashingconf.com/attendees/">Attendee List</a></li>
+<li><a href="https://smashingconf.herokuapp.com/">SmashingConf Slack Channel</a></li>
+<li><a href="https://twitter.com/hashtag/smashingconf?f=tweets&vertical=default&src=hash">#smashingconf on Twitter</a></li>
+</ul>
+
+<p><strong>Finally</strong>, please mind our <a href="http://smashingconf.com/codeofconduct">Code of Conduct</a>. We are looking forward to seeing you in Freiburg — it’s going to be smashing! ;-)</p>
+
+----
+
+Updates:
+
+## Interested in sponsoring?
+
+<div class="cls" markdown="1">
+We pour our heart and soul into creating a friendly, memorable and inspiring community event for everybody involved. We keep the ticket prices as affordable as possible, and we’d be happy to <strong>welcome dear sponsors</strong> to make the event <em>smashing</em> in every possible way. Please (email: hello[@]smashingconf.com text: contact Mariona) and let’s make it happen!
+
+You can get all the latest updates about the event on this website, but why not let the news come to you? Feel free to (link: https://www.smashingmagazine.com/the-smashing-conference-list-join-in/ text: subscribe to our mailing list), (twitter: smashingconf text: follow us on Twitter) or search for the hashtag (link: https://twitter.com/smashingconf text: @smashingconf) to stay updated. We won’t spam you, and we’ll make sure our tweets are worth your time.
+</div>

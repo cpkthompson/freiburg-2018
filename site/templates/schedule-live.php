@@ -19,9 +19,9 @@ $schedule = $schedule[str::ucfirst(str::lower($day))];
   </div>
   <?php endif ?>
   <?php if($day == 'monday'): ?>
-  <h2 class="sh"><span>Monday, 11th</span> <small>|</small> <a href="<?php echo $page->url() . '/day:tuesday' ?>">Tuesday, 12th</a></h2>
+  <h2 class="sh"><span>Monday, 10th</span> <small>|</small> <a href="<?php echo $page->url() . '/day:tuesday' ?>">Tuesdy, 11th</a></h2>
   <?php else: ?>
-  <h2 class="sh"><a href="<?php echo $page->url() . '/day:monday' ?>">Monday, 11th</a> <small>|</small> <span>Tuesday, 12th</span></h2>
+  <h2 class="sh"><a href="<?php echo $page->url() . '/day:monday' ?>">Monday, 10th</a> <small>|</small> <span>Tuesday, 11th</span></h2>
   <?php endif; ?>
   <table class="s">
     <?php foreach($schedule['Track'] as $slot): ?>
@@ -49,4 +49,5 @@ $schedule = $schedule[str::ucfirst(str::lower($day))];
     <?php endforeach ?>
   </table>
 </section>
+<?php if($page->uid() != 'sponsors') snippet('sponsors') ?>
 <?php snippet('footer') ?>

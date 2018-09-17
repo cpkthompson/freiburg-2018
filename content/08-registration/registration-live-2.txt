@@ -1,8 +1,8 @@
-Title: We are sold out!
+Title: Get your ticket!
 ----
 Intro:
 <div class="cls" markdown="1">
-<strong>Uh-oh, the conference is sold out!</strong> We look forward to seeing you in Freiburg and safe travels, everyone. There is only <a href="https://smashingconf.com/workshops/josh-clark">1 ticket left</a> for Josh's workshop though. <!--Feel free to ping me anytime if you have any questions!If you need help convincing your company, you can download our (link: http://smashingconf.com/pdf/convince-your-boss-freiburg.pdf text: Convince-Your-Boss PDF) (0.2MB).-->
+Update: Tickets are sold out! We look forward to seeing you in Freiburg and safe travels for everyone! <!--Feel free to ping me anytime if you have any questions!If you need help convincing your company, you can download our (link: http://smashingconf.com/pdf/convince-your-boss-freiburg.pdf text: Convince-Your-Boss PDF) (0.2MB).-->
 
 <br /><br />
 
