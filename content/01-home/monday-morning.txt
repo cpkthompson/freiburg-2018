@@ -1,0 +1,109 @@
+Title: Home
+
+----
+
+Intro:
+
+Title: Home
+
+----
+
+Intro:
+
+<p><strong>Update (Monday, September 11th)</strong>: It’s showtime! The <strong>conference</strong> is taking place at the Historisches Kaufhaus (<a href="https://www.google.de/maps/preview?ie=UTF-8&q=historisches+kaufhaus&fb=1&gl=de&hq=historisches+kaufhaus&hnear=0x47911b26560bd665:0x41f6bb7a5df57b0,Freiburg&cid=3051621356311743646&ei=7MYSVNGCMYPXyQP0voC4Ag&ved=0CC8QrwswAA">Google Maps</a>), and the registration is open from 8:30AM. <strong>No printing is necessary!</strong> — help us save the trees! Just bring your ID with you, and we will give you your badge! You’ll be set for the rest of the conference! Easy.</p>
+
+<h2 style="font-size: 1.5em;">The Schedule At A Glance</h2>
+
+<h3>Monday, September 11th</h3>
+<strong>Wi-Fi</strong>: SmashingConf / Pass: icecream
+Kicking off the <strong>conference at 9:30AM</strong>! (<a href="https://smashingconf.com/schedule">Schedule for day 1.</a>)
+Snacks and coffee provided throughout the day. We also have charging stations in every other row in the main hall and at the Haufe lounge.
+SmashingConf Party back at the <a href="smashed.by/party">Historisches Kaufhaus</a> (<a href="http://smashed.by/party">Google Maps</a>), starting at 8:00PM. <strong>Don’t forget your badge!</strong></li>
+
+<hr />
+
+<h3>Tuesday, September 12th</h3>
+<a href="https://smashingconf.com/schedule/day:tuesday">Schedule for day 2.</a>
+Snacks and coffee provided throughout the day.
+SmashingConf <a href="https://www.google.de/maps/place/Kastaniengarten+Biergarten/@47.992789,7.855567,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipP_ijkZOOMZCixCpP4SbFn0w69xxCA92U16_U1P!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP_ijkZOOMZCixCpP4SbFn0w69xxCA92U16_U1P%3Dw152-h86-k-no!7i4032!8i2268!4m8!1m2!2m1!1sbiergarten+greifenegg!3m4!1s0x0:0xb879f13ea1bb3fba!8m2!3d47.9926789!4d7.8554982?hl=en"><strong>Kastaniengarten Biergarten Networking event</strong></a>: we’ll meet in front of Historical Merchants’ Hall right after the conference ends (at around 6:00PM)
+
+<hr />
+
+<h3>Wednesday, September 13th</h3>
+Workshops from 9 to 5 at (link: locations text: Historical Merchants’ Hall). Get some coffee on arrival. Lunch included.
+
+
+<p><strong>Workshops on Thursday:</strong></p>
+<ul><li>Alla Kholmatova on <a href="https://smashingconf.com/workshops/alla-kholmatova">Modular Design</a></li>
+<li>Umar Hansa on <a href="https://smashingconf.com/workshops/umar-hansa">The Modern Front-End Workflow</a></li>
+<li>Rachel Andrew on <a href="https://smashingconf.com/workshops/rachel-andrew">Advanced CSS Layouts with Flexbox and CSS Grid</a></li>
+</ul>
+
+<hr />
+
+<h3>Transportation from Basel Airport to Freiburg</h3>
+<p>You can take the <a href="https://shop.flixbus.com/search?route=Basel+EuroAirport-Freiburg+%28i.Br.%29&rideDate=10.09.2017&adults=1&children=0&bikes=0&_locale=en&departureCity=8148&departureStation=&arrivalCity=92&arrivalStation=&currency=EUR">Airport Bus</a> from Basel Airport to Freiburg and back, for €20 for one trip. The bus departs once in an hour (check the <a href="https://shop.flixbus.com/search?route=Basel+EuroAirport-Freiburg+%28i.Br.%29&rideDate=10.09.2017&adults=1&children=0&bikes=0&_locale=en&departureCity=8148&departureStation=&arrivalCity=92&arrivalStation=&currency=EUR">time table</a>). The bus driver won’t accept credit cards, so please make sure to have <strong>€20 in cash </strong> with you or <a href="https://shop.flixbus.com/search?route=Basel+EuroAirport-Freiburg+%28i.Br.%29&rideDate=10.09.2017&adults=1&children=0&bikes=0&_locale=en&departureCity=8148&departureStation=&arrivalCity=92&arrivalStation=&currency=EUR">book your ticket</a> ahead of your trip.</p> 
+<p>A <strong>taxi</strong> will be quite pricey (€107) and needs to be <strong>pre-booked</strong> via phone (+49-761-555555) &mdash; make sure to have your Credit Card ready. Might be a good option if you’re traveling with friends or collegues.</p>
+
+<!--<hr />
+
+<h3>Lunch options</h3
+<p>We’ll have plenty of coffee, nibbles, snacks and drinks throughout both conference days. Right in front of the conference venue, there will be a <a href="http://www.muenstermarkt.freiburg.de/pb/,Lde/527215.html">Farmers’ Market</a>, full of local goodies for you to grab!</p>
+<strong>Other nearby lunch options include:</strong>
+<ul>
+
+<li><a href="https://www.google.com/maps/dir/Historisches+Kaufhaus,+M%C3%BCnsterplatz,+Freiburg,+Germany/47.9971294,7.8498433/@47.9961173,7.8499737,18z/data=!3m1!4b1!4m9!4m8!1m5!1m1!1s0x47911c9973d3b551:0x2a59897493f50c9e!2m2!1d7.8527399!2d47.994953!1m0!3e2?hl=en-US">derfreiBurger</a> or <a href="https://www.google.com/maps/dir/Historisches+Kaufhaus,+M%C3%BCnsterplatz+24,+79098+Freiburg+im+Breisgau,+Germany/Burger+Chalet,+Niemensstra%C3%9Fe+9,+79098+Freiburg+im+Breisgau,+Germany/@47.9949441,7.8482012,17z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x47911c9973d3b551:0x2a59897493f50c9e!2m2!1d7.8527399!2d47.994953!1m5!1m1!1s0x47911c9eebdd85e3:0xf01e4e254733808b!2m2!1d7.8481032!2d47.9946754?hl=en-US">Burger Chalet</a>, tasty burgers from €5.</li>
+
+<li>mm! leckerbar (<a href="https://www.google.com/maps/dir/Historisches+Kaufhaus,+M%C3%BCnsterplatz,+Freiburg,+Germany/mm!+Leckerbar,+Kaiser-Joseph-Stra%C3%9Fe,+Freiburg,+Germany/@47.9960378,7.8497051,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47911c9973d3b551:0x2a59897493f50c9e!2m2!1d7.8527399!2d47.994953!1m5!1m1!1s0x47911c9be978687d:0x108f2a6b644a74dc!2m2!1d7.852825!2d47.9971227!3e2?hl=en-US">Google Maps</a>), providing delicious soups, salads and pasta  from €5.</li>
+
+<li><a href="https://www.google.com/maps/dir/Historisches+Kaufhaus,+M%C3%BCnsterplatz,+Freiburg,+Germany/VAPIANO+FREIBURG+Quartier+am+Fahnenbergplatz,+Fahnenbergplatz,+Freiburg,+Germany/@47.9967557,7.8482676,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47911c9973d3b551:0x2a59897493f50c9e!2m2!1d7.8527399!2d47.994953!1m5!1m1!1s0x47911c9c478d4df1:0x97503297ca311e38!2m2!1d7.8490798!2d47.998319!3e2?hl=en-US">Vapiano</a>, a chain restaurant for pizza, pasta and more. Vegan and gluten-free options available. Prices from €7.</li>
+
+<li><a href="http://thehummuscorner.com/EN/styled-3/index.html">Edo’s Hummus Küche</a>, a small restaurant in the "Dietler Passage" making tasty Hummus. (<a href="https://www.google.com/maps/dir/Historisches+Kaufhaus,+M%C3%BCnsterplatz+24,+79098+Freiburg+im+Breisgau,+Germany/Edo’s+Hummus+K%C3%BCche,+Gr%C3%BCnw%C3%A4lderstra%C3%9Fe+10-14,+79098+Freiburg+im+Breisgau,+Germany/@47.9943658,7.8503461,18z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x47911c9973d3b551:0x2a59897493f50c9e!2m2!1d7.8527399!2d47.994953!1m5!1m1!1s0x47911c99201cebd9:0xa101160db7f3be2e!2m2!1d7.850141!2d47.993829?hl=en-US">Google Maps</a>). Menus from €4.30, with wonderful gluten free and veggie options!</li>
+
+<li>For Sushi lovers, there’s a small and affordable <a href="http://sushibar-freiburg.de/">Sushi Bar</a>, also located in the <a href="https://www.google.de/maps/dir/Historisches+Kaufhaus,+M%C3%BCnsterplatz+24,+79098+Freiburg+im+Breisgau/Sushi+Bar,+Dietlerpassage,+Gr%C3%BCnw%C3%A4lderstra%C3%9Fe+10,+79098+Freiburg+im+Breisgau/@47.994833,7.8492398,17z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x47911c9973d3b551:0x2a59897493f50c9e!2m2!1d7.8527399!2d47.994953!1m5!1m1!1s0x47911c990311bfab:0x1c89385f394d5fac!2m2!1d7.850117!2d47.9940443">Dietler Passage</a>, with prices from €9.50 for one menu. Sushi experts are recommended to go to <a href="https://www.google.de/maps/dir/Historisches+Kaufhaus,+M%C3%BCnsterplatz+24,+79098+Freiburg+im+Breisgau/Basho-An,+Merianstra%C3%9Fe+10,+79098+Freiburg+im+Breisgau/@47.9962924,7.8499737,18z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x47911c9973d3b551:0x2a59897493f50c9e!2m2!1d7.8527399!2d47.994953!1m5!1m1!1s0x47911c9c4a5edf0f:0xed511050bf89306e!2m2!1d7.8496766!2d47.9976319">Basho-an</a>, a Japanese upscale restaurant with great lunch options from €18.</li> 
+
+<li>And the "Markthalle", a covered market with dozens of small intl. food stores (Greek, Brazilian, Italian, Chinese, Indian cuisine, and more). (<a href="https://www.google.com/maps/dir/Historisches+Kaufhaus,+M%C3%BCnsterplatz+24,+79098+Freiburg+im+Breisgau,+Germany/Markthalle+Freiburg,+Gr%C3%BCnw%C3%A4lderstra%C3%9Fe+4,+79098+Freiburg+im+Breisgau,+Germany/@47.9948625,7.8501726,18z/data=!4m15!4m14!1m5!1m1!1s0x47911c9973d3b551:0x2a59897493f50c9e!2m2!1d7.8527399!2d47.994953!1m5!1m1!1s0x47911c9ed2d108ef:0x997b8fb7dab30cf4!2m2!1d7.8497939!2d47.994114!3e2!5i1?hl=en-US">Google Maps</a>). Prices from €7.</li>
+</ul>
+
+<hr />
+
+<h3>Helpful Resources</h3>
+<ul>
+<li><a href="https://paper.dropbox.com/doc/SmashingConf-Freiburg-2017-Attendee-Handbook-P4Se2cnarZ3he9EEyeu2r">Attendee Pack PDF</a></li>
+<li><a href="https://smashingconf.com/attendees/">Attendee List</a></li>
+<li><a href="https://smashingconf.herokuapp.com/">SmashingConf Slack Channel</a></li>
+<li><a href="https://twitter.com/hashtag/smashingconf?f=tweets&vertical=default&src=hash">#smashingconf on Twitter</a></li>
+</ul>
+
+<p><strong>Finally</strong>, please mind our <a href="http://smashingconf.com/codeofconduct">Code of Conduct</a>. We are looking forward to seeing you in Freiburg — it’s going to be smashing! ;-)</p>-->
+
+----
+
+Updates:
+
+## Interested in sponsoring?
+
+<div class="cls" markdown="1">
+We pour our heart and soul into creating a friendly, memorable and inspiring community event for everybody involved. We keep the ticket prices as affordable as possible, and we’d be happy to <strong>welcome dear sponsors</strong> to make the event <em>smashing</em> in every possible way. Please (email: mac[@]smashingconf.com text: contact Mariona) and let’s make it happen!
+
+You can get all the latest updates about the event on this website, but why not let the news come to you? Feel free to (link: https://www.smashingmagazine.com/the-smashing-conference-list-join-in/ text: subscribe to our mailing list), (twitter: smashingconf text: follow us on Twitter) or search for the hashtag (link: https://twitter.com/smashingconf text: @smashingconf) to stay updated. We won’t spam you, and we’ll make sure our tweets are worth your time.
+</div>
+
+
+<p>Check our <a href="https://paper.dropbox.com/doc/SmashingConf-Freiburg-2017-Attendee-Handbook-P4Se2cnarZ3he9EEyeu2r?mc_cid=7e4adc8ef0&mc_eid=461c33665c">Attendee Handbook</a> (link goes to Dropbox Paper) as well as our <a href="attendees">attendee list</a>.</p>
+
+<p class="hsh"><strong><a href="https://twitter.com/smashingconf">@smashingconf</a></strong></p>
+
+<p class="ttt">(link: registration text: All conference tickets are sold out!)</p>
+
+----
+
+Updates:
+
+## Interested in sponsoring?
+
+<div class="cls" markdown="1">
+We pour our heart and soul into creating a friendly, memorable and inspiring community event for everybody involved. We keep the ticket prices as affordable as possible, and we’d be happy to <strong>welcome dear sponsors</strong> to make the event <em>smashing</em> in every possible way. Please (email: hello[@]smashingconf.com text: contact Mariona) and let’s make it happen!
+
+You can get all the latest updates about the event on this website, but why not let the news come to you? Feel free to (link: https://www.smashingmagazine.com/the-smashing-conference-list-join-in/ text: subscribe to our mailing list), (twitter: smashingconf text: follow us on Twitter) or search for the hashtag (link: https://twitter.com/smashingconf text: @smashingconf) to stay updated. We won’t spam you, and we’ll make sure our tweets are worth your time.
+</div>
