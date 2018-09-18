@@ -16,10 +16,9 @@ We value your feedback on our speakers for <a href="https://www.smashed.by/feedb
 
 <h3>And other helpful Resources</h3>
 <ul>
-<li><a href="http://smashed.by/day02">Collaborative Google Doc: Day 2</a></li>
 <li><a href="http://smashed.by/day01">Collaborative Google Doc: Day 1</a></li>
+<li><a href="http://smashed.by/day02">Collaborative Google Doc: Day 2</a></li>
 <li><a href="https://paper.dropbox.com/doc/SmashingConf-Freiburg-2018-Attendee-Handbook-TcVDH4oXylK0pimuld0WR">Attendee Pack PDF</a></li>
-<li><a href="https://smashingconf.com/attendees/">Attendee List</a></li>
 <li><a href="https://smashingconf.herokuapp.com/">SmashingConf Slack Channel</a></li>
 <li><a href="https://twitter.com/hashtag/smashingconf?f=tweets&vertical=default&src=hash">#smashingconf on Twitter</a></li>
 </ul>
