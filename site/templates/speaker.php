@@ -18,7 +18,9 @@ foreach($schedule as $key => $day) {
 <section class="c prf speaker">
   <h1><?php echo html($page->title()) ?></h1>
   <div class="iim">
-    <a class="i ilk" href="<?php echo $page->link() ?>"><?php echo thumb($page->images()->first(), array('crop' => true, 'width' => 250, 'height' => 250)) ?></a>
+    <div class="ia">
+      <a class="i ilk" href="<?php echo $page->link() ?>"><?php echo thumb($page->images()->first(), array('crop' => true, 'width' => 250, 'height' => 250)) ?></a>
+    </div>
     <div class="nf">
       <div class="io">
         <?php echo kirbytext($page->bio()) ?>

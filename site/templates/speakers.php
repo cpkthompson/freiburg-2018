@@ -17,7 +17,9 @@
     <?php if($speaker->workshop() != '') continue; ?>
     <li id="<?php echo $speaker->uid() ?>">
       <div class="iim">
-        <a class="i ilk" href="<?php echo $speaker->url() ?>"><?php echo thumb($speaker->images()->first(), array('crop' => true, 'width' => 250, 'height' => 250)) ?></a>
+        <div class="ia">
+          <a class="i ilk" href="<?php echo $speaker->url() ?>"><?php echo thumb($speaker->images()->first(), array('crop' => true, 'width' => 250, 'height' => 250)) ?></a>
+        </div>
         <div class="nf">
           <h3><a href="<?php echo $speaker->url() ?>"><?php echo html($speaker->title()) ?></a></h3>
           <?php echo kirbytext($speaker->bio()) ?>
