@@ -16,7 +16,9 @@
     <?php foreach($pages->find('workshops')->children()->visible() as $workshop): ?>
     <li<?php if($workshop->sold_out() == 'yes') echo ' class="so"' ?>>
       <div class="iim">
-        <a class="i ilk" href="<?php echo $workshop->url() ?>"><?php echo thumb($workshop->images()->first(), array('crop' => true, 'width' => 250, 'height' => 250)) ?></a>
+        <div class="ia">
+          <a class="i ilk" href="<?php echo $workshop->url() ?>"><?php echo thumb($workshop->images()->first(), array('crop' => true, 'width' => 250, 'height' => 250)) ?></a>
+        </div>
         <div class="nf">
           <h3><a href="<?php echo $workshop->url() ?>"><?php echo html($workshop->title()) ?></a></h3>
           <h4>with <?php echo html($workshop->trainer()) ?></h4>

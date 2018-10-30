@@ -20,7 +20,9 @@
         <?php foreach($category->children() as $sponsor): ?>
         <li>
           <div class="iim" id="<?php echo $sponsor->uid() ?>">
-            <a class="i bi ilk" href="<?php echo $sponsor->link() ?>"><?php echo thumb($sponsor->images()->first()) ?></a>
+            <div class="ia">
+              <a class="i bi ilk" href="<?php echo $sponsor->link() ?>"><?php echo thumb($sponsor->images()->first()) ?></a>
+            </div>
             <div class="nf">
               <h3><a href="<?php echo $sponsor->link() ?>"><?php echo html($sponsor->title()) ?></a></h3>
               <?php echo kirbytext($sponsor->text()) ?>
