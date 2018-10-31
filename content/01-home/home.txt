@@ -3,13 +3,25 @@ Title: Home
 ----
 
 Intro:
-<p><strong>Update (Wednesday, September 12th)</strong>: The conference is over but the memories remain! This has been an amazing few days and we are humbled, honored, and grateful to have you at our conference. We sincerely thank you for coming, and we hope you were able to learn something new, meet some old and new friends, and that you’ve had a good time after all. Thank you.</p>
+<strong>Update (Wednesday, September 12th)</strong>: The conference is over but the memories remain! This has been an amazing few days and we are humbled, honored, and grateful to have you at our conference.
 
-<p>We will be publishing the slides and videos as soon as we have them all in. Want to stay updated? <a href="https://www.twitter.com/smashingconf">Follow on Twitter</a>.</p>
+We sincerely thank you for coming, and we hope you were able to learn something new, meet some old and new friends, and that you’ve had a good time after all. Thank you.
 
 We will be back in 2019 on September 9–10. 
 <strong><a href="https://smashingconf.com/freiburg-2019/registration">50 Super Early Bird tickets are now available  ↬</a></strong>
 <hr>
+
+<h3>📹 Video's</h3>
+* Tammy Everts - [The Small Things That Add Up](https://vimeo.com/297828304)
+* Ian Feather - [Building Resilient Frontend Systems](https://vimeo.com/297829767)
+* Chui Chui Tan - [Designing for Global Audiences](https://vimeo.com/297829238)
+* Morten R.-Hendriksen - [I Thought we Were Building World Peace](https://vimeo.com/297827456)
+* Seb Lee-Delisle - [Hack to the Future](https://vimeo.com/297827821)
+* Trine Falbe - [Designing for Kids is not a Game](https://vimeo.com/297828567)
+* Yoav Weiss - [Taking Back Control Over Third-party Content](https://vimeo.com/297828895)
+* Andrea Drugay - [A Word to the Wise: Writing Product Copy to Transform Your User Experience](https://vimeo.com/297829604)
+
+<br>
 
 <h3>Your feedback for speakers</h3>
 We value your feedback on our speakers for <a href="https://www.smashed.by/feedback1">day 1</a> and <a href="https://www.smashed.by/feedback2">day 2</a>.</p>

@@ -6,7 +6,7 @@
       <img src="<?php echo $pages->find('home')->images()->first()->url() ?>" alt="<?php echo html($site->title()) ?>" class="img-photo" />
       <a href="https://twitter.com/smashingconf" class="twitter">@smashingconf</a>
     </div>
-    <div class="io">
+    <div class="">
       <?php if($page->intro() != ''): ?>
       <?php echo kirbytext($page->intro()) ?>
       <?php endif ?>
